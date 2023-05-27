@@ -34,7 +34,9 @@ avoid = {
     'Llamageddon': 1, 'The Thirteenth Year': 1, 'The Book of Boba Fett': 1, 
     'Bushworld Adventures': 1, 'Obi-Wan Kenobi': 1, 'Black Mirror: The National Anthem': 1, 
     'Black Mirror: Fifteen Million Merits': 1, 'Black Mirror: White Bear': 1, 
-    'Black Mirror: Nosedive': 1, 'Black Mirror: Playtest': 1, 'Black Mirror: Shut Up and Dance': 1
+    'Black Mirror: Nosedive': 1, 'Black Mirror: Playtest': 1, 'Black Mirror: Shut Up and Dance': 1,
+    'Love, Death & Robots: Ice Age': 1, 'history of the entire world, i guess': 1,
+    'A Lifetime of Sundays': 1
     }
 
 # Functions
@@ -99,7 +101,7 @@ def gatherData(user):
                                        'Country of Origin'])
     
     # converts the dataframe into a csv
-    path = os.getcwd() + '/' + user + '/' + user + 'datatest.csv'
+    path = os.getcwd() + '/' + user + '/' + user + 'data.csv'
     df.to_csv(path, index = 'False')
     
     stats(user) # creates a csv of summary statistics of the movie data
