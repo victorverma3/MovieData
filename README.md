@@ -41,9 +41,7 @@ and time (see other tutorials online to install these).
 Next, the user should customize the path variable in the gatherData() 
 function in moviedata.py with the local path to their Letterboxd ratings 
 CSV (e.g. victorratings.csv). Be sure to not change the user variable in 
-this path. For example, my path variable is path = 
-'/Users/victor/Dropbox/VictorVerma/Projects/MovieRecs/Data/' + user + 
-'ratings.csv'.
+this path. For example, my path variable is path = f'./data/{user}ratings.csv'
 
 Lastly, the user should create a folder in the same directory as 
 moviedata.py and moviestats.py that shares the name of the user. For 
@@ -66,9 +64,7 @@ The gatherData() function also automatically uses the stats() function in
 moviestats.py to calculate some basic statistics about the data. To do so, 
 the path variable in the stats() function should be set with the local 
 path to the data CSV that was created in the previous step. For example, 
-my path variable is path = 
-'/Users/victor/Dropbox/VictorVerma/Projects/MovieRecs/Src/' + user + 
-'data.csv'. Optionally, the user can also independently call the stats() 
+my path variable is path = f'./data/{user}ratings.csv'. Optionally, the user can also independently call the stats() 
 function with the parameter of the user's name (as a string) corresponding 
 to their Letterboxd data file, if their data has already been compiled. 
 For example, because my data file is called victordata.csv, I would call 
