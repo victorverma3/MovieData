@@ -50,7 +50,7 @@ def gatherData(user):
     start = time.perf_counter() # starts timer for program
    
     # customize the path variable with the local path to your Letterboxd ratings file
-    path = os.getcwd() + '/data/' + user + 'ratings.csv'
+    path = f'./data/{user}ratings.csv'
     
     r = readRatings(path)
     
@@ -80,7 +80,7 @@ def gatherData(user):
                 genres += [info[4]]
                 countries += [info[5]]
             except Exception as exc:
-                print('%r movie generated an exception: %s' % (info, exc))
+                print(f'{info} movie generated an exception: {exc}')
     
     # creates a dictionary storing all of the data
     data = {
@@ -101,7 +101,7 @@ def gatherData(user):
                                        'Country of Origin'])
     
     # converts the dataframe into a csv
-    path = os.getcwd() + '/' + user + '/' + user + 'data.csv'
+    path = f'./{user}/{user}data.csv'
     df.to_csv(path, index = 'False')
     
     stats(user) # creates a csv of summary statistics of the movie data

@@ -19,11 +19,11 @@ def stats(user):
         Letterboxd rating. '''
     
     # customize the path variable with the local path to your data file
-    path = os.getcwd() + '/' + user + '/' + user
+    path = f'./{user}/{user}'
     
     dataframe = readData(path + 'data.csv', user)
     
-    path = os.getcwd() + '/' + user + '/' + user + 'stats.csv'
+    path = f'./{user}/{user}stats.csv'
     dataframe.to_csv(path, index = 'False') # converts statistics to CSV
     
 def readData(path, user):
@@ -35,13 +35,13 @@ def readData(path, user):
     data = pd.read_csv(path, index_col = None, encoding = 'latin-1', encoding_errors = 'ignore')
    
     # creates histogram distributions of the movie data and saves them as pdfs
-    path = os.getcwd() + '/' + user + '/' + user
+    path = f'./{user}/{user}'
     data.hist(column = 'User Rating', grid = False)
-    plt.savefig(path + 'UR.pdf')
+    plt.savefig(f'{path}UR.pdf')
     data.hist(column = 'Letterboxd Rating', grid = False)
-    plt.savefig(path + 'LR.pdf')
+    plt.savefig(f'{path}LR.pdf')
     data.hist(column = 'Letterboxd Rating Count', grid = False)
-    plt.savefig(path + 'LRC.pdf')
+    plt.savefig(f'{path}LRC.pdf')
     
     statistics = {
         'Statistic': ['Mean', 'Standard Deviation', 'Variation'],
