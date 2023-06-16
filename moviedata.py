@@ -28,17 +28,6 @@ import time
     - Any title with Pokemon in it
 '''
 
-'''avoid = {
-    'Swamp Freak': 1, 'Game Over, Man!': 1, 'Airline Disaster: Crash of the Century': 1,
-    'Kick': 1, 'Scooby-Doo! Legend of the Phantosaur': 1, 'Zombie Tidal Wave': 1,
-    'Llamageddon': 1, 'The Thirteenth Year': 1, 'The Book of Boba Fett': 1, 
-    'Bushworld Adventures': 1, 'Obi-Wan Kenobi': 1, 'Black Mirror: The National Anthem': 1, 
-    'Black Mirror: Fifteen Million Merits': 1, 'Black Mirror: White Bear': 1, 
-    'Black Mirror: Nosedive': 1, 'Black Mirror: Playtest': 1, 'Black Mirror: Shut Up and Dance': 1,
-    'Love, Death & Robots: Ice Age': 1, 'history of the entire world, i guess': 1,
-    'A Lifetime of Sundays': 1
-    }'''
-
 # Functions
 def gatherData(user):
     ''' Takes as input a user's name, and returns a list of movies with incomplete
@@ -124,9 +113,6 @@ def readRatings(path):
     
     # iterates through all movies in the user's Letterboxd ratings file
     while row < len(df):
-        '''if df['Name'][row] in avoid: # skips movies known to be missing data points
-            row += 1
-            continue'''
         r += [[df['Name'][row], df['Letterboxd URI'][row], df['Rating'][row]]]
         row += 1
     return r
