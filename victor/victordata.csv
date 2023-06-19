@@ -1,991 +1,994 @@
 ,Title,User Rating,Letterboxd Rating,Letterboxd Rating Count,Genres,Country of Origin
-0,Avengers: Infinity War,5.0,4.0,1350301,"['Adventure', 'Action', 'Science Fiction']",USA
-1,The Assassin's Code,3.0,2.69,135,"['Thriller', 'Action']",USA
-2,Murder Mystery,4.0,2.75,186764,"['Action', 'Mystery', 'Comedy']",USA
-3,The Poison Rose,3.0,1.77,3185,"['Thriller', 'Crime']",USA
-4,Megalodon,3.0,1.9,1819,"['Horror', 'Science Fiction', 'TV Movie', 'Action']",USA
-5,Now You See Me 2,4.0,2.97,229180,"['Action', 'Crime', 'Mystery', 'Thriller']",Hong Kong
-6,Get Out,5.0,4.2,1527953,"['Thriller', 'Horror', 'Mystery']",USA
-7,The Woman in the Window,4.0,2.46,139485,"['Crime', 'Drama', 'Mystery', 'Thriller']",USA
-8,Knives Out,5.0,4.06,1661657,"['Comedy', 'Mystery', 'Crime']",USA
-9,Kong: Skull Island,3.0,3.08,300608,"['Action', 'Fantasy', 'Adventure']",China
-10,Avengers: Endgame,5.0,3.92,1298178,"['Adventure', 'Science Fiction', 'Action']",USA
-11,Arrival,4.5,4.07,969989,"['Drama', 'Science Fiction', 'Mystery']",Canada
-12,Captain America: Civil War,5.0,3.62,899507,"['Action', 'Science Fiction', 'Adventure']",USA
-13,An Inspector Calls,4.5,3.41,7918,"['Thriller', 'Mystery', 'Drama', 'TV Movie', 'Crime']",UK
-14,The Martian,4.0,3.73,725269,"['Drama', 'Science Fiction', 'Adventure']",UK
-15,Star Wars: The Force Awakens,4.0,3.39,892207,"['Science Fiction', 'Action', 'Adventure']",USA
-16,Everest,4.0,3.17,89913,"['History', 'Drama', 'Adventure']",Iceland
-17,Draft Day,3.5,2.97,27657,['Drama'],USA
-18,San Andreas,3.5,2.52,111940,"['Thriller', 'Action', 'Drama']",Canada
-19,Terminator Genisys,3.5,2.25,92649,"['Science Fiction', 'Adventure', 'Thriller', 'Action']",Canada
-20,Mission: Impossible - Rogue Nation,3.5,3.63,223527,"['Adventure', 'Action']",USA
-21,Captain America: The Winter Soldier,5.0,3.76,826111,"['Action', 'Adventure', 'Science Fiction']",USA
-22,Interstellar,5.0,4.3,1453318,"['Science Fiction', 'Drama', 'Adventure']",UK
-23,Non-Stop,3.5,3.0,72434,"['Action', 'Thriller', 'Mystery']",Canada
-24,Kingsman: The Secret Service,4.5,3.72,588291,"['Action', 'Comedy', 'Crime', 'Adventure']",UK
-25,Welcome to the Jungle,3.5,2.18,2743,['Comedy'],UK
-26,The Wolf of Wall Street,4.0,4.01,1305418,"['Comedy', 'Drama', 'Crime']",USA
-27,Chinese Zodiac,4.0,2.65,6367,"['Adventure', 'Action']",China
-28,Jack Reacher,4.5,3.14,104693,"['Action', 'Crime', 'Drama', 'Thriller']",USA
-29,Mission: Impossible - Ghost Protocol,3.5,3.65,220653,"['Thriller', 'Action', 'Adventure']",USA
-30,The Other Guys,4.0,3.24,170065,"['Comedy', 'Crime', 'Action']",USA
-31,Sinister,4.5,3.34,214935,"['Thriller', 'Mystery', 'Horror']",Canada
-32,Empire State,3.5,2.29,4108,"['Drama', 'Action']",USA
-33,Night at the Museum: Battle of the Smithsonian,3.0,2.81,157164,"['Fantasy', 'Comedy', 'Action', 'Family', 'Adventure']",USA
-34,The Conjuring,5.0,3.62,519685,"['Horror', 'Thriller']",USA
-35,Hugo,3.0,3.47,250903,"['Adventure', 'Family', 'Drama']",France
-36,The Expendables,3.5,2.72,102779,"['Action', 'Adventure', 'Thriller']",Bulgaria
-37,The Karate Kid,3.0,2.91,170408,"['Adventure', 'Drama', 'Action', 'Family']",China
-38,Avatar,3.5,3.56,951790,"['Adventure', 'Action', 'Science Fiction', 'Fantasy']",USA
-39,The Haunting in Connecticut,3.5,2.6,18389,"['Horror', 'Thriller']",USA
-40,Zodiac,4.5,3.98,696466,"['Mystery', 'Thriller', 'Drama', 'Crime']",USA
-41,Hot Fuzz,4.5,4.05,444363,"['Action', 'Crime', 'Comedy']",France
-42,Angels & Demons,4.5,3.05,89863,"['Thriller', 'Mystery']",Italy
-43,When a Stranger Calls,4.0,2.48,25715,"['Horror', 'Mystery']",USA
-44,Silent Hill,3.5,3.08,100278,"['Horror', 'Mystery']",Canada
-45,The Uninvited,3.5,2.84,22348,['Horror'],USA
-46,The Departed,5.0,4.21,590594,"['Thriller', 'Drama', 'Crime']",Hong Kong
-47,Shutter Island,5.0,4.09,1016137,"['Thriller', 'Mystery', 'Drama']",USA
-48,The Da Vinci Code,4.5,3.05,187832,"['Thriller', 'Mystery']",USA
-49,The Bourne Ultimatum,4.0,3.63,156062,"['Drama', 'Action', 'Mystery', 'Thriller']",France
-50,United 93,4.0,3.65,35982,"['Crime', 'Drama', 'Action', 'Thriller', 'History']",France
-51,Inside Man,4.0,3.61,129923,"['Drama', 'Thriller', 'Crime']",USA
-52,Red Eye,4.0,3.17,81843,"['Mystery', 'Thriller']",USA
-53,Chaos,4.0,2.77,5908,"['Action', 'Drama', 'Crime']",Canada
-54,King Kong,3.5,3.33,211276,"['Action', 'Adventure', 'Drama']",New Zealand
-55,Ocean's Twelve,4.0,3.23,210557,"['Crime', 'Thriller']",USA
-56,The Medallion,4.0,2.29,14923,"['Action', 'Thriller', 'Comedy', 'Fantasy']",Hong Kong
-57,Shanghai Knights,4.5,2.77,36046,"['Comedy', 'Adventure', 'Action', 'Western']",Hong Kong
-58,Out of Time,4.0,3.0,12340,"['Thriller', 'Drama', 'Crime']",USA
-59,Spider-Man 2,4.5,3.88,749408,"['Adventure', 'Action', 'Fantasy']",USA
-60,Mystic River,4.0,3.77,169832,"['Drama', 'Mystery', 'Crime', 'Thriller']",USA
-61,Catch Me If You Can,4.5,4.01,716586,"['Drama', 'Crime']",USA
-62,Harry Potter and the Prisoner of Azkaban,4.5,4.1,864204,"['Adventure', 'Fantasy']",UK
-63,National Treasure,5.0,3.24,190072,"['Mystery', 'Adventure', 'Action', 'Thriller']",USA
-64,Star Wars: Episode II - Attack of the Clones,4.0,2.75,596032,"['Action', 'Science Fiction', 'Adventure']",USA
-65,Minority Report,4.5,3.68,242339,"['Action', 'Science Fiction', 'Mystery', 'Thriller']",USA
-66,The Bourne Identity,4.5,3.67,216000,"['Drama', 'Thriller', 'Action', 'Mystery']",USA
-67,Spider-Man,4.5,3.77,831141,"['Fantasy', 'Action']",USA
-68,Murder by Numbers,4.0,2.81,15294,"['Drama', 'Thriller', 'Crime']",USA
-69,Harry Potter and the Philosopher's Stone,4.0,3.79,845853,"['Fantasy', 'Adventure']",UK
-70,Harry Potter and the Chamber of Secrets,4.0,3.63,726174,"['Adventure', 'Fantasy']",UK
-71,Rush Hour 2,4.5,3.25,98706,"['Comedy', 'Action', 'Crime']",USA
-72,Swordfish,4.0,2.64,33704,"['Action', 'Crime', 'Thriller']",Australia
-73,Harry Potter and the Goblet of Fire,4.0,3.81,721284,"['Fantasy', 'Family', 'Adventure']",UK
-74,Cast Away,3.5,3.8,314545,"['Adventure', 'Drama']",USA
-75,The Others,4.5,3.72,171405,"['Thriller', 'Horror', 'Mystery']",France
-76,Unbreakable,4.5,3.65,254637,"['Thriller', 'Drama', 'Mystery']",USA
-77,Blue Streak,4.0,2.96,22168,"['Crime', 'Comedy', 'Action']",Germany
-78,X-Men,4.0,3.32,296942,"['Adventure', 'Action', 'Science Fiction']",USA
-79,What Lies Beneath,4.0,3.1,40033,"['Horror', 'Mystery', 'Thriller', 'Drama']",USA
-80,The Art of War,4.0,2.47,4534,"['Action', 'Adventure', 'Crime']",Canada
-81,Star Wars: Episode I - The Phantom Menace,4.0,2.84,645419,"['Action', 'Science Fiction', 'Adventure']",USA
-82,The Sixth Sense,4.5,3.97,436807,"['Drama', 'Mystery', 'Thriller']",USA
-83,Rush Hour,5.0,3.47,163968,"['Comedy', 'Crime', 'Action']",USA
-84,Blade,4.0,3.4,148014,"['Horror', 'Action']",USA
-85,I Know What You Did Last Summer,4.5,2.95,122704,"['Thriller', 'Mystery', 'Horror']",USA
-86,True Crime,4.0,3.1,8121,"['Action', 'Drama', 'Mystery', 'Crime', 'Thriller']",USA
-87,Snake Eyes,4.0,3.24,39947,"['Crime', 'Thriller', 'Mystery']",Canada
-88,The Game,4.5,3.7,239327,"['Thriller', 'Drama', 'Mystery']",USA
-89,Face/Off,5.0,3.45,146693,"['Science Fiction', 'Thriller', 'Crime', 'Action']",USA
-90,The Lost World: Jurassic Park,4.0,3.08,241774,"['Science Fiction', 'Action', 'Adventure']",USA
-91,Con Air,4.0,3.35,100769,"['Thriller', 'Crime', 'Action']",USA
-92,Anaconda,3.5,2.35,64798,"['Adventure', 'Thriller', 'Horror']",Brazil
-93,Scream,5.0,4.09,634840,"['Crime', 'Mystery', 'Horror']",USA
-94,The Rock,4.0,3.49,91807,"['Action', 'Thriller', 'Adventure']",USA
-95,The Fifth Element,3.5,3.71,215370,"['Science Fiction', 'Adventure', 'Action', 'Thriller', 'Fantasy']",France
-96,Mission: Impossible,4.5,3.54,251429,"['Adventure', 'Thriller', 'Action']",USA
-97,Freefall: Flight 174,4.0,3.09,72,"['Drama', 'TV Movie']",USA
-98,Jumanji,3.5,3.57,307470,"['Fantasy', 'Family', 'Adventure']",USA
-99,Speed,4.0,3.63,184037,"['Adventure', 'Action', 'Crime']",USA
-100,Mrs. Doubtfire,4.0,3.57,192549,"['Comedy', 'Drama', 'Family']",USA
-101,Arachnophobia,4.0,3.2,32708,"['Horror', 'Comedy']",USA
-102,Jurassic Park,5.0,4.1,788212,"['Science Fiction', 'Adventure']",USA
-103,Total Recall,4.0,3.75,165383,"['Action', 'Science Fiction', 'Adventure']",USA
-104,Home Alone 2: Lost in New York,3.5,3.41,333582,"['Comedy', 'Adventure', 'Family']",USA
-105,Tremors,5.0,3.51,103677,"['Comedy', 'Horror', 'Action']",USA
-106,Terminator 2: Judgment Day,5.0,4.21,388194,"['Thriller', 'Action', 'Science Fiction']",USA
-107,Island of Fire,3.5,2.68,1592,"['Drama', 'Crime', 'Action']",Hong Kong
-108,"Honey, I Shrunk the Kids",3.5,3.1,84884,"['Comedy', 'Family', 'Science Fiction', 'Adventure']",USA
-109,Coming to America,4.5,3.53,122271,"['Romance', 'Comedy']",USA
-110,Indiana Jones and the Last Crusade,5.0,4.03,344921,"['Adventure', 'Action']",USA
-111,The Fly,4.0,3.94,213608,"['Science Fiction', 'Horror']",Canada
-112,Back to the Future,4.5,4.19,893249,"['Adventure', 'Comedy', 'Science Fiction']",USA
-113,Police Story,5.0,3.98,61312,"['Action', 'Crime', 'Thriller']",Hong Kong
-114,Return of the Jedi,5.0,4.02,711814,"['Science Fiction', 'Adventure', 'Action']",USA
-115,Beverly Hills Cop,4.5,3.59,93513,"['Action', 'Comedy', 'Crime']",USA
-116,The Lady Vanishes,4.0,2.88,859,"['Thriller', 'Romance', 'Comedy', 'Mystery']",UK
-117,The Man Who Saw Tomorrow,4.0,2.74,206,"['Documentary', 'Drama']",USA
-118,Superman,3.5,3.64,96426,"['Action', 'Adventure', 'Science Fiction']",UK
-119,Drunken Master,4.5,3.71,27991,"['Action', 'Comedy']",Hong Kong
-120,The Empire Strikes Back,5.0,4.39,858463,"['Science Fiction', 'Adventure', 'Action']",USA
-121,Raiders of the Lost Ark,5.0,4.16,528584,"['Adventure', 'Action']",USA
-122,E.T. the Extra-Terrestrial,4.5,3.83,490087,"['Family', 'Fantasy', 'Science Fiction', 'Adventure']",USA
-123,Star Wars,5.0,4.19,956603,"['Adventure', 'Action', 'Science Fiction']",USA
-124,The Godfather: Part II,5.0,4.54,483936,"['Drama', 'Crime']",USA
-125,Jaws,4.5,3.97,593511,"['Thriller', 'Horror', 'Adventure']",USA
-126,Dangerous Lies,4.0,2.06,14768,['Thriller'],Canada
-127,The Godfather,5.0,4.54,884461,"['Crime', 'Drama']",USA
-128,Rear Window,5.0,4.31,344372,"['Thriller', 'Mystery']",USA
-129,The Machinist,4.0,3.7,169220,"['Drama', 'Thriller']",Belgium
-130,Red Notice,4.5,2.58,215161,"['Crime', 'Comedy', 'Thriller', 'Action']",USA
-131,Starsky & Hutch,4.0,2.78,53287,"['Comedy', 'Crime']",USA
-132,Chinatown,4.5,4.21,218843,"['Crime', 'Drama', 'Mystery', 'Thriller']",USA
-133,The Interview,4.5,2.91,233223,"['Action', 'Comedy']",USA
-134,Candyman,4.0,3.66,140822,"['Drama', 'Thriller', 'Horror']",USA
-135,The Amazing Spider-Man,4.0,3.28,638972,"['Action', 'Fantasy', 'Adventure']",USA
-136,The Amazing Spider-Man 2,4.0,2.9,508756,"['Fantasy', 'Action', 'Adventure']",USA
-137,Wind River,4.0,3.78,176655,"['Drama', 'Crime', 'Thriller', 'Mystery']",France
-138,The Shining,5.0,4.26,1153061,"['Horror', 'Thriller']",USA
-139,The Negotiator,4.0,3.39,29496,"['Drama', 'Crime', 'Thriller', 'Action']",Germany
-140,The Dark Knight,5.0,4.45,1507206,"['Action', 'Thriller', 'Drama', 'Crime']",UK
-141,Zoolander,4.0,3.33,293993,['Comedy'],Germany
-142,Scary Movie,4.5,3.03,226556,['Comedy'],USA
-143,12 Angry Men,4.5,4.52,411852,['Drama'],USA
-144,Se7en,5.0,4.29,1053121,"['Thriller', 'Crime', 'Mystery']",USA
-145,The Book of Manning,4.5,3.58,292,['Documentary'],USA
-146,Hustle,4.0,3.58,197205,"['Drama', 'Comedy']",USA
-147,Moon Knight,4.0,3.69,229672,['Mystery'],USA
-148,The Imitation Game,5.0,3.77,484352,"['History', 'Drama', 'War', 'Thriller']",UK
-149,Minions: The Rise of Gru,4.0,3.36,275466,"['Family', 'Animation', 'Comedy']",USA
-150,Spider-Man: No Way Home,4.5,3.99,1396623,"['Action', 'Adventure', 'Science Fiction']",USA
-151,The Unbearable Weight of Massive Talent,4.0,3.5,236093,"['Action', 'Comedy', 'Crime']",USA
-152,Thor: Love and Thunder,3.0,2.75,677845,"['Action', 'Fantasy', 'Comedy']",USA
-153,Scream,4.0,3.37,371312,"['Horror', 'Mystery', 'Thriller']",USA
-154,Turning Red,3.0,3.69,545565,"['Fantasy', 'Comedy', 'Family', 'Animation']",USA
-155,Don't Look Up,3.5,3.11,1029778,"['Comedy', 'Drama', 'Science Fiction']",USA
-156,Hawkeye,4.0,3.49,187882,"['Comedy', 'Drama']",USA
-157,Death on the Nile,3.5,2.75,215313,"['Thriller', 'Crime', 'Mystery']",UK
-158,Operation Mincemeat,3.5,3.14,24741,"['Drama', 'War', 'History']",Spain
-159,Eternals,4.0,2.94,557489,"['Science Fiction', 'Action', 'Adventure']",Canada
-160,A Classic Horror Story,3.5,2.77,41393,"['Horror', 'Mystery']",Italy
-161,Venom: Let There Be Carnage,3.0,2.67,346742,"['Action', 'Adventure', 'Science Fiction']",USA
-162,Shang-Chi and the Legend of the Ten Rings,4.0,3.6,677239,"['Fantasy', 'Adventure', 'Action']",USA
-163,No Time to Die,3.5,3.5,419709,"['Adventure', 'Thriller', 'Action']",UK
-164,Black Widow,3.5,3.12,691907,"['Action', 'Adventure', 'Science Fiction']",USA
-165,WandaVision,4.0,3.85,408295,"['Mystery', 'Drama']",USA
-166,The Scary House,3.0,2.47,3794,"['Fantasy', 'Family', 'Horror']",Austria
-167,Things Heard & Seen,3.5,2.46,40688,['Horror'],USA
-168,The Rental,3.5,2.71,56988,['Horror'],USA
-169,The Conjuring: The Devil Made Me Do It,3.5,2.86,236096,"['Mystery', 'Thriller', 'Horror']",USA
-170,Coming 2 America,3.5,2.39,56720,['Comedy'],USA
-171,Spenser Confidential,3.5,2.54,46748,"['Action', 'Thriller', 'Comedy']",USA
-172,Jumanji: The Next Level,3.5,2.97,222583,"['Comedy', 'Fantasy', 'Adventure']",USA
-173,Inside Man: Most Wanted,3.0,2.48,1300,"['Thriller', 'Action', 'Crime']",USA
-174,Zombieland: Double Tap,3.0,3.04,237212,"['Comedy', 'Horror']",USA
-175,Disappearance at Clifton Hill,4.0,2.72,5475,"['Thriller', 'Drama', 'Mystery']",Canada
-176,Triple Frontier,3.5,3.02,94421,"['Thriller', 'Crime', 'Action', 'Adventure']",USA
-177,The Curse of La Llorona,3.0,2.04,62972,"['Horror', 'Mystery', 'Thriller']",USA
-178,D-Railed,3.0,1.87,810,['Horror'],USA
-179,Scary Stories to Tell in the Dark,4.0,2.84,136259,"['Horror', 'Thriller']",Canada
-180,Fractured,4.0,3.05,78604,['Thriller'],USA
-181,Escape Plan: The Extractors,3.0,1.97,5809,"['Thriller', 'Adventure', 'Crime', 'Action']",China
-182,Just Mercy,4.0,3.8,68885,"['Drama', 'History', 'Crime']",USA
-183,Glass,3.0,2.97,259140,"['Drama', 'Science Fiction', 'Thriller']",USA
-184,Venom,3.5,2.91,552220,"['Action', 'Science Fiction']",China
-185,Ant-Man and the Wasp,4.0,3.05,571446,"['Science Fiction', 'Adventure', 'Action']",USA
-186,Escape Plan 2: Hades,3.5,1.77,11405,"['Thriller', 'Action', 'Mystery']",China
-187,Flight 666,2.5,1.97,758,"['Horror', 'Science Fiction']",USA
-188,Hereditary,4.5,4.02,1004047,"['Thriller', 'Horror', 'Mystery']",USA
-189,Hangman,3.5,2.13,5918,"['Crime', 'Mystery', 'Thriller']",USA
-190,Rampage,3.0,2.47,100223,"['Action', 'Adventure', 'Science Fiction']",USA
-191,Insidious: The Last Key,3.5,2.54,56777,"['Horror', 'Mystery', 'Thriller']",USA
-192,Shimmer Lake,3.5,2.91,9457,"['Crime', 'Mystery', 'Drama', 'Thriller']",Canada
-193,Kingsman: The Golden Circle,4.5,3.14,323661,"['Adventure', 'Comedy', 'Action']",UK
-194,Star Wars: The Last Jedi,3.5,3.05,788363,"['Science Fiction', 'Adventure', 'Action']",USA
-195,Kidnap,3.0,2.55,14450,"['Thriller', 'Drama']",UK
-196,The Ritual,3.5,3.22,150957,"['Mystery', 'Thriller', 'Horror']",Canada
-197,The Recall,3.0,1.77,1310,"['Science Fiction', 'Horror']",Canada
-198,The Mummy,3.0,2.0,101020,"['Adventure', 'Horror', 'Thriller', 'Action', 'Fantasy']",China
-199,Time Trap,3.5,2.62,15901,"['Science Fiction', 'Adventure']",USA
-200,The Foreigner,3.0,3.16,44576,"['Action', 'Thriller']",China
-201,Jack Reacher: Never Go Back,3.5,2.63,53165,"['Action', 'Thriller']",China
-202,Split,3.0,3.52,684756,"['Horror', 'Thriller']",USA
-203,USS Indianapolis: Men of Courage,4.0,2.13,4041,"['War', 'Action']",USA
-204,Doctor Strange,4.0,3.51,917267,"['Fantasy', 'Action', 'Adventure']",USA
-205,Marauders,3.0,2.38,4343,"['Action', 'Crime', 'Thriller']",Canada
-206,Skiptrace,3.0,2.42,6660,"['Mystery', 'Thriller', 'Comedy', 'Action']",China
-207,Independence Day: Resurgence,3.5,2.09,75043,"['Adventure', 'Action', 'Science Fiction']",USA
-208,The Shallows,3.0,2.98,108557,"['Thriller', 'Drama', 'Horror']",Australia
-209,Krampus,3.0,3.01,100843,"['Fantasy', 'Horror', 'Comedy']",USA
-210,The Conjuring 2,4.5,3.42,283741,"['Horror', 'Thriller']",USA
-211,In the Heart of the Sea,3.5,3.05,62487,"['Thriller', 'Adventure', 'History', 'Drama', 'Action']",Spain
-212,London Has Fallen,3.0,2.56,59213,"['Action', 'Thriller']",Bulgaria
-213,Pay the Ghost,3.0,2.06,5990,['Horror'],USA
-214,Circle,3.0,2.62,89201,"['Mystery', 'Science Fiction', 'Thriller', 'Horror', 'Drama']",USA
-215,Insurgent,3.0,2.53,128844,"['Action', 'Thriller', 'Science Fiction', 'Adventure']",USA
-216,Self/less,3.0,2.75,23662,"['Mystery', 'Science Fiction', 'Thriller', 'Action']",USA
-217,The Expendables 3,3.5,2.48,55229,"['Thriller', 'Adventure', 'Action']",Bulgaria
-218,Jurassic World,4.0,3.03,518594,"['Science Fiction', 'Adventure', 'Action', 'Thriller']",USA
-219,Sharknado 2: The Second One,3.0,1.86,17242,"['Thriller', 'Science Fiction']",USA
-220,Dumb and Dumber To,3.0,2.29,65769,['Comedy'],USA
-221,Flight 7500,3.0,2.03,3579,"['Thriller', 'Mystery', 'Horror']",Japan
-222,Secret in Their Eyes,4.0,2.76,14592,"['Thriller', 'Mystery', 'Drama', 'Crime']",South Korea
-223,Divergent,3.5,2.86,250232,"['Adventure', 'Action', 'Science Fiction']",USA
-224,Sharknado,4.0,1.74,52863,"['Horror', 'Adventure', 'Science Fiction', 'Comedy', 'Action']",USA
-225,Thor: The Dark World,3.0,2.39,562145,"['Fantasy', 'Action', 'Adventure']",USA
-226,The Last Stand,3.5,2.79,31924,"['Action', 'Thriller', 'Crime']",USA
-227,House at the End of the Street,3.5,2.36,38572,"['Thriller', 'Horror']",USA
-228,White House Down,3.0,2.73,68754,"['Thriller', 'Action', 'Drama']",USA
-229,Scream 4,3.5,3.44,228202,"['Horror', 'Mystery']",USA
-230,Journey 2: The Mysterious Island,3.0,2.46,55076,"['Action', 'Science Fiction', 'Adventure']",USA
-231,Jack and Jill,3.0,1.45,83108,['Comedy'],USA
-232,The Sitter,3.5,2.44,23443,['Comedy'],USA
-233,The Cabin in the Woods,3.0,3.47,409982,"['Horror', 'Fantasy']",USA
-234,Final Destination 5,3.5,2.8,80815,"['Mystery', 'Horror']",USA
-235,The Adjustment Bureau,3.5,3.09,61552,"['Science Fiction', 'Thriller', 'Romance']",USA
-236,Faster,3.0,2.69,17355,"['Action', 'Thriller', 'Crime', 'Drama']",USA
-237,Unknown,3.5,2.9,39434,"['Action', 'Mystery', 'Thriller']",France
-238,Olympus Has Fallen,3.0,2.76,79562,"['Thriller', 'Action']",USA
-239,Harry Potter and the Deathly Hallows: Part 1,4.0,3.71,638547,"['Fantasy', 'Adventure']",UK
-240,The Bounty Hunter,3.5,2.41,35562,"['Action', 'Romance', 'Comedy']",USA
-241,Harry Potter and the Half-Blood Prince,4.0,3.68,630616,"['Fantasy', 'Adventure']",UK
-242,2012,3.0,2.43,202353,"['Science Fiction', 'Adventure', 'Action']",USA
-243,Henry's Crime,3.5,2.71,2712,"['Crime', 'Comedy']",USA
-244,Frozen,3.5,2.72,37050,['Thriller'],USA
-245,Tropic Thunder,4.0,3.51,269487,"['War', 'Adventure', 'Comedy', 'Action']",USA
-246,Get Smart,4.0,2.84,105482,"['Thriller', 'Comedy', 'Action']",USA
-247,Wyvern,2.5,2.33,470,"['Action', 'Science Fiction', 'Fantasy', 'TV Movie']",Canada
-248,The Incredible Hulk,3.0,2.51,353827,"['Adventure', 'Science Fiction', 'Action']",USA
-249,Vantage Point,3.5,2.79,24093,"['Crime', 'Action', 'Thriller', 'Drama']",Mexico
-250,First Sunday,3.5,2.43,3051,"['Action', 'Comedy']",USA
-251,National Treasure: Book of Secrets,4.0,2.88,105817,"['Mystery', 'Adventure', 'Action', 'Thriller']",USA
-252,One Missed Call,3.5,1.75,14502,"['Thriller', 'Horror', 'Mystery']",Germany
-253,I Am Legend,3.5,3.33,337729,"['Science Fiction', 'Thriller', 'Drama']",USA
-254,Paranormal Activity,3.5,2.88,179745,"['Mystery', 'Horror']",USA
-255,Harry Potter and the Order of the Phoenix,4.0,3.67,659905,"['Mystery', 'Fantasy', 'Adventure']",UK
-256,Superbad,4.0,3.91,676139,['Comedy'],USA
-257,Black Water,3.0,2.79,4482,"['Horror', 'Drama', 'Adventure']",Australia
-258,Cleaner,3.5,2.67,10498,"['Mystery', 'Thriller', 'Crime']",USA
-259,Rush Hour 3,4.0,2.85,71192,"['Comedy', 'Action', 'Crime']",USA
-260,Spider-Man 3,3.5,3.02,577637,"['Action', 'Adventure', 'Fantasy']",USA
-261,Next,3.5,2.4,32036,"['Science Fiction', 'Action', 'Thriller']",USA
-262,Live Free or Die Hard,3.0,2.88,80260,"['Thriller', 'Action']",UK
-263,Ghost Rider,3.5,2.3,123289,"['Thriller', 'Fantasy', 'Action']",USA
-264,Robin-B-Hood,4.0,3.08,4790,"['Action', 'Comedy', 'Drama']",Hong Kong
-265,Click,3.0,2.8,240785,"['Drama', 'Fantasy', 'Comedy']",USA
-266,16 Blocks,3.5,3.02,19953,"['Crime', 'Adventure', 'Thriller', 'Action']",Germany
-267,Fantastic Four,3.0,2.42,214332,"['Fantasy', 'Science Fiction', 'Action', 'Adventure']",Germany
-268,The Haunted Mansion,3.0,2.65,51498,"['Family', 'Thriller', 'Fantasy', 'Comedy', 'Mystery']",USA
-269,Flightplan,3.5,2.94,40926,"['Thriller', 'Drama', 'Mystery']",USA
-270,The Punisher,3.0,2.86,49107,"['Action', 'Drama', 'Crime']",Germany
-271,The Time Machine,3.0,2.58,22699,"['Adventure', 'Action', 'Science Fiction']",USA
-272,Collateral Damage,3.5,2.46,13573,"['Action', 'Drama', 'Thriller']",USA
-273,Signs,4.5,3.42,208191,"['Science Fiction', 'Mystery', 'Thriller', 'Drama']",USA
-274,Eight Legged Freaks,3.0,2.55,26531,"['Horror', 'Action', 'Thriller', 'Comedy']",Australia
-275,The Interpreter,3.5,2.9,18949,"['Thriller', 'Crime']",France
-276,The Core,3.0,2.42,28819,"['Science Fiction', 'Thriller', 'Action', 'Adventure']",USA
-277,The Sum of All Fears,3.5,2.89,25165,"['Action', 'Thriller', 'Drama']",Canada
-278,D-Tox,3.5,2.38,6243,"['Action', 'Horror', 'Thriller']",USA
-279,Gone in Sixty Seconds,3.5,2.93,60074,"['Action', 'Thriller', 'Crime']",USA
-280,Godzilla,3.5,2.16,79350,"['Action', 'Science Fiction', 'Thriller']",Japan
-281,Lake Placid,3.5,2.75,27808,"['Action', 'Thriller', 'Science Fiction', 'Horror', 'Comedy']",USA
-282,Money Talks,3.5,2.79,6220,"['Comedy', 'Action']",USA
-283,Evidence of Blood,3.5,3.01,184,"['Drama', 'TV Movie', 'Thriller', 'Mystery']",USA
-284,Space Cowboys,3.5,2.93,21677,"['Adventure', 'Thriller', 'Action']",USA
-285,Murder at 1600,3.5,2.7,5604,"['Crime', 'Action', 'Thriller', 'Mystery', 'Drama']",USA
-286,Absolute Power,4.0,3.14,14953,"['Crime', 'Action', 'Drama']",USA
-287,Twister,3.5,3.14,87619,"['Action', 'Drama', 'Adventure']",USA
-288,Deep Impact,3.5,2.85,49195,"['Drama', 'Action', 'Science Fiction']",USA
-289,The Arrival,3.5,2.78,7923,"['Science Fiction', 'Thriller']",Mexico
-290,"Honey, We Shrunk Ourselves",3.0,2.38,16081,"['Comedy', 'Adventure', 'Action', 'Family', 'Science Fiction']",USA
-291,Police Story 4: First Strike,4.0,3.23,9299,"['Thriller', 'Action', 'Adventure', 'Crime', 'Comedy', 'Drama']",Hong Kong
-292,Timecop,3.5,2.8,21056,"['Action', 'Crime', 'Science Fiction', 'Thriller']",USA
-293,Under Siege 2: Dark Territory,3.0,2.53,12018,"['Action', 'Thriller']",USA
-294,Assassins,4.0,2.8,15242,"['Action', 'Thriller', 'Adventure', 'Crime']",France
-295,Die Hard: With a Vengeance,4.5,3.63,112697,"['Action', 'Thriller']",USA
-296,Under Siege,3.5,3.01,27571,"['Thriller', 'Action']",France
-297,Demolition Man,4.0,3.29,62937,"['Crime', 'Action', 'Science Fiction']",USA
-298,Stargate,3.5,3.13,44523,"['Action', 'Science Fiction', 'Adventure']",France
-299,Twin Dragons,4.0,3.08,4433,"['Comedy', 'Action']",Hong Kong
-300,Dennis the Menace,3.5,2.53,27434,"['Comedy', 'Family']",USA
-301,"Honey, I Blew Up the Kid",3.0,2.4,23785,"['Science Fiction', 'Adventure', 'Comedy', 'Family']",USA
-302,Stop! Or My Mom Will Shoot,3.5,1.97,12012,"['Action', 'Comedy']",USA
-303,Double Impact,3.5,2.7,11472,"['Drama', 'Thriller', 'Crime', 'Action']",USA
-304,Home Alone,4.0,3.78,696887,"['Comedy', 'Family']",USA
-305,Hudson Hawk,3.5,2.71,17036,"['Action', 'Adventure', 'Comedy']",USA
-306,In the Line of Fire,4.0,3.42,32745,"['Mystery', 'Thriller', 'Crime', 'Drama', 'Action']",USA
-307,Kickboxer,3.5,3.1,19039,"['Action', 'Drama', 'Thriller']",USA
-308,Midnight Run,4.0,3.77,52239,"['Adventure', 'Crime', 'Comedy', 'Action', 'Thriller']",USA
-309,Cobra,3.5,2.97,33125,"['Thriller', 'Action', 'Crime']",USA
-310,Child's Play 2,3.5,3.28,67596,"['Horror', 'Thriller']",USA
-311,The Heavenly Kid,3.5,2.89,1557,"['Fantasy', 'Romance', 'Comedy']",USA
-312,The Running Man,3.5,3.25,53425,"['Science Fiction', 'Action', 'Thriller']",USA
-313,The Protector,3.5,2.83,2876,"['Adventure', 'Action', 'Crime', 'Comedy', 'Drama']",Hong Kong
-314,Top Gun,3.0,3.36,442657,"['Drama', 'Action', 'Romance']",USA
-315,Into the Night,4.0,3.14,7405,"['Thriller', 'Action', 'Comedy', 'Drama', 'Crime', 'Romance']",USA
-316,Sudden Impact,4.0,3.2,16095,"['Thriller', 'Action', 'Crime']",USA
-317,Five Element Ninjas,4.0,3.81,4356,['Action'],Hong Kong
-318,Halloween II,3.5,3.25,110967,['Horror'],USA
-319,Trading Places,4.0,3.59,64142,['Comedy'],USA
-320,Super Fuzz,3.5,2.98,2304,"['Fantasy', 'Action', 'Science Fiction', 'Comedy']",Spain
-321,Fearless Hyena,4.0,3.41,3466,"['Action', 'Comedy']",Hong Kong
-322,The Conversation,3.0,4.09,103942,"['Mystery', 'Drama', 'Crime']",USA
-323,Iron Man 2,3.0,2.93,642531,"['Adventure', 'Action', 'Science Fiction']",USA
-324,Fist of Fury,4.0,3.58,24807,"['Drama', 'Thriller', 'Action']",Hong Kong
-325,Iron Man 3,3.0,3.08,658876,"['Action', 'Adventure', 'Science Fiction']",USA
-326,Intrusion,3.5,2.25,15131,['Thriller'],USA
-327,"The Good, the Bad and the Ugly",4.5,4.4,263060,['Western'],USA
-328,Loki,4.5,3.8,314284,['Drama'],USA
-329,Office Space,3.5,3.76,153844,['Comedy'],USA
-330,Jaws 2,3.5,2.73,42233,"['Thriller', 'Horror']",USA
-331,The Way of the Dragon,4.0,3.51,20920,"['Action', 'Crime']",Hong Kong
-332,Come and See,5.0,4.57,168427,"['Drama', 'War']",USSR
-333,The Batman,4.0,4.04,1514465,"['Mystery', 'Thriller', 'Crime']",USA
-334,Ms. Marvel,4.0,3.14,85784,['Comedy'],USA
-335,Heat,4.5,4.19,334383,"['Drama', 'Thriller', 'Crime', 'Action']",USA
-336,To Kill a Mockingbird,3.5,3.98,126767,"['Crime', 'Drama']",USA
-337,It Follows,4.0,3.52,389934,"['Horror', 'Mystery']",USA
-338,The Gray Man,3.5,2.81,239263,"['Action', 'Thriller']",USA
-339,The Great Dictator,4.0,4.21,89383,"['War', 'Comedy']",USA
-340,Up,4.5,4.09,988059,"['Adventure', 'Comedy', 'Animation', 'Family']",USA
-341,The Incredibles,4.5,4.06,848079,"['Animation', 'Action', 'Adventure', 'Family']",USA
-342,Cars,3.5,3.57,493192,"['Animation', 'Adventure', 'Family', 'Comedy']",USA
-343,Kung Fu Panda,4.5,3.75,453997,"['Family', 'Adventure', 'Action', 'Comedy', 'Animation']",USA
-344,Madagascar: Escape 2 Africa,3.5,3.04,187187,"['Comedy', 'Adventure', 'Family', 'Animation']",USA
-345,Shrek,4.0,4.05,789096,"['Family', 'Comedy', 'Animation', 'Fantasy', 'Adventure']",USA
-346,How to Train Your Dragon,4.0,3.96,498787,"['Family', 'Adventure', 'Animation', 'Fantasy']",USA
-347,Kung Fu Panda 3,4.0,3.25,162878,"['Family', 'Animation', 'Adventure', 'Action', 'Comedy']",China
-348,Madagascar 3: Europe's Most Wanted,3.5,2.91,142128,"['Animation', 'Adventure', 'Family', 'Comedy']",USA
-349,Groot's Pursuit,3.5,3.22,15713,"['Science Fiction', 'Family', 'Comedy', 'Animation']",USA
-350,Groot Takes a Bath,3.5,3.4,16351,"['Comedy', 'Family', 'Animation', 'Science Fiction']",USA
-351,Top Gun: Maverick,4.5,4.06,785750,"['Drama', 'Action']",USA
-352,Magnum Opus,3.0,3.53,16241,"['Family', 'Science Fiction', 'Animation', 'Comedy']",USA
-353,The Little Guy,3.5,3.45,16462,"['Family', 'Comedy', 'Animation', 'Science Fiction']",USA
-354,Groot's First Steps,3.0,3.15,18225,"['Animation', 'Comedy', 'Family', 'Science Fiction']",USA
-355,Spider-Man: Into the Spider-Verse,4.5,4.46,1594555,"['Action', 'Adventure', 'Animation', 'Science Fiction']",USA
-356,See How They Run,3.5,3.24,170911,"['Mystery', 'Thriller', 'Comedy']",UK
-357,Memento,5.0,4.11,652538,"['Thriller', 'Mystery']",USA
-358,Geostorm,2.5,2.11,53299,"['Science Fiction', 'Action', 'Thriller']",Canada
-359,Runway 34,3.5,2.96,2060,"['Thriller', 'Drama']",India
-360,Hitman's Wife's Bodyguard,3.5,2.66,57602,"['Crime', 'Comedy', 'Action', 'Thriller']",Bulgaria
-361,Happy Death Day,3.5,3.09,253408,"['Comedy', 'Mystery', 'Horror']",USA
-362,The Hitman's Bodyguard,3.5,3.07,113330,"['Action', 'Comedy']",Bulgaria
-363,The Nice Guys,4.5,3.8,475259,"['Action', 'Crime', 'Comedy']",USA
-364,Baaghi,3.0,2.34,2371,"['Action', 'Romance', 'Thriller']",India
-365,Smile,4.0,2.99,358731,"['Mystery', 'Thriller', 'Horror']",USA
-366,Baaghi 2,3.0,2.04,1486,"['Action', 'Crime', 'Drama']",India
-367,BlacKkKlansman,4.0,3.94,581194,"['Comedy', 'History', 'Crime', 'Drama']",USA
-368,Dabangg,3.0,2.58,3799,"['Action', 'Comedy', 'Crime']",India
-369,Talaash,3.5,3.45,6454,"['Thriller', 'Drama', 'Crime']",India
-370,Baaghi 3,3.0,1.57,1261,"['Thriller', 'Action', 'Adventure']",India
-371,Sultan,3.0,3.04,5306,"['Action', 'Drama']",India
-372,Bhool Bhulaiyaa,3.5,3.49,4729,"['Horror', 'Comedy', 'Thriller']",India
-373,Murder by Death,4.0,3.36,17655,"['Thriller', 'Comedy', 'Crime', 'Mystery']",USA
-374,HIT: The First Case,3.5,2.77,1144,"['Crime', 'Thriller', 'Mystery']",India
-375,Werewolf by Night,4.0,3.59,146222,"['Action', 'Horror', 'Fantasy']",USA
-376,Sooryavanshi,3.0,2.2,3363,"['Thriller', 'Action', 'Crime']",India
-377,Black Panther,4.5,3.75,1258848,"['Action', 'Adventure', 'Science Fiction']",USA
-378,Guardians of the Galaxy,4.5,3.82,1218620,"['Adventure', 'Action', 'Science Fiction']",USA
-379,Spider-Man: Far from Home,4.5,3.47,971576,"['Adventure', 'Science Fiction', 'Action']",USA
-380,Dabangg 2,3.0,1.99,2315,"['Comedy', 'Crime', 'Action']",India
-381,The Prestige,5.0,4.15,596185,"['Drama', 'Mystery', 'Science Fiction']",UK
-382,Dabangg 3,3.0,1.5,1377,"['Action', 'Comedy', 'Crime']",India
-383,Ant-Man,4.5,3.32,741814,"['Adventure', 'Science Fiction', 'Action']",USA
-384,Snowden,4.5,3.2,75272,"['Thriller', 'History', 'Drama', 'Crime']",Germany
-385,Rise of the Planet of the Apes,4.0,3.57,289229,"['Drama', 'Science Fiction', 'Action', 'Thriller']",USA
-386,American Psycho,5.0,3.93,1191729,"['Drama', 'Thriller', 'Crime']",Canada
-387,Star Wars: The Rise of Skywalker,3.5,2.49,660101,"['Science Fiction', 'Adventure', 'Action']",USA
-388,Thor: Ragnarok,4.5,3.84,1060182,"['Adventure', 'Action', 'Science Fiction', 'Fantasy', 'Comedy']",USA
-389,A Nightmare on Elm Street,5.0,3.77,307326,['Horror'],USA
-390,Shanghai Noon,4.5,2.97,46722,"['Western', 'Comedy', 'Adventure', 'Action']",Hong Kong
-391,Black Panther: Wakanda Forever,4.5,3.56,565121,"['Adventure', 'Action', 'Science Fiction']",USA
-392,Avengers: Age of Ultron,4.0,3.15,804112,"['Science Fiction', 'Action', 'Adventure']",USA
-393,"Monsters, Inc.",4.0,4.07,793133,"['Comedy', 'Animation', 'Family']",USA
-394,Deadpool,4.5,3.71,1041155,"['Comedy', 'Adventure', 'Action']",USA
-395,Finding Nemo,4.0,4.04,828064,"['Family', 'Animation']",USA
-396,Harry Potter and the Deathly Hallows: Part 2,4.5,3.95,694343,"['Adventure', 'Fantasy']",UK
-397,High School Musical,3.5,3.18,235946,"['Romance', 'Family', 'TV Movie', 'Drama', 'Music', 'Comedy']",USA
-398,High School Musical 2,3.5,3.22,176151,"['Romance', 'Comedy', 'Music', 'Drama', 'Family', 'TV Movie']",USA
-399,WALL-E,4.0,4.16,919367,"['Family', 'Animation', 'Science Fiction']",USA
-400,Incredibles 2,4.5,3.48,638288,"['Animation', 'Family', 'Action', 'Adventure']",USA
-401,High School Musical 3: Senior Year,3.0,3.14,133766,"['Comedy', 'Drama', 'Romance', 'Family', 'Music']",USA
-402,The Lorax,4.0,3.06,171535,"['Animation', 'Family']",USA
-403,Zathura: A Space Adventure,3.5,3.08,118511,"['Family', 'Science Fiction', 'Adventure']",USA
-404,John Wick: Chapter 2,4.0,3.71,501594,"['Thriller', 'Action', 'Crime']",USA
-405,John Wick: Chapter 3 - Parabellum,3.5,3.7,457965,"['Thriller', 'Action', 'Crime']",USA
-406,Toy Story 3,4.0,3.97,649619,"['Family', 'Comedy', 'Animation']",USA
-407,The Lion King,4.5,4.19,739161,"['Drama', 'Family', 'Animation']",USA
-408,John Wick,4.0,3.83,751887,"['Thriller', 'Action']",USA
-409,The Cloverfield Paradox,3.0,2.28,101392,"['Action', 'Science Fiction', 'Thriller', 'Horror']",USA
-410,Despicable Me 2,4.0,3.06,253757,"['Family', 'Animation', 'Comedy']",USA
-411,Minions,4.0,2.72,218961,"['Animation', 'Adventure', 'Comedy', 'Family']",USA
-412,Cloudy with a Chance of Meatballs,4.0,3.32,261729,"['Comedy', 'Family', 'Animation']",USA
-413,Despicable Me,4.5,3.47,395243,"['Animation', 'Family', 'Comedy', 'Crime']",USA
-414,The SpongeBob Movie: Sponge Out of Water,3.0,2.66,68672,"['Comedy', 'Adventure', 'Fantasy', 'Animation', 'Family']",Australia
-415,The SpongeBob SquarePants Movie,4.5,3.83,209056,"['Family', 'Adventure', 'Comedy', 'Animation', 'Fantasy']",South Korea
-416,The Gift,3.5,3.33,117822,"['Mystery', 'Thriller', 'Drama']",Australia
-417,Holes,4.0,3.51,136152,"['Drama', 'Comedy', 'Adventure', 'Family']",USA
-418,ParaNorman,4.0,3.61,121431,"['Animation', 'Family', 'Adventure', 'Comedy']",USA
-419,Scooby-Doo and the Alien Invaders,4.0,3.33,16495,"['Comedy', 'Family', 'Mystery', 'Animation', 'Science Fiction']",Japan
-420,Scooby-Doo! Camp Scare,4.5,3.56,8720,"['Animation', 'Mystery', 'Family', 'Comedy']",USA
-421,Scooby-Doo! and the Witch's Ghost,4.0,3.67,20540,"['Fantasy', 'Animation', 'Mystery', 'Comedy', 'Family']",Japan
-422,Scooby-Doo! in Where's My Mummy?,4.5,3.23,9572,"['Animation', 'Family', 'Adventure', 'Comedy', 'Mystery', 'Fantasy']",USA
-423,Scooby-Doo! and the Cyber Chase,4.0,3.49,25251,"['Animation', 'Adventure', 'Comedy']",USA
-424,Scooby-Doo on Zombie Island,4.0,3.81,43926,"['Family', 'Mystery', 'Animation', 'Horror']",USA
-425,Aloha Scooby-Doo!,4.0,3.12,9807,"['Comedy', 'Family', 'Adventure', 'Animation', 'Mystery']",USA
-426,Bolt,3.5,3.04,215619,"['Comedy', 'Animation', 'Family', 'Adventure']",USA
-427,Scooby-Doo! and the Loch Ness Monster,4.0,3.17,11438,"['Animation', 'Fantasy', 'Adventure', 'Mystery', 'Family', 'Comedy']",USA
-428,Scooby-Doo! Meets the Boo Brothers,4.0,3.06,6626,"['Family', 'Animation', 'Adventure', 'Mystery', 'TV Movie', 'Comedy']",USA
-429,Scooby-Doo! and the Reluctant Werewolf,3.5,2.95,7466,"['Family', 'Comedy', 'TV Movie', 'Animation', 'Mystery']",USA
-430,Scooby-Doo! & Batman: The Brave and the Bold,3.5,3.25,5346,"['Animation', 'Action', 'Family', 'Comedy']",USA
-431,Scooby-Doo! Curse of the Lake Monster,3.0,1.91,8957,"['Comedy', 'Mystery', 'Fantasy', 'Adventure']",USA
-432,Scooby-Doo! and the Monster of Mexico,4.0,2.98,8953,"['Animation', 'Mystery', 'Comedy', 'Family']",USA
-433,Scooby-Doo! and KISS: Rock and Roll Mystery,4.0,3.23,5306,"['Animation', 'Comedy', 'Family', 'Mystery']",USA
-434,Scooby-Doo! and the Goblin King,4.0,3.07,6070,"['Comedy', 'Music', 'Adventure', 'Family', 'Animation', 'Fantasy']",USA
-435,Scooby-Doo! Return to Zombie Island,4.0,2.42,4055,"['Family', 'Animation', 'Comedy', 'Horror', 'Mystery', 'Fantasy', 'Adventure']",USA
-436,"Chill Out, Scooby-Doo!",4.0,2.99,5704,"['Animation', 'Comedy', 'Mystery', 'Family', 'Adventure']",USA
-437,Scooby-Doo! Pirates Ahoy!,4.0,3.16,6956,"['Comedy', 'Animation', 'Adventure', 'Fantasy', 'Mystery', 'Family']",USA
-438,Scooby-Doo! WrestleMania Mystery,4.0,2.7,5711,"['Comedy', 'Animation', 'Mystery', 'Family']",USA
-439,Scooby-Doo! and the Samurai Sword,4.5,2.98,5013,"['Comedy', 'Action', 'Animation', 'Family', 'Mystery', 'Fantasy']",USA
-440,Scooby-Doo! Music of the Vampire,4.0,3.1,3271,"['Mystery', 'Family', 'Fantasy', 'Music', 'Comedy', 'Animation', 'Adventure']",USA
-441,Scooby-Doo! Frankencreepy,4.5,3.2,3138,"['Comedy', 'Fantasy', 'Animation', 'Family', 'Science Fiction', 'Adventure', 'Mystery']",USA
-442,Scooby-Doo! Abracadabra-Doo,4.0,3.21,4383,"['Comedy', 'Family', 'Mystery', 'Animation', 'Fantasy']",USA
-443,"Happy Halloween, Scooby-Doo!",4.0,3.14,3336,"['Animation', 'Family', 'Mystery', 'Comedy']",USA
-444,Scooby-Doo! and the Curse of the 13th Ghost,4.0,3.06,2708,"['Animation', 'Adventure', 'Family', 'Comedy', 'Mystery']",USA
-445,Scooby-Doo! and the Gourmet Ghost,4.0,2.95,2226,"['Adventure', 'Animation', 'Family', 'Comedy']",USA
-446,Scooby-Doo! Mask of the Blue Falcon,4.0,3.03,2483,"['Mystery', 'Family', 'Comedy', 'Fantasy', 'Animation', 'Adventure']",USA
-447,Scooby-Doo! Stage Fright,4.5,3.29,2922,"['Adventure', 'Family', 'Comedy', 'Animation', 'Mystery']",USA
-448,Big Top Scooby-Doo!,4.0,3.04,2143,"['Comedy', 'Mystery', 'Animation', 'Family']",USA
-449,Scooby-Doo! The Sword and the Scoob,4.0,2.94,2346,"['Comedy', 'Animation', 'Mystery', 'Fantasy', 'Family', 'Adventure']",USA
-450,Scooby-Doo! and WWE: Curse of the Speed Demon,4.0,2.64,2312,"['Family', 'Mystery', 'Animation', 'Comedy']",USA
-451,Scooby-Doo! Moon Monster Madness,4.0,3.09,2363,"['Family', 'Science Fiction', 'Mystery', 'Comedy', 'Adventure', 'Animation']",USA
-452,Tom and Jerry: The Fast and the Furry,4.0,3.17,4482,"['Action', 'Comedy', 'Family', 'Animation', 'Adventure']",USA
-453,Scooby-Doo! Shaggy's Showdown,4.0,3.07,1965,"['Western', 'Mystery', 'Animation', 'Comedy', 'Family']",USA
-454,Diary of a Wimpy Kid,3.0,3.08,118615,"['Family', 'Comedy']",UK
-455,Diary of a Wimpy Kid: Rodrick Rules,3.5,3.57,92909,"['Comedy', 'Family']",USA
-456,Tom and Jerry: The Magic Ring,4.0,2.91,4190,"['Action', 'Fantasy', 'Animation', 'Comedy', 'Family']",USA
-457,3 Idiots,4.5,3.98,70560,"['Drama', 'Comedy']",India
-458,The Grand Budapest Hotel,4.5,4.23,1187150,"['Comedy', 'Drama']",Germany
-459,War of the Worlds,3.0,3.22,177772,"['Thriller', 'Adventure', 'Science Fiction']",USA
-460,Blonde,1.0,2.09,163564,['Drama'],USA
-461,Parasite,5.0,4.57,1943837,"['Comedy', 'Drama', 'Thriller']",South Korea
-462,Dolphin Tale,3.5,2.81,13809,"['Drama', 'Family']",USA
-463,Pulp Fiction,4.5,4.28,1466794,"['Crime', 'Thriller']",USA
-464,War,4.0,2.86,6284,"['Thriller', 'Adventure', 'Action']",India
-465,The Secret Life of Walter Mitty,3.0,3.67,260853,"['Drama', 'Comedy', 'Fantasy', 'Adventure']",USA
-466,Now You See Me,4.5,3.3,411415,"['Crime', 'Thriller']",USA
-467,Space Jam,3.0,3.2,237104,"['Family', 'Comedy', 'Animation', 'Science Fiction']",USA
-468,The Babysitter,1.0,2.82,169239,"['Comedy', 'Horror']",USA
-469,Spiderhead,1.0,2.6,104606,"['Science Fiction', 'Thriller']",USA
-470,The Polar Express,3.0,3.18,287721,"['Animation', 'Adventure', 'Fantasy', 'Family', 'Comedy']",USA
-471,I Now Pronounce You Chuck & Larry,3.0,2.34,52513,"['Romance', 'Comedy']",USA
-472,Bloodsport,3.5,3.32,39947,"['Action', 'Drama']",USA
-473,Hard Target,3.5,3.27,24067,"['Crime', 'Thriller', 'Adventure', 'Action']",USA
-474,Central Intelligence,3.0,2.72,121660,"['Comedy', 'Action', 'Crime', 'Mystery']",USA
-475,Kung Fu Panda 2,5.0,3.57,238502,"['Animation', 'Family']",USA
-476,Mamma Mia!,3.5,3.78,461533,"['Romance', 'Comedy']",Germany
-477,Batman Begins,4.0,3.78,753780,"['Drama', 'Crime', 'Action']",UK
-478,The Menu,4.0,3.65,1083006,"['Thriller', 'Horror', 'Comedy']",USA
-479,The Good Nurse,3.5,3.28,96046,"['Drama', 'Mystery', 'Crime']",USA
-480,Fearless Hyena 2,3.5,2.45,683,['Action'],Hong Kong
-481,Day Shift,3.5,2.76,65770,"['Horror', 'Action', 'Fantasy', 'Comedy']",USA
-482,Gone Girl,4.0,4.08,1157156,"['Drama', 'Thriller', 'Mystery']",USA
-483,Old,3.5,2.52,289846,"['Horror', 'Thriller', 'Mystery']",Japan
-484,Blade Runner,1.0,4.08,648858,"['Drama', 'Science Fiction', 'Thriller']",USA
-485,The Village,3.5,3.22,144297,"['Thriller', 'Mystery', 'Drama']",USA
-486,The Visit,3.5,3.1,161716,"['Mystery', 'Horror', 'Thriller']",USA
-487,"Monica, O My Darling",3.5,3.59,7736,"['Mystery', 'Drama', 'Comedy', 'Crime']",India
-488,Squid Game,3.5,3.8,479263,"['Drama', 'Mystery']",South Korea
-489,Zombieland,3.5,3.55,508492,"['Comedy', 'Horror']",USA
-490,Andhadhun,4.0,3.89,20856,"['Comedy', 'Thriller', 'Crime']",India
-491,Scream 3,3.5,2.93,218626,"['Mystery', 'Horror']",USA
-492,Spy,3.5,3.18,126321,"['Action', 'Crime', 'Comedy']",USA
-493,Blade II,3.5,3.23,92240,"['Fantasy', 'Thriller', 'Action', 'Horror']",USA
-494,Jurassic Park III,3.5,2.73,184267,"['Thriller', 'Science Fiction', 'Action', 'Adventure']",USA
-495,The Replacements,3.0,3.07,18558,['Comedy'],USA
-496,Die Hard 2,4.0,3.27,113477,"['Action', 'Thriller']",USA
-497,The Client,3.5,3.15,18780,"['Crime', 'Thriller', 'Mystery', 'Drama']",USA
-498,Death at a Funeral,3.5,2.63,19991,['Comedy'],USA
-499,I Still Know What You Did Last Summer,3.5,2.4,39439,"['Horror', 'Mystery', 'Thriller']",USA
-500,The Social Network,3.5,3.94,1073542,['Drama'],USA
-501,The Exorcism of Emily Rose,3.5,3.08,56238,"['Crime', 'Thriller', 'Horror', 'Drama']",USA
-502,Dante's Peak,3.5,2.79,30682,"['Adventure', 'Action', 'Thriller', 'Drama']",USA
-503,Tremors 3: Back to Perfection,3.5,2.47,8943,"['Science Fiction', 'Comedy', 'Thriller', 'Action', 'Horror']",USA
-504,The Great Gatsby,3.0,3.38,550803,"['Drama', 'Romance']",USA
-505,Cliffhanger,3.5,3.14,36380,"['Thriller', 'Action', 'Adventure']",France
-506,Predator 2,3.0,2.89,75263,"['Action', 'Science Fiction', 'Thriller']",USA
-507,The Girl on the Train,3.0,1.94,1761,"['Drama', 'Thriller']",India
-508,The Exorcist,3.0,3.98,367106,['Horror'],USA
-509,Me Time,3.0,2.16,27485,['Comedy'],USA
-510,Blade: Trinity,3.0,2.32,60014,"['Action', 'Horror', 'Fantasy']",USA
-511,Paul Blart: Mall Cop,3.0,2.33,100160,"['Comedy', 'Family', 'Adventure', 'Action']",USA
-512,Changing Lanes,3.0,2.91,13742,['Thriller'],USA
-513,Shooter,3.0,3.13,59183,"['Drama', 'Thriller', 'Mystery', 'Action', 'Crime']",USA
-514,The Rundown,3.0,2.97,30296,"['Adventure', 'Action', 'Thriller', 'Comedy']",USA
-515,Mission: Impossible II,3.5,2.66,163668,"['Thriller', 'Action', 'Adventure']",USA
-516,Blood Red Sky,3.5,2.69,37453,"['Horror', 'Action', 'Thriller']",Germany
-517,Mission: Impossible - Fallout,4.0,3.88,316628,"['Action', 'Adventure']",USA
-518,Bhool Bhulaiyaa 2,3.5,2.34,4639,"['Horror', 'Comedy']",India
-519,In the Shadow of the Moon,3.5,2.76,24626,"['Science Fiction', 'Thriller']",USA
-520,Cuttputlli,3.5,2.09,838,"['Crime', 'Mystery', 'Thriller']",India
-521,Murder on the Orient Express,3.5,3.06,258283,"['Crime', 'Drama', 'Mystery']",UK
-522,Silence... Can You Hear It?,3.5,2.91,299,"['Thriller', 'Drama']",India
-523,Andaz Apna Apna,4.0,3.63,3662,"['Family', 'Romance', 'Comedy']",India
-524,Om Shanti Om,4.0,3.8,19123,"['Thriller', 'Drama', 'Comedy']",India
-525,Bajrangi Bhaijaan,3.0,3.69,10767,"['Comedy', 'Drama', 'Action']",India
-526,Roohi,3.5,2.06,1301,"['Horror', 'Comedy']",India
-527,Ek Tha Tiger,3.0,2.67,4726,"['Action', 'Thriller', 'Romance']",India
-528,Tiger Zinda Hai,3.0,2.68,3855,"['Action', 'Thriller']",India
-529,Karan Arjun,3.0,2.95,1966,"['Action', 'Thriller']",India
-530,Bodyguard,2.5,2.39,4437,"['Drama', 'Action', 'Romance']",India
-531,Kuch Kuch Hota Hai,3.5,3.6,12970,"['Drama', 'Romance']",India
-532,Don,3.5,3.21,6429,"['Action', 'Thriller', 'Drama']",India
-533,My Name Is Khan,4.0,3.66,17408,"['Romance', 'Drama']",United Arab Emirates
-534,Main Hoon Na,3.5,3.46,8484,['Drama'],India
-535,Don 2,3.5,3.08,5128,"['Action', 'Thriller']",India
-536,Wanted,3.0,2.54,2179,"['Action', 'Thriller', 'Comedy', 'Crime']",India
-537,Chennai Express,3.0,2.82,11142,"['Romance', 'Action', 'Comedy']",India
-538,Ra.One,3.0,2.42,7818,"['Action', 'Science Fiction', 'Adventure']",India
-539,Happy New Year,3.0,2.47,8451,"['Action', 'Crime', 'Comedy']",India
-540,Student of the Year,3.0,2.48,6398,"['Music', 'Drama', 'Comedy']",India
-541,Golmaal Again,3.0,1.97,2101,"['Action', 'Fantasy', 'Horror', 'Comedy']",India
-542,Singham,3.5,2.89,4399,"['Drama', 'Crime', 'Action']",India
-543,47 Meters Down,3.0,2.52,52591,"['Horror', 'Adventure', 'Thriller']",Dominican Republic
-544,Back to the Future Part III,4.0,3.51,311354,"['Science Fiction', 'Adventure', 'Comedy']",USA
-545,OMG: Oh My God!,3.5,3.38,4448,"['Drama', 'Comedy', 'Fantasy']",India
-546,How It Ends,2.0,2.1,19374,"['Science Fiction', 'Thriller', 'Action', 'Mystery', 'Adventure']",Canada
-547,A Quiet Place,1.0,3.71,890640,"['Drama', 'Science Fiction', 'Horror']",USA
-548,Death Wish,2.0,2.57,28013,"['Action', 'Drama', 'Crime', 'Thriller']",USA
-549,Sharknado 4: The 4th Awakens,2.5,1.8,8189,"['Comedy', 'Science Fiction']",USA
-550,The Perfect Storm,3.5,3.02,38884,"['Thriller', 'Drama', 'Adventure', 'Action']",USA
-551,Sharknado 3: Oh Hell No!,2.5,1.91,11805,"['Comedy', 'Action', 'Adventure', 'TV Movie', 'Science Fiction']",USA
-552,Mega Shark vs. Giant Octopus,2.5,1.44,3727,"['Science Fiction', 'Horror']",USA
-553,The Last Sharknado: It's About Time,2.5,1.88,5236,"['Comedy', 'Adventure', 'Action', 'Science Fiction', 'TV Movie']",USA
-554,Sharknado 5: Global Swarming,2.5,1.83,6801,"['Comedy', 'Adventure', 'Science Fiction', 'Action', 'TV Movie']",USA
-555,2-Headed Shark Attack,2.5,1.47,2743,"['Horror', 'Action', 'Science Fiction', 'Thriller']",USA
-556,Lake Placid 3,2.5,1.68,1907,"['Thriller', 'Science Fiction', 'Horror', 'Action']",USA
-557,Mega Shark vs. Crocosaurus,2.5,1.42,2286,"['Action', 'Horror', 'Science Fiction']",USA
-558,3-Headed Shark Attack,2.5,1.5,1822,"['Action', 'Horror', 'Science Fiction']",USA
-559,5 Headed Shark Attack,2.5,1.57,1440,"['Science Fiction', 'Horror']",USA
-560,Mega Piranha,2.5,1.48,1542,"['Science Fiction', 'Horror', 'Action', 'Adventure']",USA
-561,Heropanti 2,2.5,1.36,736,"['Action', 'Romance', 'Drama']",India
-562,Airplane vs Volcano,2.5,1.49,878,['Action'],USA
-563,Radhe,2.5,1.18,1413,"['Drama', 'Action', 'Thriller', 'Crime']",India
-564,100 Million BC,2.5,1.41,631,"['Adventure', 'Action', 'Science Fiction']",USA
-565,Mega Shark vs. Mecha Shark,2.5,1.53,1415,"['Science Fiction', 'Action', 'Thriller']",USA
-566,Bermuda Tentacles,2.5,1.68,467,['Science Fiction'],USA
-567,Geo-Disaster,2.5,1.92,248,"['Science Fiction', 'TV Movie', 'Action']",USA
-568,Triassic World,2.5,1.87,295,"['Science Fiction', 'Horror', 'Action']",USA
-569,500 MPH Storm,2.5,1.54,327,"['Adventure', 'Science Fiction', 'Drama', 'Thriller', 'Action', 'TV Movie']",USA
-570,Die Hard,4.5,4.05,452539,"['Action', 'Thriller']",USA
-571,Piranha 3D,2.5,2.41,50494,"['Comedy', 'Horror']",USA
-572,Spy Kids 2: The Island of Lost Dreams,3.0,2.72,84182,"['Comedy', 'Family', 'Action', 'Adventure', 'Science Fiction']",USA
-573,Spy Kids,3.0,2.9,155613,"['Action', 'Family', 'Adventure', 'Comedy']",USA
-574,Inside Out,4.5,3.85,1013403,"['Adventure', 'Comedy', 'Family', 'Drama', 'Animation']",USA
-575,Spy Kids: All the Time in the World,3.0,1.62,33393,"['Comedy', 'Action', 'Family']",USA
-576,Airline Disaster,2.5,2.28,120,"['Adventure', 'Thriller', 'Action']",USA
-577,Spy Kids 3-D: Game Over,3.0,2.38,88957,"['Action', 'Adventure', 'Science Fiction', 'Comedy', 'Family']",USA
-578,16 Wishes,3.0,2.72,34662,"['Drama', 'Family', 'Fantasy']",USA
-579,The Game Plan,3.0,2.86,56621,"['Family', 'Comedy']",USA
-580,Blast from the Past,3.0,3.22,27121,"['Drama', 'Comedy', 'Romance']",USA
-581,Dirty Dancing,2.0,3.66,237888,"['Music', 'Romance', 'Drama']",USA
-582,Home Alone: The Holiday Heist,2.5,1.32,9238,"['TV Movie', 'Comedy', 'Family']",Canada
-583,Teen Beach Movie,3.0,3.37,58024,"['Music', 'Family', 'Comedy', 'TV Movie']",USA
-584,Ice Age,4.0,3.47,365245,"['Animation', 'Comedy', 'Adventure', 'Family']",USA
-585,Child's Play 3,2.5,2.61,50874,"['Horror', 'Thriller']",USA
-586,Camp Rock 2: The Final Jam,2.5,2.63,49747,"['TV Movie', 'Music', 'Comedy']",USA
-587,Ice Age: Dawn of the Dinosaurs,3.5,3.07,152379,"['Comedy', 'Adventure', 'Animation', 'Family']",USA
-588,Romeo and Juliet,2.5,3.44,24551,"['Drama', 'Romance']",Italy
-589,Home Alone 4,2.5,1.29,24645,"['TV Movie', 'Family', 'Comedy']",USA
-590,Ice Age: The Meltdown,3.5,3.03,187272,"['Animation', 'Adventure', 'Comedy', 'Family']",USA
-591,Prisoners,4.5,4.24,680847,"['Drama', 'Crime', 'Thriller']",USA
-592,Beauty and the Beast,3.0,3.88,323256,"['Animation', 'Family', 'Fantasy', 'Romance']",USA
-593,Replicas,2.5,2.01,16718,"['Science Fiction', 'Drama', 'Thriller']",Canada
-594,The Jungle Book,4.0,3.61,158489,"['Adventure', 'Animation', 'Family']",USA
-595,Frankenweenie,3.0,3.42,130281,"['Animation', 'Family', 'Comedy']",USA
-596,Rebecca,3.0,2.54,53751,"['Mystery', 'Thriller', 'Romance', 'Drama']",UK
-597,Fantastic Mr. Fox,4.0,4.25,774209,"['Comedy', 'Family', 'Animation', 'Adventure']",USA
-598,Radio Rebel,2.5,2.18,26545,"['Comedy', 'Drama', 'TV Movie', 'Family']",Canada
-599,Curious George,4.5,3.34,28241,"['Animation', 'Family', 'Adventure', 'Comedy']",USA
-600,Morbius,3.0,1.83,210153,"['Fantasy', 'Science Fiction', 'Action']",USA
-601,Spirited Away,5.0,4.48,1149776,"['Fantasy', 'Animation', 'Family']",Japan
-602,Armour of God,4.0,3.3,8882,"['Comedy', 'Action', 'Adventure']",Hong Kong
-603,Memories of Murder,5.0,4.31,285736,"['Crime', 'Drama', 'Thriller']",South Korea
-604,Operation Condor,4.0,3.5,8243,"['Adventure', 'Thriller', 'Action', 'Crime']",Hong Kong
-605,Big Hero 6,5.0,3.79,582503,"['Family', 'Animation', 'Adventure', 'Comedy', 'Action']",USA
-606,Inception,5.0,4.18,1468640,"['Science Fiction', 'Action', 'Adventure']",UK
-607,Final Destination,4.5,3.17,184563,['Horror'],USA
-608,Everything Everywhere All at Once,4.5,4.4,1506326,"['Adventure', 'Action', 'Science Fiction']",USA
-609,Bodies Bodies Bodies,4.5,3.45,368802,"['Thriller', 'Horror', 'Comedy']",USA
-610,Police Story 2,4.5,3.53,22497,"['Thriller', 'Crime', 'Action']",Hong Kong
-611,Unfriended,3.5,2.34,130455,"['Horror', 'Thriller', 'Mystery']",USA
-612,Bullet Train,4.0,3.59,677578,"['Comedy', 'Action', 'Thriller']",USA
-613,Dunkirk,4.5,3.78,852491,"['War', 'Drama', 'Action']",France
-614,Us,4.5,3.74,920520,"['Horror', 'Mystery', 'Thriller']",USA
-615,The Nun,3.0,2.19,171904,"['Thriller', 'Mystery', 'Horror']",USA
-616,Close Encounters of the Third Kind,3.5,3.8,148762,"['Drama', 'Science Fiction']",USA
-617,The Resort,2.0,1.17,5391,['Horror'],USA
-618,Last Seen Alive,3.0,2.31,13083,"['Action', 'Thriller']",USA
-619,Law Abiding Citizen,4.0,3.29,64846,"['Crime', 'Thriller', 'Drama']",USA
-620,Race,3.5,2.88,3176,"['Action', 'Thriller', 'Drama', 'Crime']",India
-621,Ittefaq,3.5,3.27,2983,"['Thriller', 'Mystery', 'Crime']",India
-622,Thank God,3.0,2.27,1119,['Comedy'],India
-623,Forrest Gump,4.0,4.13,1173338,"['Romance', 'Comedy', 'Drama']",USA
-624,Guardians of the Galaxy Vol. 2,4.0,3.56,917365,"['Science Fiction', 'Action', 'Adventure', 'Comedy']",USA
-625,It,4.0,3.52,939466,"['Horror', 'Fantasy']",USA
-626,Captain America: The First Avenger,4.0,3.32,718100,"['Science Fiction', 'Action', 'Adventure']",USA
-627,The Evil Dead,4.0,3.71,273750,['Horror'],USA
-628,Back to the Future Part II,4.0,3.84,414846,"['Adventure', 'Comedy', 'Science Fiction']",USA
-629,Indiana Jones and the Temple of Doom,4.5,3.61,327597,"['Action', 'Adventure']",USA
-630,Moneyball,4.0,3.83,304603,['Drama'],USA
-631,Airplane!,4.0,3.81,248513,['Comedy'],USA
-632,22 Jump Street,4.0,3.32,300050,"['Crime', 'Action', 'Comedy']",USA
-633,Predator,4.0,3.78,235985,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",USA
-634,The Ring,4.0,3.33,196698,"['Horror', 'Mystery']",USA
-635,Independence Day,4.0,3.29,209679,"['Adventure', 'Action', 'Science Fiction']",USA
-636,Child's Play,4.0,3.37,148797,['Horror'],USA
-637,She-Hulk: Attorney at Law,4.0,2.68,96474,['Comedy'],USA
-638,Commando,4.0,3.39,62019,"['Adventure', 'Thriller', 'Action']",USA
-639,Identity,4.0,3.36,76102,"['Thriller', 'Mystery']",USA
-640,The Bourne Supremacy,4.0,3.53,141303,"['Thriller', 'Drama', 'Action']",Germany
-641,Final Destination 2,4.0,2.92,104187,"['Horror', 'Mystery']",USA
-642,Knowing,4.0,2.63,72106,"['Thriller', 'Science Fiction', 'Mystery', 'Action']",UK
-643,"Game Over, Man!",4.0,2.43,27667,"['Comedy', 'Action']",USA
-644,Unstoppable,4.0,3.26,57578,"['Action', 'Thriller']",USA
-645,Rumble in the Bronx,4.5,3.43,25584,"['Thriller', 'Crime', 'Comedy', 'Action']",Hong Kong
-646,Devil,4.0,2.62,68110,"['Horror', 'Mystery', 'Thriller']",USA
-647,Presumed Innocent,4.0,3.37,13963,"['Thriller', 'Mystery', 'Crime']",USA
-648,Scooby-Doo! and the Legend of the Vampire,4.5,3.14,11001,"['Animation', 'Comedy', 'Music', 'Fantasy', 'Mystery', 'Family']",USA
-649,Doctor Strange in the Multiverse of Madness,3.5,3.13,904012,"['Action', 'Fantasy', 'Adventure']",USA
-650,The Dark Knight Rises,4.0,3.71,811291,"['Drama', 'Crime', 'Action', 'Thriller']",USA
-651,Scooby-Doo,4.0,3.27,256475,"['Mystery', 'Comedy', 'Adventure']",USA
-652,Ocean's Eleven,4.5,3.84,453588,"['Crime', 'Thriller']",USA
-653,Star Wars: Episode III - Revenge of the Sith,4.5,3.69,674678,"['Action', 'Science Fiction', 'Adventure']",USA
-654,The Invitation,4.0,3.32,148977,"['Horror', 'Thriller']",USA
-655,Mission: Impossible III,3.5,3.32,168642,"['Action', 'Thriller', 'Adventure']",USA
-656,Drag Me to Hell,3.5,3.22,125602,"['Thriller', 'Horror']",USA
-657,Armageddon,3.5,3.0,130545,"['Adventure', 'Science Fiction', 'Action', 'Thriller']",USA
-658,Final Destination 3,3.5,3.0,109337,"['Horror', 'Mystery']",Canada
-659,Elf,3.5,3.54,366269,"['Comedy', 'Fantasy', 'Family']",USA
-660,Terrifier,3.5,2.58,129627,"['Thriller', 'Horror']",USA
-661,Ghost,3.5,3.44,109307,"['Mystery', 'Thriller', 'Romance', 'Drama', 'Fantasy']",USA
-662,The Expendables 2,3.5,2.75,74670,"['Thriller', 'Action', 'Adventure']",Bulgaria
-663,Insidious: Chapter 3,3.5,2.67,68702,"['Thriller', 'Horror', 'Mystery']",Canada
-664,Air Force One,3.5,3.17,67342,"['Thriller', 'Action']",Germany
-665,Snakes on a Plane,3.5,2.45,59424,"['Action', 'Crime', 'Thriller', 'Adventure']",USA
-666,The Weekend Away,3.5,2.46,33161,"['Thriller', 'Mystery']",UK
-667,Home Alone 3,4.0,2.09,68050,"['Family', 'Comedy']",USA
-668,Deep Blue Sea,3.5,2.81,58640,"['Science Fiction', 'Action', 'Horror']",Australia
-669,Escape Plan,3.5,2.9,56659,"['Action', 'Thriller']",USA
-670,The Man from Toronto,3.5,2.51,34665,"['Comedy', 'Action', 'Adventure']",Canada
-671,Airplane II: The Sequel,3.5,2.85,19377,['Comedy'],USA
-672,Passenger 57,3.5,2.81,12713,"['Thriller', 'Adventure', 'Action']",USA
-673,Domestic Disturbance,3.5,2.48,5968,"['Mystery', 'Thriller', 'Crime']",USA
-674,True Memoirs of an International Assassin,3.5,2.25,9380,"['Comedy', 'Action']",USA
-675,Just Cause,3.5,2.81,6087,"['Action', 'Drama', 'Mystery', 'Thriller']",USA
-676,Halloween,3.5,3.9,463489,"['Thriller', 'Horror']",USA
-677,Govinda Naam Mera,3.5,2.77,1368,"['Romance', 'Comedy', 'Drama']",India
-678,Night at the Museum,3.5,3.21,346051,"['Adventure', 'Fantasy', 'Action', 'Family', 'Comedy']",USA
-679,Jurassic World Dominion,3.5,2.35,248161,"['Science Fiction', 'Adventure', 'Action']",USA
-680,HIT: The First Case,3.5,3.34,2640,"['Thriller', 'Action', 'Drama']",India
-681,Poltergeist,4.0,3.56,176745,['Horror'],USA
-682,Jurassic World: Fallen Kingdom,3.5,2.63,318114,"['Thriller', 'Action', 'Adventure', 'Science Fiction']",USA
-683,Glass Onion,4.5,3.61,1105765,"['Crime', 'Comedy', 'Mystery']",USA
-684,Titanic,4.5,3.82,903978,"['Romance', 'Drama']",USA
-685,Drishyam,4.0,3.83,8514,"['Mystery', 'Crime', 'Thriller', 'Drama']",India
-686,True Lies,4.0,3.53,90679,"['Action', 'Thriller']",USA
-687,Dhol,3.5,3.09,948,['Comedy'],India
-688,Paths of Glory,3.5,4.33,132375,"['Drama', 'War']",USA
-689,A Bug's Life,3.5,3.43,316904,"['Animation', 'Comedy', 'Family', 'Adventure']",USA
-690,Dhoom,3.0,2.86,4844,"['Thriller', 'Action', 'Drama', 'Crime']",India
-691,Dhoom 3,3.0,2.46,7690,"['Crime', 'Thriller', 'Action']",India
-692,Dhoom 2,3.5,3.23,7282,"['Crime', 'Drama', 'Action', 'Thriller']",India
-693,Project A,4.5,3.66,10657,"['Comedy', 'Action', 'Adventure']",Hong Kong
-694,No Escape,3.5,3.08,26174,['Thriller'],USA
-695,L.A. Confidential,4.5,3.97,174666,"['Crime', 'Thriller', 'Mystery']",USA
-696,Phone Bhoot,2.5,2.57,1204,"['Horror', 'Comedy']",India
-697,Singham Returns,3.5,2.21,2103,['Action'],India
-698,Krrish 3,2.5,2.04,4484,"['Science Fiction', 'Action']",India
-699,Krrish,3.5,2.78,5852,"['Science Fiction', 'Action']",Hong Kong
-700,Coach Carter,4.0,3.65,81340,"['Drama', 'History']",Germany
-701,Life Is Beautiful,4.5,4.26,236319,"['Comedy', 'Drama']",Italy
-702,Koi... Mil Gaya,3.5,3.13,5678,"['Drama', 'Action', 'Science Fiction']",India
-703,Jab We Met,3.5,3.8,11855,"['Drama', 'Romance', 'Comedy']",India
-704,Rocky II,4.5,3.69,129290,['Drama'],USA
-705,Rocky,4.0,4.02,336441,"['Romance', 'Drama']",USA
-706,Rocky III,4.5,3.42,116400,['Drama'],USA
-707,The Pale Blue Eye,3.0,3.09,106135,['Crime'],USA
-708,Rocky IV,4.5,3.53,125833,['Drama'],USA
-709,21 Jump Street,4.5,3.58,451606,"['Comedy', 'Crime', 'Action']",USA
-710,36 China Town,3.5,2.75,1099,"['Thriller', 'Comedy']",India
-711,Celtics/Lakers: Best of Enemies,4.5,3.98,1339,['Documentary'],USA
-712,Drishyam 2,4.0,3.6,4391,"['Crime', 'Drama', 'Thriller', 'Mystery']",India
-713,42 to 1,4.0,3.37,733,['Documentary'],USA
-714,Mr. India,4.0,3.44,1773,"['Science Fiction', 'Action', 'Drama']",India
-715,Deion's Double Play,3.5,3.19,770,['Documentary'],USA
-716,Rocky V,3.5,2.44,76891,['Drama'],USA
-717,The Two Bills,4.0,3.41,638,['Documentary'],USA
-718,The Mummy,4.5,3.48,258245,"['Fantasy', 'Action', 'Adventure']",USA
-719,Indiana Jones and the Kingdom of the Crystal Skull,3.5,2.6,255660,"['Adventure', 'Action']",USA
-720,Den of Thieves,3.5,3.19,46804,"['Crime', 'Thriller', 'Action']",USA
-721,The Thing,5.0,4.33,451010,"['Science Fiction', 'Horror', 'Mystery']",Canada
-722,Transformers,4.5,3.03,282713,"['Science Fiction', 'Adventure', 'Action']",USA
-723,2025: The World Enslaved by a Virus,0.5,0.73,4300,"['Adventure', 'Science Fiction', 'Drama', 'Thriller']",USA
-724,The Mummy Returns,4.5,2.94,130634,"['Action', 'Fantasy', 'Adventure']",USA
-725,Skinamarink,3.0,2.99,94132,['Horror'],Canada
-726,Super Size Me,3.5,2.95,71773,['Documentary'],USA
-727,Zoolander 2,3.5,2.08,62746,"['Comedy', 'Action', 'Adventure']",USA
-728,The Invisible Man,3.5,3.5,408358,"['Horror', 'Science Fiction', 'Thriller']",Australia
-729,The Dictator,3.5,2.82,166271,['Comedy'],USA
-730,Inglourious Basterds,5.0,4.3,1208629,"['Thriller', 'Drama', 'War']",France
-731,The Fugitive,4.5,3.83,117993,"['Drama', 'Thriller', 'Action']",USA
-732,White Men Can't Jump,3.5,3.46,47984,"['Comedy', 'Drama']",USA
-733,The Happening,3.0,2.01,95444,"['Science Fiction', 'Thriller']",USA
-734,The Little Mermaid,3.0,3.68,292810,"['Animation', 'Fantasy', 'Family']",USA
-735,Ford v Ferrari,4.5,3.9,379239,"['Drama', 'History', 'Action']",USA
-736,Knock at the Cabin,3.5,3.03,212284,"['Horror', 'Thriller', 'Mystery']",China
-737,U.S. Marshals,4.5,2.99,23761,"['Crime', 'Thriller', 'Action']",USA
-738,Rocky Balboa,3.5,3.45,84055,['Drama'],USA
-739,The Nightmare Before Christmas,4.0,3.98,559473,"['Animation', 'Family', 'Fantasy']",USA
-740,Creed,4.5,3.81,314970,"['Drama', 'Action']",USA
-741,Spider-Man: Homecoming,4.5,3.57,1079788,"['Science Fiction', 'Action', 'Adventure', 'Drama']",USA
-742,The Guardians of the Galaxy Holiday Special,3.5,3.37,170167,"['Science Fiction', 'Comedy', 'Adventure']",USA
-743,The Falcon and the Winter Soldier,3.5,3.31,236263,['Drama'],USA
-744,Ant-Man and the Wasp: Quantumania,3.5,2.58,382291,"['Action', 'Adventure', 'Science Fiction']",USA
-745,Psycho,4.5,4.29,545607,"['Drama', 'Thriller', 'Horror']",USA
-746,The Avengers,4.5,3.68,996247,"['Science Fiction', 'Adventure', 'Action']",USA
-747,No Country for Old Men,5.0,4.28,745581,"['Drama', 'Thriller', 'Crime']",USA
-748,Creed II,4.0,3.54,189701,"['Drama', 'Action']",USA
-749,All Quiet on the Western Front,4.5,3.95,387737,"['War', 'Drama']",Germany
-750,Happy Gilmore,4.0,3.39,158089,['Comedy'],USA
-751,Super 8,3.5,3.43,189177,"['Science Fiction', 'Thriller', 'Mystery']",USA
-752,Camp Rock,2.5,2.77,91882,"['Romance', 'TV Movie', 'Comedy', 'Family', 'Music', 'Drama']",USA
-753,Christmas Twister,2.5,1.6,591,"['Drama', 'TV Movie', 'Action', 'Science Fiction']",USA
-754,Romeo + Juliet,3.0,3.39,264788,"['Drama', 'Romance']",Mexico
-755,Captain Phillips,3.0,3.68,194331,"['Action', 'Thriller', 'Drama']",USA
-756,Scooby-Doo! The Mystery Begins,3.0,2.15,13686,"['Mystery', 'Comedy', 'Fantasy']",USA
-757,The Black Phone,3.5,3.41,434861,"['Horror', 'Thriller']",USA
-758,Shrek 2,3.5,3.99,601380,"['Family', 'Adventure', 'Animation', 'Comedy', 'Fantasy']",USA
-759,Jumanji: Welcome to the Jungle,3.5,3.14,414983,"['Action', 'Comedy', 'Fantasy', 'Adventure']",USA
-760,Hercules,3.5,3.75,307336,"['Fantasy', 'Comedy', 'Romance', 'Adventure', 'Animation', 'Family']",USA
-761,Anacondas: The Hunt for the Blood Orchid,3.0,2.21,12847,"['Action', 'Fantasy', 'Adventure', 'Horror']",USA
-762,Ocean's Thirteen,3.5,3.3,161184,"['Crime', 'Thriller']",USA
-763,Insomnia,3.5,3.46,135296,"['Crime', 'Mystery', 'Thriller']",USA
-764,Apollo 13,4.5,3.73,123230,"['Adventure', 'History', 'Drama']",USA
-765,In the Heat of the Night,3.5,3.94,44500,"['Thriller', 'Crime', 'Mystery', 'Drama']",USA
-766,Madagascar,3.5,3.41,347769,"['Family', 'Animation', 'Adventure', 'Comedy']",USA
-767,I Spy,3.5,2.29,11902,"['Comedy', 'Thriller', 'Action', 'Adventure']",USA
-768,Soul Plane,3.5,2.14,9137,"['Comedy', 'Romance']",USA
-769,The Big Brawl,3.5,2.78,2455,"['Comedy', 'Action']",Hong Kong
-770,Tango & Cash,4.5,3.1,28767,"['Comedy', 'Adventure', 'Action', 'Thriller']",USA
-771,The Bone Collector,4.0,3.14,46268,"['Thriller', 'Mystery', 'Crime', 'Drama']",USA
-772,Killer Klowns from Outer Space,3.5,3.37,64582,"['Comedy', 'Horror', 'Science Fiction']",USA
-773,Man on a Ledge,3.5,2.8,25009,"['Thriller', 'Action', 'Crime']",USA
-774,Conspiracy Theory,3.5,3.02,19562,"['Action', 'Mystery', 'Drama', 'Thriller']",USA
-775,Poltergeist II: The Other Side,3.5,2.71,14960,"['Thriller', 'Horror']",USA
-776,Lethal Weapon,4.0,3.67,101690,"['Comedy', 'Thriller', 'Adventure', 'Crime', 'Action']",USA
-777,Poltergeist III,3.0,2.43,10301,"['Thriller', 'Horror']",USA
-778,City of God,5.0,4.46,338184,"['Crime', 'Drama']",Brazil
-779,Hearts and Minds,4.0,4.11,4141,"['Documentary', 'War']",USA
-780,The Commuter,3.5,2.85,57797,"['Action', 'Thriller', 'Mystery']",Canada
-781,Spree,1.0,3.26,169940,"['Comedy', 'Thriller', 'Horror']",USA
-782,Mamma Mia! Here We Go Again,3.5,3.53,239784,"['Romance', 'Comedy']",UK
-783,Alvin and the Chipmunks,3.5,2.48,152979,"['Comedy', 'Animation', 'Fantasy', 'Family']",USA
-784,The Frozen Ground,1.0,2.73,14515,"['Crime', 'Thriller']",USA
-785,Alvin and the Chipmunks: The Squeakquel,3.0,2.17,79158,"['Fantasy', 'Comedy', 'Animation', 'Music', 'Family']",USA
-786,Contagion,3.0,3.34,196487,"['Drama', 'Science Fiction', 'Thriller']",USA
-787,Barbie and the Magic of Pegasus,3.5,3.66,25046,"['Animation', 'Family', 'Romance']",USA
-788,Barbie: Princess Charm School,4.0,4.02,32910,"['Fantasy', 'Animation', 'Family']",USA
-789,Barbie: A Fashion Fairytale,3.5,3.89,19541,"['Animation', 'Family']",USA
-790,Barbie: The Princess & The Popstar,3.0,3.41,18166,"['Animation', 'Family']",USA
-791,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,3.0,3.68,347796,['Comedy'],UK
-792,Barbie: A Fairy Secret,3.5,3.65,16913,"['Family', 'Animation', 'Fantasy']",USA
-793,Stree,4.0,3.28,5916,"['Comedy', 'Horror']",India
-794,The Lego Movie,4.0,3.77,480003,"['Comedy', 'Fantasy', 'Family', 'Adventure', 'Animation']",Denmark
-795,Greatest Events of World War II in Colour,4.5,4.16,1584,['Documentary'],UK
-796,Creed III,4.5,3.64,170315,"['Drama', 'Action']",USA
-797,Four Falls of Buffalo,4.0,3.72,1733,['Documentary'],USA
-798,House Shark,2.5,1.88,1298,"['Comedy', 'Horror']",USA
-799,Eyes Without a Face,4.0,3.9,70781,"['Thriller', 'Horror', 'Drama']",France
-800,Aladdin,3.5,3.87,386240,"['Romance', 'Fantasy', 'Adventure', 'Animation', 'Family']",USA
-801,Annabelle,3.5,2.45,149780,['Horror'],USA
-802,Nope,4.5,3.84,930407,"['Mystery', 'Science Fiction', 'Horror']",USA
-803,Shaun of the Dead,4.0,3.98,515662,"['Comedy', 'Horror']",France
-804,Cocaine Bear,4.0,2.99,254236,"['Thriller', 'Comedy', 'Crime']",USA
-805,Sinister 2,4.0,2.47,48037,['Horror'],Canada
-806,Insidious: Chapter 2,4.0,3.04,112350,"['Horror', 'Thriller']",USA
-807,The King's Man,4.0,2.84,176595,"['Adventure', 'Action', 'Thriller']",UK
-808,Believeland,4.5,3.37,839,['Documentary'],USA
-809,Fear Street: 1978,3.5,3.51,227065,"['Mystery', 'Horror']",USA
-810,Scream 2,4.0,3.38,277145,"['Horror', 'Mystery']",USA
-811,Once Upon a TimeÉ in Hollywood,3.5,3.77,1221173,"['Thriller', 'Comedy', 'Drama']",China
-812,Candyman,3.5,3.2,195905,"['Mystery', 'Thriller', 'Horror']",Canada
-813,Inferno,4.0,2.66,76329,"['Drama', 'Mystery', 'Action', 'Thriller']",Hungary
-814,Eraser,4.0,2.81,23961,"['Drama', 'Thriller', 'Mystery', 'Action']",Canada
-815,Scooby-Doo 2: Monsters Unleashed,3.5,3.14,128044,"['Comedy', 'Adventure', 'Fantasy', 'Mystery']",USA
-816,First Blood,3.5,3.75,133035,"['War', 'Action', 'Thriller', 'Adventure']",USA
-817,Friday the 13th,3.5,3.11,184889,['Horror'],USA
-818,The Mask,3.5,3.3,299324,"['Romance', 'Crime', 'Comedy', 'Fantasy']",USA
-819,Happy Feet,4.0,2.88,179733,"['Comedy', 'Animation', 'Family']",Australia
-820,Anger Management,3.5,2.74,71511,['Comedy'],USA
-821,The Gift,3.5,3.1,24970,"['Mystery', 'Thriller', 'Drama', 'Horror']",USA
-822,The Glass House,3.5,2.59,15877,"['Thriller', 'Drama']",USA
-823,Beverly Hills Ninja,3.5,2.54,18544,"['Comedy', 'Action']",USA
-824,State of Play,3.5,3.26,30754,['Thriller'],France
-825,Fear Street: 1666,3.0,3.45,194689,"['Mystery', 'Horror']",USA
-826,Lake Placid 2,2.5,1.71,2308,"['Science Fiction', 'Horror']",Canada
-827,Tremors: A Cold Day in Hell,2.5,2.18,4427,"['Comedy', 'Horror', 'Science Fiction', 'Action', 'Adventure', 'Fantasy']",USA
-828,Bird Box,2.5,2.91,509028,"['Thriller', 'Drama', 'Science Fiction']",USA
-829,Tremors: Shrieker Island,2.5,2.44,4127,"['Action', 'Horror']",USA
-830,Ice Age: Continental Drift,2.5,2.69,116209,"['Comedy', 'Adventure', 'Animation', 'Family']",USA
-831,6-Headed Shark Attack,2.5,1.77,1337,"['Science Fiction', 'TV Movie', 'Action', 'Horror']",USA
-832,Anacondas: Trail of Blood,2.5,1.42,2846,"['Fantasy', 'Adventure', 'Horror', 'Action']",USA
-833,A Good Day to Die Hard,2.0,1.87,54457,"['Thriller', 'Action']",USA
-834,The Jurassic Games,2.5,1.87,1914,"['Science Fiction', 'Horror', 'Action']",USA
-835,Twins,2.5,2.93,49361,['Comedy'],USA
-836,Anaconda 3: Offspring,2.5,1.45,3299,"['Action', 'Adventure', 'Fantasy', 'Horror']",USA
-837,Agatha and the Midnight Murders,2.5,2.68,327,"['Mystery', 'TV Movie']",UK
-838,Tremors 5: Bloodlines,3.0,2.33,5264,"['Adventure', 'Action', 'Horror', 'Comedy', 'Science Fiction']",USA
-839,Tenet,4.5,3.42,725143,"['Science Fiction', 'Action', 'Thriller']",UK
-840,The Parent Trap,3.0,3.71,281411,"['Comedy', 'Family']",USA
-841,The Guilty,3.0,2.93,212711,"['Drama', 'Thriller']",USA
-842,Fight Club,5.0,4.3,1601105,"['Drama', 'Comedy', 'Thriller']",USA
-843,Point Break,3.0,3.7,152343,"['Action', 'Crime', 'Thriller']",Japan
-844,Jungle Cruise,3.0,2.88,151640,"['Fantasy', 'Adventure', 'Action']",USA
-845,Annabelle Comes Home,3.0,2.64,100682,"['Thriller', 'Horror', 'Mystery']",USA
-846,Annabelle: Creation,3.0,3.03,123050,"['Thriller', 'Mystery', 'Horror']",USA
-847,Grown Ups,3.0,2.88,213576,['Comedy'],USA
-848,Friday the 13th Part 2,3.0,3.1,83072,['Horror'],USA
-849,Crawl,3.0,2.96,115847,"['Action', 'Thriller', 'Horror']",Canada
-850,Due Date,3.0,2.83,100525,"['Comedy', 'Drama']",USA
-851,The Ninth Gate,3.0,3.09,51068,"['Mystery', 'Thriller', 'Horror']",Spain
-852,The Final Destination,3.0,2.21,79844,"['Mystery', 'Horror']",USA
-853,The Man,3.0,2.28,4723,"['Crime', 'Action', 'Comedy']",USA
-854,Lake Placid vs. Anaconda,2.0,1.47,2235,"['Horror', 'Action']",USA
-855,Piranha 3DD,2.0,1.68,17943,"['Comedy', 'Thriller', 'Horror']",USA
-856,Django Unchained,4.5,4.21,1140882,"['Western', 'Drama']",USA
-857,Escape Room,2.0,1.58,8854,"['Thriller', 'Horror']",USA
-858,Reservoir Dogs,3.5,4.11,686211,"['Crime', 'Thriller']",USA
-859,Murder Mystery 2,3.5,2.65,105332,"['Comedy', 'Crime']",USA
-860,Skyscraper,3.0,2.38,74859,"['Thriller', 'Action']",USA
-861,Being John Malkovich,4.0,3.99,263049,"['Drama', 'Fantasy', 'Comedy']",USA
-862,American Beauty,4.0,3.94,532392,['Drama'],USA
-863,1408,3.5,3.18,95418,"['Horror', 'Thriller', 'Mystery']",USA
-864,Paddington,4.0,3.81,294209,"['Adventure', 'Comedy', 'Family']",France
-865,The Super Mario Bros. Movie,4.0,3.5,534170,"['Adventure', 'Comedy', 'Family', 'Animation', 'Fantasy']",Japan
-866,The Hateful Eight,3.5,3.87,575617,"['Drama', 'Mystery', 'Western']",USA
-867,Good Will Hunting,4.5,4.24,710869,['Drama'],USA
-868,Night at the Museum: Secret of the Tomb,3.0,2.75,99608,"['Comedy', 'Fantasy', 'Family', 'Adventure']",UK
-869,The Truman Show,4.5,4.2,1239194,"['Comedy', 'Drama']",USA
-870,The Shawshank Redemption,5.0,4.49,890870,"['Drama', 'Crime']",USA
-871,The Spy Next Door,3.0,2.31,24612,"['Action', 'Comedy', 'Family']",USA
-872,Toy Story,4.5,4.13,857232,"['Animation', 'Adventure', 'Comedy', 'Family']",USA
-873,Toy Story 2,4.0,3.92,593675,"['Comedy', 'Animation', 'Family']",USA
-874,Toy Story 4,3.5,3.5,524083,"['Family', 'Fantasy', 'Comedy', 'Animation', 'Adventure']",USA
-875,The SpongeBob Movie: Sponge on the Run,3.0,2.64,44671,"['Family', 'Fantasy', 'Comedy', 'Adventure', 'Animation']",South Korea
-876,Planet of the Sharks,1.5,1.39,892,"['Action', 'Horror', 'Science Fiction']",USA
-877,Ratatouille,4.0,4.19,1074485,"['Fantasy', 'Family', 'Comedy', 'Animation']",USA
-878,Gravity,1.5,3.48,484915,"['Science Fiction', 'Thriller', 'Drama']",UK
-879,Empire of the Sharks,1.5,1.66,419,"['Science Fiction', 'Action']",USA
-880,Terminator Salvation,2.0,2.52,91563,"['Science Fiction', 'Action', 'Thriller']",Germany
-881,Hero and the Terror,2.0,2.48,1371,"['Romance', 'Drama', 'Crime', 'Thriller', 'Action']",USA
-882,Brazen,2.0,1.61,7847,"['Drama', 'Thriller', 'Mystery']",USA
-883,Ice Sharks,2.0,1.55,808,"['Adventure', 'TV Movie', 'Horror', 'Action', 'Science Fiction']",USA
-884,Wings of Desire,3.0,4.22,71941,"['Romance', 'Fantasy', 'Drama']",France
-885,Booksmart,2.5,3.82,525871,['Comedy'],USA
-886,Thir13en Ghosts,2.5,2.72,46806,"['Thriller', 'Horror']",Canada
-887,Fantastic Four,2.5,1.43,127615,"['Science Fiction', 'Adventure', 'Action']",UK
-888,World War Z,2.5,3.1,373248,"['Science Fiction', 'Drama', 'Thriller', 'Action', 'Horror']",Malta
-889,Captain Marvel,3.0,2.88,768827,"['Science Fiction', 'Action', 'Adventure']",USA
-890,Snitch,2.5,2.68,15230,"['Drama', 'Action', 'Thriller']",USA
-891,Thor,3.0,2.87,659345,"['Fantasy', 'Action', 'Adventure']",USA
-892,Jingle All the Way,3.0,2.83,93508,"['Family', 'Adventure', 'Comedy']",USA
-893,Terminator 3: Rise of the Machines,3.5,2.63,110728,"['Action', 'Thriller', 'Science Fiction']",Germany
-894,ABCD 2,2.5,2.3,1887,['Music'],India
-895,The Fly II,3.0,2.63,11466,"['Thriller', 'Horror', 'Science Fiction']",Canada
-896,Cop Out,3.0,2.12,22133,"['Comedy', 'Crime', 'Action']",USA
-897,She's the Man,3.0,3.36,159552,"['Romance', 'Drama', 'Comedy']",USA
-898,The Mummy: Tomb of the Dragon Emperor,3.0,2.2,65079,"['Fantasy', 'Adventure', 'Action']",Canada
-899,ABCD,3.0,2.77,1821,"['Music', 'Drama']",India
-900,Tremors 2: Aftershocks,3.5,2.88,15777,"['Horror', 'Thriller', 'Action', 'Comedy', 'Science Fiction']",USA
-901,Race 2,3.0,2.39,2639,['Thriller'],India
-902,Tremors 4: The Legend Begins,3.0,2.46,6680,"['Action', 'Western', 'Comedy', 'Horror']",USA
-903,Race 3,2.5,1.25,1873,"['Action', 'Thriller']",India
-904,Fear Street: 1994,3.5,3.18,272976,"['Mystery', 'Horror']",USA
-905,The Hurt Locker,3.5,3.68,167419,"['Drama', 'Thriller', 'War']",USA
-906,The Stepfather,3.5,2.36,18647,"['Horror', 'Thriller']",USA
-907,Kabhi Khushi Kabhie Gham,3.5,3.72,16252,"['Drama', 'Comedy']",India
-908,Dumb and Dumber,3.5,3.32,191986,['Comedy'],USA
-909,Project A: Part II,4.0,3.47,5207,"['Comedy', 'Action']",Hong Kong
-910,The Vanished,3.5,2.37,6669,"['Action', 'Thriller', 'Crime', 'Horror']",USA
-911,Rising Sun,3.5,2.75,9338,"['Action', 'Drama', 'Thriller']",USA
-912,Dobaaraa,3.5,3.1,1716,"['Thriller', 'Science Fiction', 'Mystery']",India
-913,Criminal Law,3.5,2.62,1246,"['Romance', 'Drama', 'Thriller']",Canada
-914,Insidious,4.0,3.25,256573,"['Horror', 'Thriller']",Canada
-915,Frozen,4.0,3.39,589531,"['Family', 'Adventure', 'Fantasy', 'Animation']",USA
-916,2:22,3.5,2.48,6187,"['Thriller', 'Mystery', 'Romance', 'Science Fiction']",Australia
-917,Bee Movie,3.0,2.88,260157,"['Family', 'Animation', 'Adventure', 'Comedy']",USA
-918,Whiplash,3.0,4.41,1356755,"['Drama', 'Music']",USA
-919,King Leopold's Ghost,4.0,3.62,235,"['History', 'Documentary']",USA
-920,Kill Bill: Vol. 1,4.5,4.16,981332,"['Action', 'Crime']",USA
-921,Army of Darkness,3.5,3.75,154496,"['Horror', 'Fantasy', 'Comedy']",USA
-922,Donnie Darko,4.5,3.98,740838,"['Mystery', 'Drama', 'Fantasy']",USA
-923,Kill Bill: Vol. 2,4.0,4.02,575157,"['Action', 'Crime', 'Thriller']",USA
-924,Sanders of the River,0.5,2.39,314,"['Drama', 'Adventure']",UK
-925,Bao,4.0,3.89,118866,"['Fantasy', 'Family', 'Animation']",Canada
-926,Evil Dead II,4.0,4.05,208979,"['Fantasy', 'Comedy', 'Horror']",USA
-927,You Again,2.5,2.92,26211,"['Romance', 'Comedy']",USA
-928,MH370: The Plane That Disappeared,3.0,2.58,5934,['Documentary'],UK
-929,The Terminator,4.5,3.87,377051,"['Action', 'Science Fiction', 'Thriller']",UK
-930,Guardians of the Galaxy Vol. 3,5.0,4.15,532680,"['Science Fiction', 'Action', 'Adventure']",USA
-931,Transformers: Revenge of the Fallen,3.0,2.34,171565,"['Science Fiction', 'Adventure', 'Action']",USA
-932,Alien,3.0,4.26,642587,"['Science Fiction', 'Horror']",USA
-933,Transformers: Dark of the Moon,3.5,2.51,159925,"['Action', 'Science Fiction', 'Adventure']",USA
-934,Are We There Yet?,3.0,2.4,30290,"['Adventure', 'Romance', 'Comedy', 'Family']",USA
-935,Tomorrowland,2.5,2.67,102213,"['Family', 'Science Fiction', 'Adventure', 'Mystery']",USA
-936,The Meg,2.5,2.42,165246,"['Action', 'Horror', 'Science Fiction']",China
-937,The Land Before Time,3.5,3.59,67866,"['Animation', 'Adventure', 'Family']",USA
-938,Life of Pi,4.0,3.68,408419,"['Adventure', 'Drama']",Canada
-939,Pathaan,3.5,2.89,15955,"['Adventure', 'Action', 'Thriller']",India
-940,A Kind of Murder,3.5,2.39,2387,"['Thriller', 'Crime', 'Drama']",USA
-941,Apocalypse Now,3.5,4.36,391746,"['War', 'Drama']",USA
-942,Gone in the Night,2.0,2.21,7387,"['Thriller', 'Mystery', 'Drama']",USA
-943,Air,4.0,3.64,235633,"['Drama', 'History']",USA
-944,The Matrix,4.5,4.15,1034950,"['Science Fiction', 'Action']",USA
-945,Perfect Blue,5.0,4.38,359406,"['Animation', 'Thriller']",Japan
-946,Munna Bhai M.B.B.S.,4.0,3.68,5571,"['Drama', 'Comedy']",India
-947,The Waterboy,3.5,2.89,81217,['Comedy'],USA
-948,House Party,3.5,2.4,10246,['Comedy'],USA
-949,Lage Raho Munna Bhai,3.5,3.49,3550,"['Comedy', 'Drama', 'Romance']",India
-950,Untold: Malice at the Palace,4.0,3.54,12501,"['Documentary', 'Crime']",USA
-951,Bride of Chucky,3.0,3.17,69003,"['Horror', 'Comedy']",USA
-952,White Men Can't Jump,3.0,2.73,18964,"['Drama', 'Comedy']",USA
-953,Dr. Jekyll and Mr. Mouse,4.0,3.77,1378,"['Comedy', 'Animation']",USA
-954,The Invisible Mouse,4.0,3.68,847,"['Comedy', 'Animation']",USA
-955,Heavenly Puss,4.0,3.92,1278,"['Animation', 'Comedy']",USA
-956,Cue Ball Cat,4.0,3.72,775,['Animation'],USA
-957,Bad Boys,4.0,3.19,119543,"['Crime', 'Thriller', 'Comedy', 'Action']",USA
-958,Paycheck,3.5,2.64,20932,"['Science Fiction', 'Thriller', 'Action', 'Adventure', 'Mystery']",Canada
-959,Police Story: Lockdown,1.0,2.68,3174,"['Action', 'Drama', 'Crime']",China
-960,Scream VI,4.0,3.64,323742,"['Horror', 'Mystery', 'Thriller']",USA
-961,Murder on the Orient Express,3.5,3.48,41475,"['Drama', 'Thriller', 'Mystery']",UK
-962,Transformers: Age of Extinction,2.5,2.06,129040,"['Action', 'Science Fiction', 'Adventure']",USA
-963,Copycat,3.5,3.18,19938,"['Thriller', 'Crime']",USA
-964,Cape Fear,4.0,3.64,147390,"['Thriller', 'Crime', 'Drama']",USA
-965,War Dogs,4.0,3.34,176379,"['Drama', 'Comedy', 'Crime']",USA
-966,I Am Wrath,1.0,2.11,3004,"['Crime', 'Thriller', 'Action', 'Drama']",USA
-967,Money Train,3.0,2.62,8855,"['Action', 'Crime', 'Comedy']",USA
-968,Spider-Man: Across the Spider-Verse,5.0,4.62,579725,"['Animation', 'Science Fiction', 'Adventure', 'Action']",USA
-969,Talvar,4.0,3.82,5324,"['Thriller', 'Drama', 'Mystery']",India
-970,Meet the Robinsons,3.5,3.45,150907,"['Comedy', 'Family', 'Animation']",USA
-971,New Fist of Fury,3.5,2.69,749,"['Drama', 'Action']",Hong Kong
-972,Desi Boyz,3.0,2.46,2097,"['Comedy', 'Drama']",India
-973,Coherence,4.0,3.73,133787,"['Thriller', 'Science Fiction']",UK
-974,Clue,5.0,3.85,168933,"['Comedy', 'Thriller', 'Mystery', 'Crime']",USA
-975,Network,4.0,4.16,94367,['Drama'],USA
-976,The Karate Kid,3.5,3.7,191891,"['Family', 'Drama', 'Action']",USA
-977,Gaslight,2.5,2.11,570,"['Horror', 'Thriller']",India
-978,Jaws: The Revenge,2.0,1.53,26038,"['Horror', 'Thriller', 'Adventure']",USA
-979,New Police Story,3.5,3.3,8062,"['Action', 'Thriller', 'Crime', 'Drama']",China
-980,A Murder of Crows,4.0,2.7,1132,"['Action', 'Crime', 'Thriller']",USA
-981,Jaws 3-D,2.0,1.81,27740,"['Horror', 'Thriller']",USA
-982,Iron Man,4.0,3.72,883788,"['Adventure', 'Science Fiction', 'Action']",USA
-983,I'll Always Know What You Did Last Summer,3.0,1.33,8476,['Horror'],USA
-984,A Thousand Words,2.5,2.37,16503,"['Comedy', 'Drama']",USA
-985,Executive Decision,3.0,3.04,16599,"['Thriller', 'Action', 'Drama', 'Adventure']",USA
-986,Bigfoot vs. D.B. Cooper,1.5,1.44,306,['Horror'],USA
-987,First Kill,2.0,2.23,2795,"['Thriller', 'Action', 'Crime']",USA
-988,The Babadook,2.0,3.43,330103,"['Horror', 'Drama']",Australia
-989,The Midnight Sky,1.0,2.51,60005,"['Science Fiction', 'Drama']",USA
+0,Kong: Skull Island,3.0,3.03,301258,"['Action', 'Fantasy', 'Adventure']",China
+1,Murder Mystery,4.0,2.57,187348,"['Action', 'Mystery', 'Comedy']",USA
+2,Now You See Me 2,4.0,2.86,229768,"['Action', 'Crime', 'Mystery', 'Thriller']",Hong Kong
+3,Get Out,5.0,4.15,1532731,"['Thriller', 'Horror', 'Mystery']",USA
+4,Megalodon,3.0,1.97,1823,"['Horror', 'Science Fiction', 'TV Movie', 'Action']",USA
+5,Knives Out,5.0,4.02,1665945,"['Comedy', 'Mystery', 'Crime']",USA
+6,The Assassin's Code,3.0,3.01,135,"['Thriller', 'Action']",USA
+7,The Poison Rose,3.0,1.88,3192,"['Thriller', 'Crime']",USA
+8,Avengers: Infinity War,5.0,3.94,1354660,"['Adventure', 'Action', 'Science Fiction']",USA
+9,Arrival,4.5,4.11,973025,"['Drama', 'Science Fiction', 'Mystery']",Canada
+10,Avengers: Endgame,5.0,3.85,1302528,"['Adventure', 'Science Fiction', 'Action']",USA
+11,Captain America: Civil War,5.0,3.56,902116,"['Action', 'Science Fiction', 'Adventure']",USA
+12,An Inspector Calls,4.5,3.44,7939,"['Thriller', 'Mystery', 'Drama', 'TV Movie', 'Crime']",UK
+13,Star Wars: The Force Awakens,4.0,3.37,894269,"['Science Fiction', 'Action', 'Adventure']",USA
+14,Everest,4.0,3.17,90070,"['History', 'Drama', 'Adventure']",Iceland
+15,The Martian,4.0,3.72,727097,"['Drama', 'Science Fiction', 'Adventure']",UK
+16,Interstellar,5.0,4.26,1460155,"['Science Fiction', 'Drama', 'Adventure']",UK
+17,Draft Day,3.5,3.05,27730,['Drama'],USA
+18,Kingsman: The Secret Service,4.5,3.7,590015,"['Action', 'Comedy', 'Crime', 'Adventure']",UK
+19,Terminator Genisys,3.5,2.19,92850,"['Science Fiction', 'Adventure', 'Thriller', 'Action']",Canada
+20,Captain America: The Winter Soldier,5.0,3.72,828419,"['Action', 'Adventure', 'Science Fiction']",USA
+21,Non-Stop,3.5,2.98,72535,"['Thriller', 'Action', 'Mystery']",Canada
+22,The Wolf of Wall Street,4.0,4.0,1309945,"['Comedy', 'Drama', 'Crime']",USA
+23,Mission: Impossible - Rogue Nation,3.5,3.66,224398,"['Adventure', 'Action']",USA
+24,The Conjuring,5.0,3.54,521329,"['Horror', 'Thriller']",USA
+25,Empire State,3.5,2.33,4114,"['Drama', 'Action']",USA
+26,Jack Reacher,4.5,3.14,104889,"['Action', 'Crime', 'Drama', 'Thriller']",USA
+27,Chinese Zodiac,4.0,2.69,6378,"['Adventure', 'Action']",China
+28,Sinister,4.5,3.29,215685,"['Thriller', 'Mystery', 'Horror']",Canada
+29,Hugo,3.0,3.5,251313,"['Adventure', 'Family', 'Drama']",France
+30,Night at the Museum: Battle of the Smithsonian,3.0,2.77,157549,"['Fantasy', 'Comedy', 'Action', 'Family', 'Adventure']",USA
+31,The Haunting in Connecticut,3.5,2.6,18441,"['Thriller', 'Horror']",USA
+32,The Karate Kid,3.0,2.85,170926,"['Adventure', 'Drama', 'Action', 'Family']",China
+33,Mission: Impossible - Ghost Protocol,3.5,3.68,221533,"['Thriller', 'Action', 'Adventure']",USA
+34,The Other Guys,4.0,3.18,170424,"['Comedy', 'Crime', 'Action']",USA
+35,The Uninvited,3.5,2.78,22405,['Horror'],USA
+36,Avatar,3.5,3.5,955284,"['Adventure', 'Action', 'Science Fiction', 'Fantasy']",USA
+37,The Expendables,3.5,2.69,103003,"['Action', 'Adventure', 'Thriller']",Bulgaria
+38,Angels & Demons,4.5,3.0,90012,"['Thriller', 'Mystery']",Italy
+39,The Bourne Ultimatum,4.0,3.68,156372,"['Drama', 'Action', 'Mystery', 'Thriller']",France
+40,Zodiac,4.5,4.01,698430,"['Mystery', 'Thriller', 'Drama', 'Crime']",USA
+41,Hot Fuzz,4.5,4.07,445495,"['Action', 'Crime', 'Comedy']",France
+42,Shutter Island,5.0,4.06,1019589,"['Thriller', 'Mystery', 'Drama']",USA
+43,The Da Vinci Code,4.5,3.03,188240,"['Mystery', 'Thriller']",USA
+44,When a Stranger Calls,4.0,2.43,25777,"['Horror', 'Mystery']",USA
+45,Silent Hill,3.5,3.01,100544,"['Horror', 'Mystery']",Canada
+46,United 93,4.0,3.7,36023,"['Crime', 'Drama', 'Action', 'Thriller', 'History']",France
+47,Inside Man,4.0,3.67,130267,"['Drama', 'Thriller', 'Crime']",USA
+48,Chaos,4.0,2.78,5919,"['Action', 'Drama', 'Crime']",Canada
+49,Ocean's Twelve,4.0,3.23,211080,"['Crime', 'Thriller']",USA
+50,The Departed,5.0,4.28,592429,"['Thriller', 'Drama', 'Crime']",Hong Kong
+51,King Kong,3.5,3.31,211734,"['Action', 'Adventure', 'Drama']",New Zealand
+52,National Treasure,5.0,3.21,190549,"['Mystery', 'Adventure', 'Action', 'Thriller']",USA
+53,Harry Potter and the Prisoner of Azkaban,4.5,4.06,867158,"['Adventure', 'Fantasy']",UK
+54,Spider-Man 2,4.5,3.86,752630,"['Adventure', 'Action', 'Fantasy']",USA
+55,Mystic River,4.0,3.83,170218,"['Drama', 'Mystery', 'Crime', 'Thriller']",USA
+56,Shanghai Knights,4.5,2.81,36086,"['Western', 'Comedy', 'Adventure', 'Action']",Hong Kong
+57,The Medallion,4.0,2.34,14944,"['Action', 'Thriller', 'Comedy', 'Fantasy']",Hong Kong
+58,Out of Time,4.0,3.06,12364,"['Thriller', 'Drama', 'Crime']",USA
+59,Minority Report,4.5,3.73,242896,"['Action', 'Science Fiction', 'Mystery', 'Thriller']",USA
+60,Star Wars: Episode II - Attack of the Clones,4.0,2.68,597935,"['Action', 'Science Fiction', 'Adventure']",USA
+61,Murder by Numbers,4.0,2.87,15332,"['Drama', 'Thriller', 'Crime']",USA
+62,The Bourne Identity,4.5,3.7,216510,"['Drama', 'Thriller', 'Action', 'Mystery']",USA
+63,Spider-Man,4.5,3.72,834806,"['Fantasy', 'Action']",USA
+64,Catch Me If You Can,4.5,4.02,719292,"['Drama', 'Crime']",USA
+65,Harry Potter and the Philosopher's Stone,4.0,3.72,848708,"['Fantasy', 'Adventure']",UK
+66,Harry Potter and the Chamber of Secrets,4.0,3.55,728527,"['Adventure', 'Fantasy']",UK
+67,Rush Hour 2,4.5,3.23,98985,"['Comedy', 'Action', 'Crime']",USA
+68,Harry Potter and the Goblet of Fire,4.0,3.76,723712,"['Fantasy', 'Family', 'Adventure']",UK
+69,The Others,4.5,3.7,171845,"['Thriller', 'Horror', 'Mystery']",France
+70,Swordfish,4.0,2.7,33744,"['Crime', 'Action', 'Thriller']",Australia
+71,Cast Away,3.5,3.85,315280,"['Adventure', 'Drama']",USA
+72,Blue Streak,4.0,2.95,22212,"['Crime', 'Comedy', 'Action']",Germany
+73,What Lies Beneath,4.0,3.12,40123,"['Horror', 'Mystery', 'Thriller', 'Drama']",USA
+74,Unbreakable,4.5,3.68,255189,"['Thriller', 'Drama', 'Mystery']",USA
+75,The Sixth Sense,4.5,4.0,438005,"['Drama', 'Mystery', 'Thriller']",USA
+76,X-Men,4.0,3.3,297728,"['Adventure', 'Action', 'Science Fiction']",USA
+77,Rush Hour,5.0,3.45,164438,"['Comedy', 'Crime', 'Action']",USA
+78,Star Wars: Episode I - The Phantom Menace,4.0,2.77,647404,"['Action', 'Science Fiction', 'Adventure']",USA
+79,True Crime,4.0,3.19,8135,"['Action', 'Drama', 'Mystery', 'Crime', 'Thriller']",USA
+80,Snake Eyes,4.0,3.3,40033,"['Crime', 'Thriller', 'Mystery']",Canada
+81,Blade,4.0,3.38,148385,"['Horror', 'Action']",USA
+82,I Know What You Did Last Summer,4.5,2.86,123071,"['Thriller', 'Mystery', 'Horror']",USA
+83,The Game,4.5,3.73,239968,"['Thriller', 'Drama', 'Mystery']",USA
+84,Face/Off,5.0,3.49,147046,"['Science Fiction', 'Thriller', 'Crime', 'Action']",USA
+85,Con Air,4.0,3.36,100957,"['Thriller', 'Action', 'Crime']",USA
+86,The Lost World: Jurassic Park,4.0,3.05,242445,"['Science Fiction', 'Action', 'Adventure']",USA
+87,Scream,5.0,4.0,637024,"['Crime', 'Mystery', 'Horror']",USA
+88,Anaconda,3.5,2.3,64948,"['Adventure', 'Thriller', 'Horror']",Brazil
+89,Mission: Impossible,4.5,3.56,252739,"['Adventure', 'Thriller', 'Action']",USA
+90,The Fifth Element,3.5,3.72,215823,"['Science Fiction', 'Adventure', 'Action', 'Thriller', 'Fantasy']",France
+91,The Rock,4.0,3.52,91996,"['Action', 'Thriller', 'Adventure']",USA
+92,Freefall: Flight 174,4.0,3.43,72,"['Drama', 'TV Movie']",USA
+93,Speed,4.0,3.64,184528,"['Adventure', 'Action', 'Crime']",USA
+94,Home Alone 2: Lost in New York,3.5,3.38,334406,"['Comedy', 'Adventure', 'Family']",USA
+95,Jurassic Park,5.0,4.11,790673,"['Science Fiction', 'Adventure']",USA
+96,Jumanji,3.5,3.56,308297,"['Fantasy', 'Family', 'Adventure']",USA
+97,Mrs. Doubtfire,4.0,3.56,192997,"['Drama', 'Family', 'Comedy']",USA
+98,Arachnophobia,4.0,3.21,32763,"['Horror', 'Comedy']",USA
+99,Terminator 2: Judgment Day,5.0,4.27,389414,"['Thriller', 'Action', 'Science Fiction']",USA
+100,Total Recall,4.0,3.8,165722,"['Action', 'Science Fiction', 'Adventure']",USA
+101,Tremors,5.0,3.51,103897,"['Comedy', 'Horror', 'Action']",USA
+102,"Honey, I Shrunk the Kids",3.5,3.13,85097,"['Comedy', 'Family', 'Science Fiction', 'Adventure']",USA
+103,Indiana Jones and the Last Crusade,5.0,4.06,347318,"['Adventure', 'Action']",USA
+104,Island of Fire,3.5,2.75,1596,"['Drama', 'Crime', 'Action']",Hong Kong
+105,Coming to America,4.5,3.52,122459,"['Romance', 'Comedy']",USA
+106,Police Story,5.0,3.99,61447,"['Action', 'Crime', 'Thriller']",Hong Kong
+107,The Fly,4.0,3.98,214160,"['Science Fiction', 'Horror']",Canada
+108,Back to the Future,4.5,4.2,896229,"['Adventure', 'Comedy', 'Science Fiction']",USA
+109,Beverly Hills Cop,4.5,3.6,93704,"['Crime', 'Action', 'Comedy']",USA
+110,Return of the Jedi,5.0,4.01,713851,"['Science Fiction', 'Adventure', 'Action']",USA
+111,Raiders of the Lost Ark,5.0,4.17,532152,"['Adventure', 'Action']",USA
+112,The Empire Strikes Back,5.0,4.4,860950,"['Science Fiction', 'Adventure', 'Action']",USA
+113,The Man Who Saw Tomorrow,4.0,3.13,207,"['Documentary', 'Drama']",USA
+114,Drunken Master,4.5,3.74,28061,"['Action', 'Comedy']",Hong Kong
+115,E.T. the Extra-Terrestrial,4.5,3.85,491365,"['Family', 'Fantasy', 'Science Fiction', 'Adventure']",USA
+116,Superman,3.5,3.65,96814,"['Action', 'Adventure', 'Science Fiction']",UK
+117,The Lady Vanishes,4.0,3.1,859,"['Thriller', 'Romance', 'Comedy', 'Mystery']",UK
+118,Star Wars,5.0,4.17,959388,"['Adventure', 'Action', 'Science Fiction']",USA
+119,Jaws,4.5,3.99,595333,"['Thriller', 'Horror', 'Adventure']",USA
+120,The Godfather,5.0,4.56,887328,"['Crime', 'Drama']",USA
+121,The Godfather: Part II,5.0,4.59,485493,"['Drama', 'Crime']",USA
+122,Rear Window,5.0,4.37,345087,"['Thriller', 'Mystery']",USA
+123,Dangerous Lies,4.0,2.0,14786,['Thriller'],Canada
+124,The Machinist,4.0,3.73,169651,"['Drama', 'Thriller']",Belgium
+125,The Interview,4.5,2.89,233750,"['Action', 'Comedy']",USA
+126,Starsky & Hutch,4.0,2.81,53386,"['Comedy', 'Crime']",USA
+127,Red Notice,4.5,2.4,215804,"['Crime', 'Comedy', 'Thriller', 'Action']",USA
+128,Chinatown,4.5,4.29,219270,"['Crime', 'Drama', 'Mystery', 'Thriller']",USA
+129,The Amazing Spider-Man 2,4.0,2.78,510792,"['Fantasy', 'Action', 'Adventure']",USA
+130,Candyman,4.0,3.62,141082,"['Drama', 'Thriller', 'Horror']",USA
+131,The Amazing Spider-Man,4.0,3.19,641751,"['Action', 'Fantasy', 'Adventure']",USA
+132,The Shining,5.0,4.26,1156354,"['Horror', 'Thriller']",USA
+133,Wind River,4.0,3.82,176938,"['Drama', 'Crime', 'Thriller', 'Mystery']",France
+134,Zoolander,4.0,3.28,294838,['Comedy'],Germany
+135,The Book of Manning,4.5,3.49,292,['Documentary'],USA
+136,The Negotiator,4.0,3.45,29597,"['Drama', 'Crime', 'Thriller', 'Action']",Germany
+137,The Dark Knight,5.0,4.45,1512344,"['Action', 'Thriller', 'Drama', 'Crime']",UK
+138,Scary Movie,4.5,2.97,227254,['Comedy'],USA
+139,The Imitation Game,5.0,3.76,485491,"['History', 'Drama', 'War', 'Thriller']",UK
+140,12 Angry Men,4.5,4.61,413334,['Drama'],USA
+141,Minions: The Rise of Gru,4.0,3.18,276342,"['Family', 'Animation', 'Comedy']",USA
+142,Hustle,4.0,3.53,197773,"['Drama', 'Comedy']",USA
+143,Moon Knight,4.0,3.57,230421,['Mystery'],USA
+144,Se7en,5.0,4.31,1056496,"['Thriller', 'Crime', 'Mystery']",USA
+145,Spider-Man: No Way Home,4.5,3.89,1402193,"['Action', 'Adventure', 'Science Fiction']",USA
+146,Death on the Nile,3.5,2.64,215793,"['Thriller', 'Crime', 'Mystery']",UK
+147,The Unbearable Weight of Massive Talent,4.0,3.42,237392,"['Action', 'Comedy', 'Crime']",USA
+148,Hawkeye,4.0,3.37,188430,"['Comedy', 'Drama']",USA
+149,Thor: Love and Thunder,3.0,2.61,680251,"['Action', 'Fantasy', 'Comedy']",USA
+150,Scream,4.0,3.21,372572,"['Horror', 'Mystery', 'Thriller']",USA
+151,Eternals,4.0,2.81,559161,"['Science Fiction', 'Action', 'Adventure']",Canada
+152,Operation Mincemeat,3.5,3.11,24786,"['Drama', 'War', 'History']",Spain
+153,The Conjuring: The Devil Made Me Do It,3.5,2.7,236699,"['Mystery', 'Thriller', 'Horror']",USA
+154,A Classic Horror Story,3.5,2.73,41474,"['Horror', 'Mystery']",Italy
+155,Venom: Let There Be Carnage,3.0,2.5,348041,"['Action', 'Adventure', 'Science Fiction']",USA
+156,Shang-Chi and the Legend of the Ten Rings,4.0,3.5,679209,"['Fantasy', 'Adventure', 'Action']",USA
+157,WandaVision,4.0,3.75,409379,"['Mystery', 'Drama']",USA
+158,Things Heard & Seen,3.5,2.38,40764,['Horror'],USA
+159,Black Widow,3.5,2.98,693969,"['Action', 'Adventure', 'Science Fiction']",USA
+160,No Time to Die,3.5,3.49,420673,"['Adventure', 'Thriller', 'Action']",UK
+161,The Scary House,3.0,2.48,3798,"['Fantasy', 'Family', 'Horror']",Austria
+162,Coming 2 America,3.5,2.29,56804,['Comedy'],USA
+163,The Rental,3.5,2.66,57087,['Horror'],USA
+164,Spenser Confidential,3.5,2.44,46811,"['Action', 'Comedy', 'Thriller']",USA
+165,Jumanji: The Next Level,3.5,2.86,223212,"['Comedy', 'Fantasy', 'Adventure']",USA
+166,Fractured,4.0,2.87,78955,['Thriller'],USA
+167,Inside Man: Most Wanted,3.0,2.58,1302,"['Thriller', 'Action', 'Crime']",USA
+168,The Curse of La Llorona,3.0,1.89,63143,"['Horror', 'Mystery', 'Thriller']",USA
+169,Disappearance at Clifton Hill,4.0,2.77,5482,"['Thriller', 'Drama', 'Mystery']",Canada
+170,Triple Frontier,3.5,2.96,94648,"['Thriller', 'Crime', 'Action', 'Adventure']",USA
+171,Escape Plan: The Extractors,3.0,1.95,5827,"['Thriller', 'Adventure', 'Crime', 'Action']",China
+172,Scary Stories to Tell in the Dark,4.0,2.74,136507,"['Horror', 'Thriller']",Canada
+173,Just Mercy,4.0,3.78,69045,"['Drama', 'History', 'Crime']",USA
+174,Zombieland: Double Tap,3.0,2.98,237742,"['Comedy', 'Horror']",USA
+175,Glass,3.0,2.89,259684,"['Drama', 'Science Fiction', 'Thriller']",USA
+176,D-Railed,3.0,2.37,811,['Horror'],USA
+177,Venom,3.5,2.79,554134,"['Action', 'Science Fiction']",China
+178,Flight 666,2.5,2.47,756,"['Horror', 'Science Fiction']",USA
+179,Ant-Man and the Wasp,4.0,2.97,573139,"['Science Fiction', 'Adventure', 'Action']",USA
+180,Insidious: The Last Key,3.5,2.39,57005,"['Horror', 'Mystery', 'Thriller']",USA
+181,Hereditary,4.5,3.98,1007124,"['Thriller', 'Horror', 'Mystery']",USA
+182,Star Wars: The Last Jedi,3.5,3.04,790208,"['Science Fiction', 'Adventure', 'Action']",USA
+183,Hangman,3.5,2.2,5925,"['Crime', 'Mystery', 'Thriller']",USA
+184,The Ritual,3.5,3.17,151392,"['Mystery', 'Thriller', 'Horror']",Canada
+185,Kidnap,3.0,2.49,14467,"['Thriller', 'Drama']",UK
+186,Jack Reacher: Never Go Back,3.5,2.57,53269,"['Action', 'Thriller']",China
+187,Kingsman: The Golden Circle,4.5,3.07,324594,"['Adventure', 'Comedy', 'Action']",UK
+188,Split,3.0,3.45,686778,"['Horror', 'Thriller']",USA
+189,Shimmer Lake,3.5,2.97,9468,"['Crime', 'Mystery', 'Drama', 'Thriller']",Canada
+190,Doctor Strange,4.0,3.43,919833,"['Fantasy', 'Action', 'Adventure']",USA
+191,The Foreigner,3.0,3.14,44630,"['Action', 'Thriller']",China
+192,The Conjuring 2,4.5,3.33,284512,"['Horror', 'Thriller']",USA
+193,London Has Fallen,3.0,2.47,59333,"['Action', 'Thriller']",Bulgaria
+194,USS Indianapolis: Men of Courage,4.0,2.24,4048,"['War', 'Action']",USA
+195,Skiptrace,3.0,2.45,6350,"['Mystery', 'Thriller', 'Comedy', 'Action']",China
+196,Independence Day: Resurgence,3.5,1.99,75207,"['Adventure', 'Action', 'Science Fiction']",USA
+197,Marauders,3.0,2.43,4348,"['Action', 'Crime', 'Thriller']",Canada
+198,The Shallows,3.0,2.91,108752,"['Thriller', 'Drama', 'Horror']",Australia
+199,Secret in Their Eyes,4.0,2.81,14613,"['Thriller', 'Mystery', 'Drama', 'Crime']",South Korea
+200,Self/less,3.0,2.72,23722,"['Mystery', 'Science Fiction', 'Thriller', 'Action']",USA
+201,Krampus,3.0,2.92,100955,"['Fantasy', 'Horror', 'Comedy']",USA
+202,In the Heart of the Sea,3.5,2.98,62648,"['Thriller', 'Adventure', 'History', 'Drama', 'Action']",Spain
+203,Pay the Ghost,3.0,2.17,6000,['Horror'],USA
+204,Circle,3.0,2.57,89472,"['Mystery', 'Science Fiction', 'Thriller', 'Horror', 'Drama']",USA
+205,Insurgent,3.0,2.34,129157,"['Action', 'Thriller', 'Science Fiction', 'Adventure']",USA
+206,The Expendables 3,3.5,2.39,55329,"['Thriller', 'Adventure', 'Action']",Bulgaria
+207,House at the End of the Street,3.5,2.3,38649,"['Thriller', 'Horror']",USA
+208,White House Down,3.0,2.68,68885,"['Thriller', 'Action', 'Drama']",USA
+209,Thor: The Dark World,3.0,2.24,563770,"['Fantasy', 'Action', 'Adventure']",USA
+210,Journey 2: The Mysterious Island,3.0,2.37,55266,"['Science Fiction', 'Adventure', 'Action']",USA
+211,Flight 7500,3.0,2.09,3585,"['Thriller', 'Mystery', 'Horror']",Japan
+212,The Cabin in the Woods,3.0,3.42,410919,"['Horror', 'Fantasy']",USA
+213,Olympus Has Fallen,3.0,2.7,79713,"['Thriller', 'Action']",USA
+214,Jurassic World,4.0,2.98,520031,"['Science Fiction', 'Adventure', 'Action', 'Thriller']",USA
+215,Dumb and Dumber To,3.0,2.22,65901,['Comedy'],USA
+216,Final Destination 5,3.5,2.71,81059,"['Mystery', 'Horror']",USA
+217,Scream 4,3.5,3.26,228994,"['Horror', 'Mystery']",USA
+218,The Sitter,3.5,2.48,23473,['Comedy'],USA
+219,Jack and Jill,3.0,1.33,83301,['Comedy'],USA
+220,Unknown,3.5,2.88,39469,"['Action', 'Mystery', 'Thriller']",France
+221,Harry Potter and the Deathly Hallows: Part 1,4.0,3.65,640634,"['Fantasy', 'Adventure']",UK
+222,Faster,3.0,2.68,17376,"['Thriller', 'Action', 'Crime', 'Drama']",USA
+223,The Adjustment Bureau,3.5,3.12,61605,"['Science Fiction', 'Thriller', 'Romance']",USA
+224,2012,3.0,2.36,202825,"['Science Fiction', 'Adventure', 'Action']",USA
+225,The Bounty Hunter,3.5,2.32,35633,"['Action', 'Romance', 'Comedy']",USA
+226,Frozen,3.5,2.7,37122,['Thriller'],USA
+227,Get Smart,4.0,2.83,105717,"['Thriller', 'Comedy', 'Action']",USA
+228,Harry Potter and the Half-Blood Prince,4.0,3.62,632764,"['Fantasy', 'Adventure']",UK
+229,Wyvern,2.5,2.76,471,"['Action', 'Science Fiction', 'Fantasy', 'TV Movie']",Canada
+230,Tropic Thunder,4.0,3.52,270131,"['War', 'Adventure', 'Comedy', 'Action']",USA
+231,Henry's Crime,3.5,2.77,2716,"['Crime', 'Comedy']",USA
+232,Vantage Point,3.5,2.85,24121,"['Crime', 'Action', 'Thriller', 'Drama']",Mexico
+233,One Missed Call,3.5,1.83,14575,"['Thriller', 'Mystery', 'Horror']",Germany
+234,I Am Legend,3.5,3.32,338673,"['Science Fiction', 'Thriller', 'Drama']",USA
+235,Superbad,4.0,3.86,678455,['Comedy'],USA
+236,Rush Hour 3,4.0,2.8,71394,"['Comedy', 'Action', 'Crime']",USA
+237,Paranormal Activity,3.5,2.85,180255,"['Mystery', 'Horror']",USA
+238,Cleaner,3.5,2.69,10510,"['Mystery', 'Thriller', 'Crime']",USA
+239,National Treasure: Book of Secrets,4.0,2.87,106046,"['Mystery', 'Adventure', 'Action', 'Thriller']",USA
+240,Ghost Rider,3.5,2.23,123591,"['Thriller', 'Fantasy', 'Action']",USA
+241,Spider-Man 3,3.5,2.92,580139,"['Action', 'Adventure', 'Fantasy']",USA
+242,Live Free or Die Hard,3.0,2.89,80379,"['Thriller', 'Action']",UK
+243,Harry Potter and the Order of the Phoenix,4.0,3.61,662142,"['Mystery', 'Fantasy', 'Adventure']",UK
+244,Black Water,3.0,2.82,4493,"['Horror', 'Drama', 'Adventure']",Australia
+245,Next,3.5,2.4,32069,"['Science Fiction', 'Action', 'Thriller']",USA
+246,Click,3.0,2.72,241587,"['Drama', 'Fantasy', 'Comedy']",USA
+247,The Interpreter,3.5,2.96,18964,"['Thriller', 'Crime']",France
+248,Fantastic Four,3.0,2.36,214901,"['Fantasy', 'Science Fiction', 'Action', 'Adventure']",Germany
+249,16 Blocks,3.5,3.07,19980,"['Crime', 'Adventure', 'Action', 'Thriller']",Germany
+250,Flightplan,3.5,2.95,40985,"['Thriller', 'Drama', 'Mystery']",USA
+251,Robin-B-Hood,4.0,3.08,5116,"['Action', 'Comedy', 'Drama']",Hong Kong
+252,The Punisher,3.0,2.85,49217,"['Action', 'Drama', 'Crime']",Germany
+253,Signs,4.5,3.42,208753,"['Science Fiction', 'Mystery', 'Drama', 'Thriller']",USA
+254,Gone in Sixty Seconds,3.5,2.92,60216,"['Action', 'Crime', 'Thriller']",USA
+255,Space Cowboys,3.5,3.02,21703,"['Adventure', 'Thriller', 'Action']",USA
+256,The Haunted Mansion,3.0,2.6,51600,"['Family', 'Fantasy', 'Thriller', 'Comedy', 'Mystery']",USA
+257,D-Tox,3.5,2.46,6252,"['Action', 'Horror', 'Thriller']",USA
+258,Eight Legged Freaks,3.0,2.56,26573,"['Action', 'Thriller', 'Horror', 'Comedy']",Australia
+259,The Core,3.0,2.43,28870,"['Science Fiction', 'Thriller', 'Action', 'Adventure']",USA
+260,Lake Placid,3.5,2.74,27882,"['Action', 'Thriller', 'Science Fiction', 'Horror', 'Comedy']",USA
+261,Deep Impact,3.5,2.87,49296,"['Drama', 'Action', 'Science Fiction']",USA
+262,Collateral Damage,3.5,2.55,13594,"['Action', 'Drama', 'Thriller']",USA
+263,The Time Machine,3.0,2.64,22745,"['Adventure', 'Action', 'Science Fiction']",USA
+264,The Sum of All Fears,3.5,2.95,25239,"['Action', 'Thriller', 'Drama']",Canada
+265,Evidence of Blood,3.5,3.24,184,"['Drama', 'TV Movie', 'Thriller', 'Mystery']",USA
+266,Absolute Power,4.0,3.21,14999,"['Crime', 'Action', 'Drama']",USA
+267,Money Talks,3.5,2.88,6231,"['Comedy', 'Action']",USA
+268,Twister,3.5,3.12,87802,"['Action', 'Drama', 'Adventure']",USA
+269,The Arrival,3.5,2.86,7940,"['Science Fiction', 'Thriller']",Mexico
+270,"Honey, We Shrunk Ourselves",3.0,2.46,16114,"['Comedy', 'Adventure', 'Action', 'Family', 'Science Fiction']",USA
+271,Murder at 1600,3.5,2.84,5617,"['Crime', 'Action', 'Thriller', 'Mystery', 'Drama']",USA
+272,Timecop,3.5,2.85,21108,"['Action', 'Crime', 'Thriller', 'Science Fiction']",USA
+273,Die Hard: With a Vengeance,4.5,3.66,112897,"['Action', 'Thriller']",USA
+274,Police Story 4: First Strike,4.0,3.26,9313,"['Thriller', 'Action', 'Adventure', 'Crime', 'Comedy', 'Drama']",Hong Kong
+275,Demolition Man,4.0,3.29,63076,"['Crime', 'Action', 'Science Fiction']",USA
+276,Assassins,4.0,2.85,15259,"['Thriller', 'Adventure', 'Crime', 'Action']",France
+277,Under Siege 2: Dark Territory,3.0,2.62,12037,"['Action', 'Thriller']",USA
+278,Stargate,3.5,3.16,44601,"['Action', 'Adventure', 'Science Fiction']",France
+279,Dennis the Menace,3.5,2.57,27472,"['Comedy', 'Family']",USA
+280,Double Impact,3.5,2.77,11492,"['Drama', 'Thriller', 'Crime', 'Action']",USA
+281,In the Line of Fire,4.0,3.47,32804,"['Mystery', 'Thriller', 'Crime', 'Drama', 'Action']",USA
+282,Twin Dragons,4.0,3.14,4442,"['Comedy', 'Action']",Hong Kong
+283,"Honey, I Blew Up the Kid",3.0,2.47,23830,"['Science Fiction', 'Adventure', 'Comedy', 'Family']",USA
+284,Under Siege,3.5,3.05,27606,"['Thriller', 'Action']",France
+285,Midnight Run,4.0,3.79,52328,"['Adventure', 'Crime', 'Action', 'Thriller', 'Comedy']",USA
+286,Hudson Hawk,3.5,2.77,17059,"['Action', 'Adventure', 'Comedy']",USA
+287,Child's Play 2,3.5,3.17,67752,"['Horror', 'Thriller']",USA
+288,Home Alone,4.0,3.75,698893,"['Comedy', 'Family']",USA
+289,Kickboxer,3.5,3.14,19094,"['Action', 'Drama', 'Thriller']",USA
+290,The Running Man,3.5,3.25,53526,"['Science Fiction', 'Action', 'Thriller']",USA
+291,Top Gun,3.0,3.29,443865,"['Drama', 'Action', 'Romance']",USA
+292,The Heavenly Kid,3.5,2.94,1562,"['Fantasy', 'Romance', 'Comedy']",USA
+293,Into the Night,4.0,3.19,7414,"['Thriller', 'Action', 'Comedy', 'Drama', 'Crime', 'Romance']",USA
+294,Cobra,3.5,2.96,33205,"['Action', 'Crime', 'Thriller']",USA
+295,Sudden Impact,4.0,3.26,16125,"['Thriller', 'Action', 'Crime']",USA
+296,Fearless Hyena,4.0,3.42,3471,"['Action', 'Comedy']",Hong Kong
+297,Five Element Ninjas,4.0,3.76,4359,['Action'],Hong Kong
+298,Fist of Fury,4.0,3.6,24877,"['Drama', 'Thriller', 'Action']",Hong Kong
+299,Super Fuzz,3.5,3.02,2308,"['Fantasy', 'Action', 'Science Fiction', 'Comedy']",Spain
+300,Trading Places,4.0,3.61,64273,['Comedy'],USA
+301,Office Space,3.5,3.73,154235,['Comedy'],USA
+302,Halloween II,3.5,3.16,111142,['Horror'],USA
+303,The Way of the Dragon,4.0,3.54,20976,"['Action', 'Crime']",Hong Kong
+304,Iron Man 3,3.0,3.0,660829,"['Action', 'Adventure', 'Science Fiction']",USA
+305,Iron Man 2,3.0,2.83,644492,"['Adventure', 'Action', 'Science Fiction']",USA
+306,"The Good, the Bad and the Ugly",4.5,4.49,263788,['Western'],USA
+307,Intrusion,3.5,2.22,15164,['Thriller'],USA
+308,Loki,4.5,3.71,315268,['Drama'],USA
+309,Come and See,5.0,4.65,169069,"['Drama', 'War']",USSR
+310,Ms. Marvel,4.0,2.98,86071,['Comedy'],USA
+311,It Follows,4.0,3.5,390740,"['Horror', 'Mystery']",USA
+312,Heat,4.5,4.26,335722,"['Drama', 'Thriller', 'Crime', 'Action']",USA
+313,The Batman,4.0,4.0,1519621,"['Mystery', 'Thriller', 'Crime']",USA
+314,The Gray Man,3.5,2.68,239882,"['Action', 'Thriller']",USA
+315,Shrek,4.0,4.01,792030,"['Family', 'Comedy', 'Animation', 'Fantasy', 'Adventure']",USA
+316,The Great Dictator,4.0,4.29,89535,"['War', 'Comedy']",USA
+317,Cars,3.5,3.54,495399,"['Animation', 'Adventure', 'Family', 'Comedy']",USA
+318,Up,4.5,4.07,991681,"['Adventure', 'Comedy', 'Animation', 'Family']",USA
+319,The Incredibles,4.5,4.07,851013,"['Animation', 'Action', 'Adventure', 'Family']",USA
+320,Kung Fu Panda,4.5,3.75,455878,"['Family', 'Adventure', 'Action', 'Comedy', 'Animation']",USA
+321,Madagascar 3: Europe's Most Wanted,3.5,2.84,142646,"['Animation', 'Adventure', 'Family', 'Comedy']",USA
+322,How to Train Your Dragon,4.0,3.96,500959,"['Family', 'Adventure', 'Animation', 'Fantasy']",USA
+323,Groot Takes a Bath,3.5,3.28,16429,"['Family', 'Animation', 'Comedy', 'Science Fiction']",USA
+324,Top Gun: Maverick,4.5,4.02,788616,"['Drama', 'Action']",USA
+325,Kung Fu Panda 3,4.0,3.2,163558,"['Family', 'Animation', 'Adventure', 'Action', 'Comedy']",China
+326,Magnum Opus,3.0,3.41,16317,"['Family', 'Science Fiction', 'Animation', 'Comedy']",USA
+327,Memento,5.0,4.16,654338,"['Thriller', 'Mystery']",USA
+328,Groot's First Steps,3.0,3.04,18311,"['Science Fiction', 'Animation', 'Comedy', 'Family']",USA
+329,Groot's Pursuit,3.5,3.11,15790,"['Science Fiction', 'Family', 'Comedy', 'Animation']",USA
+330,Spider-Man: Into the Spider-Verse,4.5,4.43,1610141,"['Action', 'Adventure', 'Animation', 'Science Fiction']",USA
+331,Geostorm,2.5,1.97,53437,"['Science Fiction', 'Action', 'Thriller']",Canada
+332,The Little Guy,3.5,3.33,16542,"['Family', 'Comedy', 'Animation', 'Science Fiction']",USA
+333,See How They Run,3.5,3.18,171251,"['Mystery', 'Thriller', 'Comedy']",UK
+334,The Hitman's Bodyguard,3.5,3.0,113542,"['Action', 'Comedy']",Bulgaria
+335,Hitman's Wife's Bodyguard,3.5,2.52,57755,"['Crime', 'Comedy', 'Action', 'Thriller']",Bulgaria
+336,The Nice Guys,4.5,3.82,477027,"['Action', 'Crime', 'Comedy']",USA
+337,Happy Death Day,3.5,3.01,253997,"['Comedy', 'Mystery', 'Horror']",USA
+338,BlacKkKlansman,4.0,3.93,582139,"['Comedy', 'History', 'Crime', 'Drama']",USA
+339,Runway 34,3.5,3.07,2069,"['Thriller', 'Drama']",India
+340,Smile,4.0,2.86,360500,"['Mystery', 'Thriller', 'Horror']",USA
+341,Baaghi,3.0,2.55,2301,"['Action', 'Romance', 'Thriller']",India
+342,Baaghi 2,3.0,2.52,1493,"['Action', 'Crime', 'Drama']",India
+343,Baaghi 3,3.0,2.33,1266,"['Thriller', 'Action', 'Adventure']",India
+344,Dabangg,3.0,2.67,3813,"['Action', 'Comedy', 'Crime']",India
+345,Talaash,3.5,3.41,6494,"['Thriller', 'Drama', 'Crime']",India
+346,Bhool Bhulaiyaa,3.5,3.39,4753,"['Horror', 'Comedy', 'Thriller']",India
+347,Sultan,3.0,3.11,5323,"['Action', 'Drama']",India
+348,Werewolf by Night,4.0,3.49,146555,"['Action', 'Horror', 'Fantasy']",USA
+349,Ant-Man,4.5,3.25,743935,"['Adventure', 'Science Fiction', 'Action']",USA
+350,Murder by Death,4.0,3.36,17684,"['Thriller', 'Mystery', 'Comedy', 'Crime']",USA
+351,Guardians of the Galaxy,4.5,3.76,1222476,"['Adventure', 'Action', 'Science Fiction']",USA
+352,Sooryavanshi,3.0,2.31,3373,"['Thriller', 'Action', 'Crime']",India
+353,HIT: The First Case,3.5,3.02,1150,"['Crime', 'Thriller', 'Mystery']",India
+354,Black Panther,4.5,3.63,1262395,"['Action', 'Adventure', 'Science Fiction']",USA
+355,Snowden,4.5,3.21,75388,"['Thriller', 'History', 'Drama', 'Crime']",Germany
+356,The Prestige,5.0,4.2,597857,"['Drama', 'Mystery', 'Science Fiction']",UK
+357,Spider-Man: Far from Home,4.5,3.38,974958,"['Adventure', 'Science Fiction', 'Action']",USA
+358,Rise of the Planet of the Apes,4.0,3.6,290089,"['Drama', 'Science Fiction', 'Action', 'Thriller']",USA
+359,Star Wars: The Rise of Skywalker,3.5,2.41,661861,"['Science Fiction', 'Adventure', 'Action']",USA
+360,American Psycho,5.0,3.89,1195939,"['Drama', 'Thriller', 'Crime']",Canada
+361,Dabangg 2,3.0,2.31,2330,"['Comedy', 'Crime', 'Action']",India
+362,Thor: Ragnarok,4.5,3.76,1063178,"['Adventure', 'Action', 'Science Fiction', 'Fantasy', 'Comedy']",USA
+363,Dabangg 3,3.0,2.18,1419,"['Action', 'Comedy', 'Crime']",India
+364,A Nightmare on Elm Street,5.0,3.74,308072,['Horror'],USA
+365,Deadpool,4.5,3.63,1044281,"['Comedy', 'Action', 'Adventure']",USA
+366,"Monsters, Inc.",4.0,4.06,795955,"['Comedy', 'Animation', 'Family']",USA
+367,Avengers: Age of Ultron,4.0,3.05,806403,"['Science Fiction', 'Action', 'Adventure']",USA
+368,Shanghai Noon,4.5,3.0,46799,"['Adventure', 'Action', 'Western', 'Comedy']",Hong Kong
+369,WALL-E,4.0,4.17,922584,"['Family', 'Animation', 'Science Fiction']",USA
+370,Black Panther: Wakanda Forever,4.5,3.41,567340,"['Adventure', 'Action', 'Science Fiction']",USA
+371,High School Musical,3.5,3.07,236728,"['Romance', 'Family', 'TV Movie', 'Drama', 'Music', 'Comedy']",USA
+372,Finding Nemo,4.0,4.03,830858,"['Family', 'Animation']",USA
+373,High School Musical 2,3.5,3.09,176710,"['Romance', 'Comedy', 'Music', 'Drama', 'Family', 'TV Movie']",USA
+374,Incredibles 2,4.5,3.45,640223,"['Animation', 'Family', 'Action', 'Adventure']",USA
+375,Harry Potter and the Deathly Hallows: Part 2,4.5,3.92,696541,"['Adventure', 'Fantasy']",UK
+376,High School Musical 3: Senior Year,3.0,2.98,134158,"['Comedy', 'Drama', 'Romance', 'Family', 'Music']",USA
+377,John Wick,4.0,3.79,754412,"['Thriller', 'Action']",USA
+378,The Lorax,4.0,3.0,172627,"['Animation', 'Family']",USA
+379,John Wick: Chapter 2,4.0,3.69,503271,"['Thriller', 'Action', 'Crime']",USA
+380,John Wick: Chapter 3 - Parabellum,3.5,3.68,459487,"['Thriller', 'Action', 'Crime']",USA
+381,Zathura: A Space Adventure,3.5,3.04,118795,"['Family', 'Science Fiction', 'Adventure']",USA
+382,The Lion King,4.5,4.21,741555,"['Drama', 'Family', 'Animation']",USA
+383,Despicable Me 2,4.0,3.01,254566,"['Family', 'Animation', 'Comedy']",USA
+384,Despicable Me,4.5,3.45,396531,"['Animation', 'Family', 'Comedy', 'Crime']",USA
+385,Cloudy with a Chance of Meatballs,4.0,3.31,262670,"['Comedy', 'Family', 'Animation']",USA
+386,Holes,4.0,3.44,136502,"['Drama', 'Comedy', 'Adventure', 'Family']",USA
+387,Bolt,3.5,3.0,216417,"['Comedy', 'Animation', 'Family', 'Adventure']",USA
+388,Toy Story 3,4.0,3.99,651705,"['Family', 'Comedy', 'Animation']",USA
+389,Minions,4.0,2.62,219707,"['Animation', 'Adventure', 'Comedy', 'Family']",USA
+390,The SpongeBob Movie: Sponge Out of Water,3.0,2.63,68884,"['Comedy', 'Fantasy', 'Animation', 'Family', 'Adventure']",Australia
+391,Scooby-Doo on Zombie Island,4.0,3.76,44038,"['Family', 'Animation', 'Horror', 'Mystery']",USA
+392,ParaNorman,4.0,3.56,121700,"['Animation', 'Family', 'Adventure', 'Comedy']",USA
+393,The SpongeBob SquarePants Movie,4.5,3.81,209793,"['Family', 'Adventure', 'Comedy', 'Animation', 'Fantasy']",South Korea
+394,Scooby-Doo! and the Witch's Ghost,4.0,3.6,20592,"['Animation', 'Mystery', 'Fantasy', 'Comedy', 'Family']",Japan
+395,Scooby-Doo! and the Cyber Chase,4.0,3.47,25307,"['Animation', 'Adventure', 'Comedy']",USA
+396,The Gift,3.5,3.35,118004,"['Mystery', 'Thriller', 'Drama']",Australia
+397,Scooby-Doo and the Alien Invaders,4.0,3.32,16536,"['Family', 'Mystery', 'Animation', 'Science Fiction', 'Comedy']",Japan
+398,Scooby-Doo! and the Loch Ness Monster,4.0,3.18,11466,"['Animation', 'Fantasy', 'Adventure', 'Mystery', 'Family', 'Comedy']",USA
+399,Aloha Scooby-Doo!,4.0,3.12,9828,"['Family', 'Adventure', 'Comedy', 'Animation', 'Mystery']",USA
+400,Scooby-Doo! in Where's My Mummy?,4.5,3.21,9596,"['Animation', 'Family', 'Adventure', 'Comedy', 'Mystery', 'Fantasy']",USA
+401,Scooby-Doo! Camp Scare,4.5,3.47,8760,"['Animation', 'Mystery', 'Family', 'Comedy']",USA
+402,Scooby-Doo! Pirates Ahoy!,4.0,3.16,6982,"['Comedy', 'Animation', 'Adventure', 'Fantasy', 'Mystery', 'Family']",USA
+403,Scooby-Doo! and the Reluctant Werewolf,3.5,3.0,7485,"['Family', 'Comedy', 'TV Movie', 'Animation', 'Mystery']",USA
+404,Scooby-Doo! and the Monster of Mexico,4.0,3.01,8669,"['Animation', 'Mystery', 'Comedy', 'Family']",USA
+405,Scooby-Doo! Meets the Boo Brothers,4.0,3.09,6641,"['Family', 'Animation', 'Adventure', 'Mystery', 'TV Movie', 'Comedy']",USA
+406,Scooby-Doo! and KISS: Rock and Roll Mystery,4.0,3.18,5332,"['Animation', 'Comedy', 'Family', 'Mystery']",USA
+407,Scooby-Doo! Curse of the Lake Monster,3.0,1.97,8996,"['Comedy', 'Mystery', 'Adventure', 'Fantasy']",USA
+408,Scooby-Doo! and the Goblin King,4.0,3.06,6088,"['Comedy', 'Music', 'Adventure', 'Family', 'Animation', 'Fantasy']",USA
+409,Scooby-Doo! & Batman: The Brave and the Bold,3.5,3.2,5371,"['Animation', 'Action', 'Family', 'Comedy']",USA
+410,Scooby-Doo! WrestleMania Mystery,4.0,2.76,5731,"['Animation', 'Mystery', 'Family', 'Comedy']",USA
+411,"Chill Out, Scooby-Doo!",4.0,3.03,5723,"['Animation', 'Comedy', 'Mystery', 'Family', 'Adventure']",USA
+412,"Happy Halloween, Scooby-Doo!",4.0,3.09,3344,"['Animation', 'Family', 'Mystery', 'Comedy']",USA
+413,Scooby-Doo! Abracadabra-Doo,4.0,3.18,4400,"['Comedy', 'Family', 'Mystery', 'Animation', 'Fantasy']",USA
+414,Scooby-Doo! and the Curse of the 13th Ghost,4.0,3.02,2600,"['Animation', 'Adventure', 'Family', 'Comedy', 'Mystery']",USA
+415,Scooby-Doo! Frankencreepy,4.5,3.14,3145,"['Comedy', 'Fantasy', 'Animation', 'Family', 'Science Fiction', 'Adventure', 'Mystery']",USA
+416,Scooby-Doo! Stage Fright,4.5,3.23,2937,"['Adventure', 'Family', 'Comedy', 'Animation', 'Mystery']",USA
+417,Scooby-Doo! The Sword and the Scoob,4.0,2.91,2355,"['Comedy', 'Animation', 'Mystery', 'Fantasy', 'Family', 'Adventure']",USA
+418,Scooby-Doo! Music of the Vampire,4.0,3.05,3283,"['Mystery', 'Family', 'Fantasy', 'Music', 'Comedy', 'Animation', 'Adventure']",USA
+419,Scooby-Doo! and the Samurai Sword,4.5,3.0,5034,"['Comedy', 'Action', 'Animation', 'Family', 'Mystery', 'Fantasy']",USA
+420,Scooby-Doo! Return to Zombie Island,4.0,2.48,4067,"['Family', 'Animation', 'Comedy', 'Horror', 'Mystery', 'Fantasy', 'Adventure']",USA
+421,Scooby-Doo! Moon Monster Madness,4.0,3.07,2488,"['Family', 'Science Fiction', 'Mystery', 'Comedy', 'Adventure', 'Animation']",USA
+422,Scooby-Doo! Mask of the Blue Falcon,4.0,3.03,2495,"['Mystery', 'Family', 'Comedy', 'Fantasy', 'Animation', 'Adventure']",USA
+423,Tom and Jerry: The Fast and the Furry,4.0,3.21,4499,"['Action', 'Comedy', 'Family', 'Animation', 'Adventure']",USA
+424,Big Top Scooby-Doo!,4.0,3.03,2152,"['Comedy', 'Mystery', 'Animation', 'Family']",USA
+425,Scooby-Doo! and the Gourmet Ghost,4.0,2.92,2232,"['Adventure', 'Animation', 'Family', 'Comedy']",USA
+426,Tom and Jerry: The Magic Ring,4.0,2.99,4200,"['Action', 'Fantasy', 'Animation', 'Comedy', 'Family']",USA
+427,Scooby-Doo! Shaggy's Showdown,4.0,3.04,1891,"['Western', 'Animation', 'Comedy', 'Family', 'Mystery']",USA
+428,Scooby-Doo! and WWE: Curse of the Speed Demon,4.0,2.69,2320,"['Family', 'Mystery', 'Animation', 'Comedy']",USA
+429,3 Idiots,4.5,3.99,70841,"['Drama', 'Comedy']",India
+430,Diary of a Wimpy Kid: Rodrick Rules,3.5,3.48,93234,"['Comedy', 'Family']",USA
+431,The Grand Budapest Hotel,4.5,4.25,1191191,"['Comedy', 'Drama']",Germany
+432,Diary of a Wimpy Kid,3.0,3.0,119044,"['Family', 'Comedy']",UK
+433,Parasite,5.0,4.57,1949959,"['Comedy', 'Drama', 'Thriller']",South Korea
+434,Dolphin Tale,3.5,2.86,13848,"['Drama', 'Family']",USA
+435,Pulp Fiction,4.5,4.28,1470946,"['Crime', 'Thriller']",USA
+436,Blonde,1.0,2.03,163852,['Drama'],USA
+437,War,4.0,2.95,6311,"['Thriller', 'Adventure', 'Action']",India
+438,The Polar Express,3.0,3.17,288502,"['Animation', 'Adventure', 'Fantasy', 'Family', 'Comedy']",USA
+439,Now You See Me,4.5,3.24,412511,"['Crime', 'Thriller']",USA
+440,The Secret Life of Walter Mitty,3.0,3.66,261679,"['Drama', 'Comedy', 'Fantasy', 'Adventure']",USA
+441,The Babysitter,1.0,2.71,169642,"['Comedy', 'Horror']",USA
+442,Spiderhead,1.0,2.47,104847,"['Science Fiction', 'Thriller']",USA
+443,Space Jam,3.0,3.2,237639,"['Family', 'Comedy', 'Animation', 'Science Fiction']",USA
+444,Batman Begins,4.0,3.78,756344,"['Drama', 'Crime', 'Action']",UK
+445,I Now Pronounce You Chuck & Larry,3.0,2.29,52624,"['Romance', 'Comedy']",USA
+446,Hard Target,3.5,3.28,24102,"['Crime', 'Thriller', 'Adventure', 'Action']",USA
+447,Bloodsport,3.5,3.32,40097,"['Action', 'Drama']",USA
+448,Central Intelligence,3.0,2.62,122047,"['Comedy', 'Action', 'Crime', 'Mystery']",USA
+449,Mamma Mia!,3.5,3.65,463451,"['Romance', 'Comedy']",Germany
+450,Kung Fu Panda 2,5.0,3.57,239448,"['Animation', 'Family']",USA
+451,The Menu,4.0,3.57,1087420,"['Thriller', 'Horror', 'Comedy']",USA
+452,The Good Nurse,3.5,3.2,96290,"['Drama', 'Mystery', 'Crime']",USA
+453,Gone Girl,4.0,4.06,1160255,"['Drama', 'Thriller', 'Mystery']",USA
+454,Day Shift,3.5,2.62,65935,"['Horror', 'Action', 'Fantasy', 'Comedy']",USA
+455,Fearless Hyena 2,3.5,2.85,685,['Action'],Hong Kong
+456,"Monica, O My Darling",3.5,3.49,7761,"['Mystery', 'Drama', 'Comedy', 'Crime']",India
+457,Blade Runner,1.0,4.1,650572,"['Drama', 'Science Fiction', 'Thriller']",USA
+458,Andhadhun,4.0,3.81,20920,"['Thriller', 'Comedy', 'Crime']",India
+459,Old,3.5,2.44,291034,"['Horror', 'Thriller', 'Mystery']",Japan
+460,The Village,3.5,3.25,144576,"['Thriller', 'Mystery', 'Drama']",USA
+461,The Visit,3.5,3.03,162206,"['Mystery', 'Horror', 'Thriller']",USA
+462,Zombieland,3.5,3.53,509854,"['Comedy', 'Horror']",USA
+463,Scream 3,3.5,2.77,219411,"['Mystery', 'Horror']",USA
+464,Squid Game,3.5,3.77,480597,"['Drama', 'Mystery']",South Korea
+465,The Exorcism of Emily Rose,3.5,3.03,56321,"['Crime', 'Thriller', 'Drama', 'Horror']",USA
+466,The Client,3.5,3.22,18826,"['Crime', 'Thriller', 'Mystery', 'Drama']",USA
+467,Spy,3.5,3.15,126593,"['Action', 'Crime', 'Comedy']",USA
+468,Jurassic Park III,3.5,2.69,184768,"['Thriller', 'Science Fiction', 'Action', 'Adventure']",USA
+469,The Replacements,3.0,3.12,18586,['Comedy'],USA
+470,I Still Know What You Did Last Summer,3.5,2.32,39506,"['Horror', 'Mystery', 'Thriller']",USA
+471,Die Hard 2,4.0,3.28,113667,"['Action', 'Thriller']",USA
+472,Death at a Funeral,3.5,2.63,20049,['Comedy'],USA
+473,The Social Network,3.5,3.95,1076564,['Drama'],USA
+474,Blade II,3.5,3.23,92427,"['Fantasy', 'Thriller', 'Action', 'Horror']",USA
+475,Dante's Peak,3.5,2.83,30722,"['Thriller', 'Adventure', 'Action', 'Drama']",USA
+476,The Great Gatsby,3.0,3.33,552440,"['Drama', 'Romance']",USA
+477,Cliffhanger,3.5,3.17,36462,"['Thriller', 'Action', 'Adventure']",France
+478,Blade: Trinity,3.0,2.27,60141,"['Action', 'Horror', 'Fantasy']",USA
+479,Paul Blart: Mall Cop,3.0,2.25,100411,"['Comedy', 'Family', 'Adventure', 'Action']",USA
+480,The Exorcist,3.0,3.99,368127,['Horror'],USA
+481,The Girl on the Train,3.0,2.12,1764,"['Drama', 'Thriller']",India
+482,Shooter,3.0,3.13,59369,"['Drama', 'Thriller', 'Mystery', 'Action', 'Crime']",USA
+483,Mission: Impossible II,3.5,2.62,164577,"['Thriller', 'Action', 'Adventure']",USA
+484,Mission: Impossible - Fallout,4.0,3.91,317555,"['Action', 'Adventure']",USA
+485,Murder on the Orient Express,3.5,3.0,258804,"['Crime', 'Drama', 'Mystery']",UK
+486,Blood Red Sky,3.5,2.65,37508,"['Horror', 'Action', 'Thriller']",Germany
+487,The Rundown,3.0,2.96,30367,"['Adventure', 'Action', 'Thriller', 'Comedy']",USA
+488,Bhool Bhulaiyaa 2,3.5,2.43,4651,"['Horror', 'Comedy']",India
+489,In the Shadow of the Moon,3.5,2.75,24667,"['Science Fiction', 'Thriller']",USA
+490,Roohi,3.5,2.57,1303,"['Horror', 'Comedy']",India
+491,Cuttputlli,3.5,2.74,843,"['Crime', 'Mystery', 'Thriller']",India
+492,Silence... Can You Hear It?,3.5,3.14,303,"['Thriller', 'Drama']",India
+493,Om Shanti Om,4.0,3.79,19224,"['Thriller', 'Drama', 'Comedy']",India
+494,Bodyguard,2.5,2.54,4457,"['Drama', 'Action', 'Romance']",India
+495,Andaz Apna Apna,4.0,3.52,3677,"['Family', 'Romance', 'Comedy']",India
+496,Bajrangi Bhaijaan,3.0,3.64,10816,"['Comedy', 'Drama', 'Action']",India
+497,Ek Tha Tiger,3.0,2.74,4743,"['Action', 'Thriller', 'Romance']",India
+498,Wanted,3.0,2.77,2187,"['Comedy', 'Action', 'Thriller', 'Crime']",India
+499,Karan Arjun,3.0,3.05,1978,"['Action', 'Thriller']",India
+500,Main Hoon Na,3.5,3.48,8530,['Drama'],India
+501,Tiger Zinda Hai,3.0,2.75,3873,"['Action', 'Thriller']",India
+502,Don,3.5,3.19,6457,"['Action', 'Thriller', 'Drama']",India
+503,My Name Is Khan,4.0,3.58,17462,"['Romance', 'Drama']",United Arab Emirates
+504,Kuch Kuch Hota Hai,3.5,3.61,13034,"['Drama', 'Romance']",India
+505,Ra.One,3.0,2.42,7859,"['Action', 'Science Fiction', 'Adventure']",India
+506,Chennai Express,3.0,2.84,11198,"['Romance', 'Action', 'Comedy']",India
+507,Happy New Year,3.0,2.61,8484,"['Action', 'Crime', 'Comedy']",India
+508,Singham,3.5,2.99,4417,"['Crime', 'Action', 'Drama']",India
+509,47 Meters Down,3.0,2.44,52718,"['Horror', 'Thriller', 'Adventure']",Dominican Republic
+510,Don 2,3.5,3.06,5141,"['Action', 'Thriller']",India
+511,Student of the Year,3.0,2.62,6432,"['Music', 'Drama', 'Comedy']",India
+512,OMG: Oh My God!,3.5,3.34,4469,"['Drama', 'Comedy', 'Fantasy']",India
+513,How It Ends,2.0,2.04,19402,"['Science Fiction', 'Thriller', 'Action', 'Mystery', 'Adventure']",Canada
+514,Death Wish,2.0,2.55,28036,"['Action', 'Drama', 'Crime', 'Thriller']",USA
+515,A Quiet Place,1.0,3.65,892752,"['Science Fiction', 'Drama', 'Horror']",USA
+516,The Perfect Storm,3.5,3.08,38973,"['Thriller', 'Drama', 'Adventure', 'Action']",USA
+517,Sharknado 4: The 4th Awakens,2.5,1.94,8212,"['Comedy', 'Science Fiction']",USA
+518,Sharknado 3: Oh Hell No!,2.5,2.02,11832,"['Comedy', 'Action', 'Adventure', 'TV Movie', 'Science Fiction']",USA
+519,2-Headed Shark Attack,2.5,1.67,2757,"['Horror', 'Action', 'Science Fiction', 'Thriller']",USA
+520,3-Headed Shark Attack,2.5,1.72,1828,"['Action', 'Horror', 'Science Fiction']",USA
+521,The Last Sharknado: It's About Time,2.5,2.01,5253,"['Comedy', 'Adventure', 'Action', 'Science Fiction', 'TV Movie']",USA
+522,100 Million BC,2.5,2.28,631,"['Adventure', 'Action', 'Science Fiction']",USA
+523,5 Headed Shark Attack,2.5,1.84,1442,"['Science Fiction', 'Horror']",USA
+524,Mega Piranha,2.5,1.77,1548,"['Science Fiction', 'Horror', 'Action', 'Adventure']",USA
+525,Triassic World,2.5,2.66,295,"['Science Fiction', 'Horror', 'Action']",USA
+526,Radhe,2.5,2.14,1421,"['Drama', 'Action', 'Thriller', 'Crime']",India
+527,Heropanti 2,2.5,2.31,735,"['Action', 'Romance', 'Drama']",India
+528,Bermuda Tentacles,2.5,2.46,467,['Science Fiction'],USA
+529,Sharknado 5: Global Swarming,2.5,1.97,6828,"['Comedy', 'Adventure', 'Science Fiction', 'Action', 'TV Movie']",USA
+530,Airplane vs Volcano,2.5,2.17,881,['Action'],USA
+531,Geo-Disaster,2.5,2.65,249,"['Science Fiction', 'TV Movie', 'Action']",USA
+532,500 MPH Storm,2.5,2.48,328,"['Adventure', 'Science Fiction', 'Drama', 'Thriller', 'Action', 'TV Movie']",USA
+533,Piranha 3D,2.5,2.37,50604,"['Comedy', 'Horror']",USA
+534,Spy Kids,3.0,2.85,156010,"['Action', 'Family', 'Adventure', 'Comedy']",USA
+535,Spy Kids 3-D: Game Over,3.0,2.31,89209,"['Action', 'Adventure', 'Comedy', 'Science Fiction', 'Family']",USA
+536,Die Hard,4.5,4.08,453454,"['Action', 'Thriller']",USA
+537,Airline Disaster,2.5,2.78,120,"['Adventure', 'Thriller', 'Action']",USA
+538,Spy Kids 2: The Island of Lost Dreams,3.0,2.68,84395,"['Action', 'Comedy', 'Family', 'Adventure', 'Science Fiction']",USA
+539,Inside Out,4.5,3.81,1016554,"['Adventure', 'Comedy', 'Family', 'Drama', 'Animation']",USA
+540,Teen Beach Movie,3.0,3.16,58301,"['Family', 'Comedy', 'TV Movie', 'Music']",USA
+541,Dirty Dancing,2.0,3.59,238688,"['Music', 'Romance', 'Drama']",USA
+542,Ice Age,4.0,3.45,366515,"['Animation', 'Comedy', 'Adventure', 'Family']",USA
+543,Child's Play 3,2.5,2.51,50989,"['Horror', 'Thriller']",USA
+544,The Game Plan,3.0,2.74,56815,"['Family', 'Comedy']",USA
+545,Ice Age: Dawn of the Dinosaurs,3.5,2.98,152925,"['Comedy', 'Adventure', 'Animation', 'Family']",USA
+546,Blast from the Past,3.0,3.21,27181,"['Drama', 'Comedy', 'Romance']",USA
+547,16 Wishes,3.0,2.53,34786,"['Drama', 'Family', 'Fantasy']",USA
+548,Romeo and Juliet,2.5,3.49,24604,"['Drama', 'Romance']",Italy
+549,Prisoners,4.5,4.27,683949,"['Drama', 'Crime', 'Thriller']",USA
+550,Camp Rock 2: The Final Jam,2.5,2.48,49911,"['TV Movie', 'Music', 'Comedy']",USA
+551,Ice Age: The Meltdown,3.5,2.97,187931,"['Animation', 'Adventure', 'Comedy', 'Family']",USA
+552,Replicas,2.5,2.01,16734,"['Science Fiction', 'Drama', 'Thriller']",Canada
+553,Beauty and the Beast,3.0,3.87,324095,"['Animation', 'Family', 'Fantasy', 'Romance']",USA
+554,The Jungle Book,4.0,3.65,158861,"['Adventure', 'Animation', 'Family']",USA
+555,Morbius,3.0,1.65,210762,"['Fantasy', 'Science Fiction', 'Action']",USA
+556,Fantastic Mr. Fox,4.0,4.24,778436,"['Comedy', 'Family', 'Animation', 'Adventure']",USA
+557,Frankenweenie,3.0,3.36,130585,"['Animation', 'Family', 'Comedy']",USA
+558,Spirited Away,5.0,4.45,1153963,"['Fantasy', 'Animation', 'Family']",Japan
+559,Radio Rebel,2.5,2.11,26621,"['Comedy', 'Drama', 'TV Movie', 'Family']",Canada
+560,Curious George,4.5,3.32,28355,"['Animation', 'Family', 'Adventure', 'Comedy']",USA
+561,Memories of Murder,5.0,4.4,286666,"['Crime', 'Drama', 'Thriller']",South Korea
+562,Armour of God,4.0,3.31,8894,"['Action', 'Adventure', 'Comedy']",Hong Kong
+563,Operation Condor,4.0,3.49,8257,"['Adventure', 'Thriller', 'Action', 'Crime']",Hong Kong
+564,Rebecca,3.0,2.49,53815,"['Mystery', 'Thriller', 'Romance', 'Drama']",UK
+565,Big Hero 6,5.0,3.75,584456,"['Family', 'Animation', 'Adventure', 'Comedy', 'Action']",USA
+566,Inception,5.0,4.17,1472841,"['Science Fiction', 'Action', 'Adventure']",UK
+567,Everything Everywhere All at Once,4.5,4.34,1512688,"['Adventure', 'Action', 'Science Fiction']",USA
+568,Final Destination,4.5,3.11,185155,['Horror'],USA
+569,Unfriended,3.5,2.26,130746,"['Horror', 'Thriller', 'Mystery']",USA
+570,Bodies Bodies Bodies,4.5,3.35,370648,"['Thriller', 'Horror', 'Comedy']",USA
+571,Bullet Train,4.0,3.5,680673,"['Comedy', 'Action', 'Thriller']",USA
+572,Dunkirk,4.5,3.77,854563,"['War', 'Drama', 'Action']",France
+573,Police Story 2,4.5,3.54,22547,"['Thriller', 'Crime', 'Action']",Hong Kong
+574,The Resort,2.0,1.37,5404,['Horror'],USA
+575,The Nun,3.0,2.01,172455,"['Thriller', 'Mystery', 'Horror']",USA
+576,Us,4.5,3.65,922899,"['Horror', 'Mystery', 'Thriller']",USA
+577,Last Seen Alive,3.0,2.27,13118,"['Action', 'Thriller']",USA
+578,Close Encounters of the Third Kind,3.5,3.83,149031,"['Drama', 'Science Fiction']",USA
+579,Law Abiding Citizen,4.0,3.28,65014,"['Crime', 'Thriller', 'Drama']",USA
+580,Ittefaq,3.5,3.27,2994,"['Thriller', 'Mystery', 'Crime']",India
+581,Race,3.5,2.89,3184,"['Action', 'Thriller', 'Drama', 'Crime']",India
+582,Forrest Gump,4.0,4.1,1177276,"['Romance', 'Comedy', 'Drama']",USA
+583,Thank God,3.0,2.67,1123,['Comedy'],India
+584,Moneyball,4.0,3.86,305649,['Drama'],USA
+585,It,4.0,3.44,942195,"['Horror', 'Fantasy']",USA
+586,Back to the Future Part II,4.0,3.84,416098,"['Adventure', 'Comedy', 'Science Fiction']",USA
+587,The Evil Dead,4.0,3.67,274797,['Horror'],USA
+588,Airplane!,4.0,3.83,249167,['Comedy'],USA
+589,Indiana Jones and the Temple of Doom,4.5,3.63,330150,"['Action', 'Adventure']",USA
+590,Guardians of the Galaxy Vol. 2,4.0,3.49,920423,"['Science Fiction', 'Action', 'Adventure']",USA
+591,Predator,4.0,3.78,236567,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",USA
+592,Captain America: The First Avenger,4.0,3.24,720217,"['Science Fiction', 'Action', 'Adventure']",USA
+593,22 Jump Street,4.0,3.3,300827,"['Crime', 'Action', 'Comedy']",USA
+594,Independence Day,4.0,3.29,210095,"['Adventure', 'Action', 'Science Fiction']",USA
+595,The Ring,4.0,3.31,197326,"['Horror', 'Mystery']",USA
+596,Child's Play,4.0,3.3,149132,['Horror'],USA
+597,Identity,4.0,3.35,76344,"['Thriller', 'Mystery']",USA
+598,Knowing,4.0,2.6,72283,"['Thriller', 'Science Fiction', 'Mystery', 'Action']",UK
+599,Devil,4.0,2.59,68250,"['Horror', 'Mystery', 'Thriller']",USA
+600,Rumble in the Bronx,4.5,3.44,25660,"['Thriller', 'Crime', 'Comedy', 'Action']",Hong Kong
+601,Unstoppable,4.0,3.26,57674,"['Action', 'Thriller']",USA
+602,"Game Over, Man!",4.0,2.37,27717,"['Comedy', 'Action']",USA
+603,Presumed Innocent,4.0,3.43,13989,"['Thriller', 'Mystery', 'Crime']",USA
+604,The Bourne Supremacy,4.0,3.58,141590,"['Thriller', 'Drama', 'Action']",Germany
+605,Commando,4.0,3.37,62250,"['Adventure', 'Thriller', 'Action']",USA
+606,Final Destination 2,4.0,2.85,104502,"['Horror', 'Mystery']",USA
+607,Scooby-Doo! and the Legend of the Vampire,4.5,3.15,11031,"['Animation', 'Comedy', 'Music', 'Fantasy', 'Mystery', 'Family']",USA
+608,Doctor Strange in the Multiverse of Madness,3.5,3.01,907232,"['Action', 'Fantasy', 'Adventure']",USA
+609,The Dark Knight Rises,4.0,3.7,813797,"['Drama', 'Crime', 'Action', 'Thriller']",USA
+610,Elf,3.5,3.37,367033,"['Comedy', 'Fantasy', 'Family']",USA
+611,Ocean's Eleven,4.5,3.86,455132,"['Crime', 'Thriller']",USA
+612,Star Wars: Episode III - Revenge of the Sith,4.5,3.67,676823,"['Action', 'Science Fiction', 'Adventure']",USA
+613,The Invitation,4.0,3.32,149181,"['Horror', 'Thriller']",USA
+614,Terrifier,3.5,2.45,130268,"['Thriller', 'Horror']",USA
+615,Armageddon,3.5,3.01,130817,"['Adventure', 'Science Fiction', 'Action', 'Thriller']",USA
+616,Drag Me to Hell,3.5,3.2,125813,"['Thriller', 'Horror']",USA
+617,Final Destination 3,3.5,2.89,109653,"['Horror', 'Mystery']",Canada
+618,Scooby-Doo,4.0,3.15,257309,"['Mystery', 'Comedy', 'Adventure']",USA
+619,Mission: Impossible III,3.5,3.33,169508,"['Action', 'Thriller', 'Adventure']",USA
+620,Ghost,3.5,3.43,109535,"['Mystery', 'Thriller', 'Romance', 'Drama', 'Fantasy']",USA
+621,The Expendables 2,3.5,2.7,74804,"['Thriller', 'Action', 'Adventure']",Bulgaria
+622,Air Force One,3.5,3.17,67464,"['Thriller', 'Action']",Germany
+623,Home Alone 3,4.0,2.01,68195,"['Comedy', 'Family']",USA
+624,Deep Blue Sea,3.5,2.79,58776,"['Science Fiction', 'Action', 'Horror']",Australia
+625,Insidious: Chapter 3,3.5,2.54,69031,"['Thriller', 'Horror', 'Mystery']",Canada
+626,The Man from Toronto,3.5,2.38,34788,"['Comedy', 'Action', 'Adventure']",Canada
+627,Snakes on a Plane,3.5,2.43,59530,"['Action', 'Crime', 'Thriller', 'Adventure']",USA
+628,Escape Plan,3.5,2.82,56773,"['Action', 'Thriller']",USA
+629,Just Cause,3.5,2.94,6111,"['Action', 'Drama', 'Mystery', 'Thriller']",USA
+630,The Weekend Away,3.5,2.35,33220,"['Thriller', 'Mystery']",UK
+631,Airplane II: The Sequel,3.5,2.92,19414,['Comedy'],USA
+632,Domestic Disturbance,3.5,2.59,5973,"['Mystery', 'Thriller', 'Crime']",USA
+633,Passenger 57,3.5,2.9,12736,"['Thriller', 'Adventure', 'Action']",USA
+634,Halloween,3.5,3.83,464400,"['Thriller', 'Horror']",USA
+635,Night at the Museum,3.5,3.18,347235,"['Adventure', 'Fantasy', 'Action', 'Family', 'Comedy']",USA
+636,Jurassic World: Fallen Kingdom,3.5,2.53,318886,"['Thriller', 'Action', 'Adventure', 'Science Fiction']",USA
+637,HIT: The First Case,3.5,3.3,2713,"['Thriller', 'Action', 'Drama']",India
+638,Poltergeist,4.0,3.52,177049,['Horror'],USA
+639,Jurassic World Dominion,3.5,2.17,249005,"['Science Fiction', 'Adventure', 'Action']",USA
+640,Glass Onion,4.5,3.55,1109718,"['Crime', 'Comedy', 'Mystery']",USA
+641,Dhol,3.5,3.21,949,['Comedy'],India
+642,Paths of Glory,3.5,4.45,132639,"['Drama', 'War']",USA
+643,Drishyam,4.0,3.72,8543,"['Mystery', 'Crime', 'Thriller', 'Drama']",India
+644,Govinda Naam Mera,3.5,3.02,1384,"['Romance', 'Comedy', 'Drama']",India
+645,Titanic,4.5,3.78,906841,"['Romance', 'Drama']",USA
+646,True Lies,4.0,3.56,91023,"['Action', 'Thriller']",USA
+647,L.A. Confidential,4.5,4.07,175070,"['Crime', 'Thriller', 'Mystery']",USA
+648,A Bug's Life,3.5,3.42,317838,"['Animation', 'Comedy', 'Family', 'Adventure']",USA
+649,Dhoom,3.0,2.89,4862,"['Thriller', 'Action', 'Drama', 'Crime']",India
+650,Dhoom 3,3.0,2.62,7724,"['Crime', 'Thriller', 'Action']",India
+651,Project A,4.5,3.66,10673,"['Comedy', 'Action', 'Adventure']",Hong Kong
+652,Life Is Beautiful,4.5,4.29,236999,"['Comedy', 'Drama']",Italy
+653,Krrish,3.5,2.8,5885,"['Science Fiction', 'Action']",Hong Kong
+654,Koi... Mil Gaya,3.5,3.17,5710,"['Drama', 'Action', 'Science Fiction']",India
+655,Coach Carter,4.0,3.63,81806,"['Drama', 'History']",Germany
+656,Phone Bhoot,2.5,2.88,1210,"['Horror', 'Comedy']",India
+657,Singham Returns,3.5,2.58,2110,['Action'],India
+658,No Escape,3.5,3.02,26268,['Thriller'],USA
+659,Dhoom 2,3.5,3.27,7304,"['Drama', 'Action', 'Thriller', 'Crime']",India
+660,Jab We Met,3.5,3.69,11911,"['Drama', 'Romance', 'Comedy']",India
+661,Rocky IV,4.5,3.52,126282,['Drama'],USA
+662,Rocky III,4.5,3.41,116845,['Drama'],USA
+663,Rocky,4.0,4.06,337573,"['Romance', 'Drama']",USA
+664,36 China Town,3.5,3.05,1102,"['Thriller', 'Comedy']",India
+665,Rocky II,4.5,3.7,129792,['Drama'],USA
+666,The Pale Blue Eye,3.0,3.02,106497,['Crime'],USA
+667,Drishyam 2,4.0,3.56,4420,"['Crime', 'Drama', 'Thriller', 'Mystery']",India
+668,21 Jump Street,4.5,3.54,452901,"['Comedy', 'Crime', 'Action']",USA
+669,42 to 1,4.0,3.42,736,['Documentary'],USA
+670,Celtics/Lakers: Best of Enemies,4.5,3.92,1340,['Documentary'],USA
+671,Rocky V,3.5,2.37,77144,['Drama'],USA
+672,The Two Bills,4.0,3.46,635,['Documentary'],USA
+673,Den of Thieves,3.5,3.15,46884,"['Crime', 'Thriller', 'Action']",USA
+674,Deion's Double Play,3.5,3.3,770,['Documentary'],USA
+675,Indiana Jones and the Kingdom of the Crystal Skull,3.5,2.62,257206,"['Adventure', 'Action']",USA
+676,Mr. India,4.0,3.43,1682,"['Science Fiction', 'Action', 'Drama']",India
+677,The Mummy,4.5,3.47,258963,"['Fantasy', 'Action', 'Adventure']",USA
+678,Skinamarink,3.0,2.92,94444,['Horror'],Canada
+679,2025: The World Enslaved by a Virus,0.5,1.22,4316,"['Adventure', 'Science Fiction', 'Drama', 'Thriller']",USA
+680,The Thing,5.0,4.35,452278,"['Science Fiction', 'Horror', 'Mystery']",Canada
+681,Transformers,4.5,3.01,284201,"['Science Fiction', 'Adventure', 'Action']",USA
+682,Super Size Me,3.5,3.08,71867,['Documentary'],USA
+683,The Mummy Returns,4.5,2.91,130933,"['Action', 'Fantasy', 'Adventure']",USA
+684,Zoolander 2,3.5,2.02,62882,"['Comedy', 'Action', 'Adventure']",USA
+685,The Invisible Man,3.5,3.46,409113,"['Horror', 'Science Fiction', 'Thriller']",Australia
+686,The Fugitive,4.5,3.86,118214,"['Drama', 'Thriller', 'Action']",USA
+687,The Dictator,3.5,2.75,166874,['Comedy'],USA
+688,The Happening,3.0,1.99,95641,"['Science Fiction', 'Thriller']",USA
+689,Inglourious Basterds,5.0,4.32,1212434,"['Thriller', 'Drama', 'War']",France
+690,White Men Can't Jump,3.5,3.49,48258,"['Comedy', 'Drama']",USA
+691,Knock at the Cabin,3.5,2.94,213495,"['Horror', 'Thriller', 'Mystery']",Japan
+692,Rocky Balboa,3.5,3.45,84272,['Drama'],USA
+693,Ford v Ferrari,4.5,3.91,380421,"['Drama', 'History', 'Action']",USA
+694,U.S. Marshals,4.5,3.06,23806,"['Crime', 'Thriller', 'Action']",USA
+695,The Little Mermaid,3.0,3.66,294086,"['Animation', 'Fantasy', 'Family']",USA
+696,The Nightmare Before Christmas,4.0,3.94,561159,"['Animation', 'Family', 'Fantasy']",USA
+697,Creed,4.5,3.81,316186,"['Drama', 'Action']",USA
+698,The Avengers,4.5,3.62,999181,"['Science Fiction', 'Adventure', 'Action']",USA
+699,Spider-Man: Homecoming,4.5,3.48,1083580,"['Science Fiction', 'Action', 'Adventure', 'Drama']",USA
+700,The Falcon and the Winter Soldier,3.5,3.19,236919,['Drama'],USA
+701,Happy Gilmore,4.0,3.3,158642,['Comedy'],USA
+702,No Country for Old Men,5.0,4.33,747637,"['Drama', 'Thriller', 'Crime']",USA
+703,All Quiet on the Western Front,4.5,3.94,389215,"['War', 'Drama']",Germany
+704,Psycho,4.5,4.33,546889,"['Drama', 'Thriller', 'Horror']",USA
+705,Creed II,4.0,3.5,190608,"['Drama', 'Action']",USA
+706,The Guardians of the Galaxy Holiday Special,3.5,3.25,170726,"['Science Fiction', 'Comedy', 'Adventure']",USA
+707,Ant-Man and the Wasp: Quantumania,3.5,2.39,385634,"['Action', 'Adventure', 'Science Fiction']",USA
+708,Captain Phillips,3.0,3.72,194806,"['Action', 'Thriller', 'Drama']",USA
+709,Christmas Twister,2.5,2.33,594,"['Drama', 'TV Movie', 'Action', 'Science Fiction']",USA
+710,Camp Rock,2.5,2.62,92171,"['Romance', 'TV Movie', 'Comedy', 'Family', 'Music', 'Drama']",USA
+711,Super 8,3.5,3.46,189476,"['Science Fiction', 'Thriller', 'Mystery']",USA
+712,Scooby-Doo! The Mystery Begins,3.0,2.16,13725,"['Mystery', 'Comedy', 'Fantasy']",USA
+713,Shrek 2,3.5,3.95,603583,"['Family', 'Adventure', 'Animation', 'Comedy', 'Fantasy']",USA
+714,Anacondas: The Hunt for the Blood Orchid,3.0,2.23,12878,"['Action', 'Fantasy', 'Adventure', 'Horror']",USA
+715,Hercules,3.5,3.73,308329,"['Fantasy', 'Comedy', 'Romance', 'Adventure', 'Animation', 'Family']",USA
+716,Jumanji: Welcome to the Jungle,3.5,3.06,416199,"['Action', 'Comedy', 'Fantasy', 'Adventure']",USA
+717,Romeo + Juliet,3.0,3.35,265454,"['Drama', 'Romance']",Mexico
+718,Madagascar,3.5,3.39,349018,"['Family', 'Animation', 'Adventure', 'Comedy']",USA
+719,The Black Phone,3.5,3.27,436290,"['Horror', 'Thriller']",USA
+720,Ocean's Thirteen,3.5,3.3,161577,"['Crime', 'Thriller']",USA
+721,Insomnia,3.5,3.51,135593,"['Crime', 'Mystery', 'Thriller']",USA
+722,I Spy,3.5,2.4,11916,"['Comedy', 'Thriller', 'Action', 'Adventure']",USA
+723,In the Heat of the Night,3.5,4.0,44630,"['Thriller', 'Crime', 'Mystery', 'Drama']",USA
+724,Apollo 13,4.5,3.77,123456,"['Adventure', 'History', 'Drama']",USA
+725,The Big Brawl,3.5,2.86,2461,"['Comedy', 'Action']",Hong Kong
+726,Soul Plane,3.5,2.22,9156,"['Comedy', 'Romance']",USA
+727,The Bone Collector,4.0,3.12,46418,"['Drama', 'Thriller', 'Mystery', 'Crime']",USA
+728,Killer Klowns from Outer Space,3.5,3.27,64760,"['Comedy', 'Horror', 'Science Fiction']",USA
+729,Tango & Cash,4.5,3.13,28802,"['Comedy', 'Action', 'Thriller', 'Adventure']",USA
+730,City of God,5.0,4.5,339434,"['Crime', 'Drama']",Brazil
+731,Poltergeist II: The Other Side,3.5,2.73,14980,"['Thriller', 'Horror']",USA
+732,Conspiracy Theory,3.5,3.1,19617,"['Action', 'Mystery', 'Drama', 'Thriller']",USA
+733,Poltergeist III,3.0,2.44,10318,"['Thriller', 'Horror']",USA
+734,Mamma Mia! Here We Go Again,3.5,3.39,240359,"['Romance', 'Comedy']",UK
+735,The Commuter,3.5,2.81,57872,"['Action', 'Thriller', 'Mystery']",Canada
+736,Man on a Ledge,3.5,2.81,25045,"['Action', 'Crime', 'Thriller']",USA
+737,Spree,1.0,3.11,170318,"['Comedy', 'Thriller', 'Horror']",USA
+738,Lethal Weapon,4.0,3.71,101875,"['Comedy', 'Thriller', 'Adventure', 'Crime', 'Action']",USA
+739,Hearts and Minds,4.0,4.1,4154,"['Documentary', 'War']",USA
+740,Alvin and the Chipmunks: The Squeakquel,3.0,2.03,79452,"['Fantasy', 'Comedy', 'Animation', 'Music', 'Family']",USA
+741,Alvin and the Chipmunks,3.5,2.38,153485,"['Comedy', 'Animation', 'Fantasy', 'Family']",USA
+742,Contagion,3.0,3.35,196704,"['Thriller', 'Drama', 'Science Fiction']",USA
+743,The Frozen Ground,1.0,2.76,14542,"['Crime', 'Thriller']",USA
+744,Barbie: Princess Charm School,4.0,3.74,33134,"['Fantasy', 'Animation', 'Family']",USA
+745,Barbie and the Magic of Pegasus,3.5,3.48,25148,"['Animation', 'Family', 'Romance']",USA
+746,Barbie: A Fashion Fairytale,3.5,3.59,19664,"['Animation', 'Family']",USA
+747,Barbie: A Fairy Secret,3.5,3.4,17010,"['Family', 'Animation', 'Fantasy']",USA
+748,Barbie: The Princess & The Popstar,3.0,3.1,18267,"['Animation', 'Family']",USA
+749,The Lego Movie,4.0,3.77,481616,"['Comedy', 'Fantasy', 'Family', 'Adventure', 'Animation']",Denmark
+750,Stree,4.0,3.21,5941,"['Comedy', 'Horror']",India
+751,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,3.0,3.71,348636,['Comedy'],UK
+752,Greatest Events of World War II in Colour,4.5,4.07,1589,['Documentary'],UK
+753,Aladdin,3.5,3.88,387365,"['Romance', 'Fantasy', 'Adventure', 'Animation', 'Family']",USA
+754,Creed III,4.5,3.54,173691,"['Drama', 'Action']",USA
+755,Eyes Without a Face,4.0,3.94,70945,"['Thriller', 'Horror', 'Drama']",France
+756,House Shark,2.5,2.17,1265,"['Comedy', 'Horror']",USA
+757,Four Falls of Buffalo,4.0,3.72,1843,['Documentary'],USA
+758,Shaun of the Dead,4.0,3.98,517012,"['Comedy', 'Horror']",France
+759,Cocaine Bear,4.0,2.81,255641,"['Thriller', 'Comedy', 'Crime']",USA
+760,The King's Man,4.0,2.74,177093,"['Adventure', 'Action', 'Thriller']",UK
+761,Nope,4.5,3.77,933772,"['Mystery', 'Science Fiction', 'Horror']",USA
+762,Insidious: Chapter 2,4.0,2.95,112853,"['Horror', 'Thriller']",USA
+763,Annabelle,3.5,2.3,150239,['Horror'],USA
+764,Sinister 2,4.0,2.37,48169,['Horror'],Canada
+765,Eraser,4.0,2.86,24022,"['Drama', 'Thriller', 'Mystery', 'Action']",Canada
+766,Scream 2,4.0,3.26,278142,"['Horror', 'Mystery']",USA
+767,The Mask,3.5,3.27,300161,"['Romance', 'Crime', 'Comedy', 'Fantasy']",USA
+768,Believeland,4.5,3.43,836,['Documentary'],USA
+769,Once Upon a TimeÉ in Hollywood,3.5,3.76,1224494,"['Thriller', 'Comedy', 'Drama']",China
+770,Candyman,3.5,3.09,196282,"['Mystery', 'Thriller', 'Horror']",Canada
+771,Friday the 13th,3.5,3.04,185374,['Horror'],USA
+772,Fear Street: 1978,3.5,3.33,227610,"['Mystery', 'Horror']",USA
+773,Inferno,4.0,2.54,76455,"['Drama', 'Mystery', 'Action', 'Thriller']",Hungary
+774,First Blood,3.5,3.79,133357,"['War', 'Action', 'Thriller', 'Adventure']",USA
+775,Happy Feet,4.0,2.88,180216,"['Comedy', 'Animation', 'Family']",Australia
+776,Scooby-Doo 2: Monsters Unleashed,3.5,3.01,128402,"['Comedy', 'Adventure', 'Fantasy', 'Mystery']",USA
+777,Anger Management,3.5,2.76,71660,['Comedy'],USA
+778,The Gift,3.5,3.14,25041,"['Mystery', 'Thriller', 'Drama', 'Horror']",USA
+779,State of Play,3.5,3.3,30790,['Thriller'],France
+780,Beverly Hills Ninja,3.5,2.57,18574,"['Comedy', 'Action']",USA
+781,The Glass House,3.5,2.6,15918,"['Thriller', 'Drama']",USA
+782,Bird Box,2.5,2.81,510383,"['Thriller', 'Drama', 'Science Fiction']",USA
+783,Twins,2.5,2.94,49618,['Comedy'],USA
+784,A Good Day to Die Hard,2.0,1.79,54533,"['Thriller', 'Action']",USA
+785,Tremors: Shrieker Island,2.5,2.47,4133,"['Action', 'Horror']",USA
+786,Tremors: A Cold Day in Hell,2.5,2.22,4432,"['Comedy', 'Horror', 'Science Fiction', 'Action', 'Adventure', 'Fantasy']",USA
+787,Fear Street: 1666,3.0,3.28,195128,"['Mystery', 'Horror']",USA
+788,Ice Age: Continental Drift,2.5,2.56,116642,"['Comedy', 'Adventure', 'Animation', 'Family']",USA
+789,6-Headed Shark Attack,2.5,2.08,1338,"['Science Fiction', 'TV Movie', 'Action', 'Horror']",USA
+790,Lake Placid 2,2.5,1.81,2315,"['Science Fiction', 'Horror']",Canada
+791,The Jurassic Games,2.5,2.01,1857,"['Science Fiction', 'Horror', 'Action']",USA
+792,Agatha and the Midnight Murders,2.5,3.03,329,"['Mystery', 'TV Movie']",UK
+793,Tremors 5: Bloodlines,3.0,2.37,5278,"['Adventure', 'Action', 'Horror', 'Comedy', 'Science Fiction']",USA
+794,Fight Club,5.0,4.27,1606757,"['Drama', 'Comedy', 'Thriller']",USA
+795,Tenet,4.5,3.39,727177,"['Science Fiction', 'Action', 'Thriller']",UK
+796,The Parent Trap,3.0,3.58,282401,"['Comedy', 'Family']",USA
+797,The Guilty,3.0,2.84,213274,"['Drama', 'Thriller']",USA
+798,Crawl,3.0,2.89,115997,"['Action', 'Thriller', 'Horror']",Canada
+799,Grown Ups,3.0,2.74,214585,['Comedy'],USA
+800,Jungle Cruise,3.0,2.76,151955,"['Fantasy', 'Adventure', 'Action']",USA
+801,Point Break,3.0,3.71,152672,"['Action', 'Crime', 'Thriller']",Japan
+802,Friday the 13th Part 2,3.0,3.01,83265,['Horror'],USA
+803,The Final Destination,3.0,2.1,80099,"['Horror', 'Mystery']",USA
+804,Reservoir Dogs,3.5,4.15,688078,"['Crime', 'Thriller']",USA
+805,Annabelle: Creation,3.0,2.91,123348,"['Thriller', 'Mystery', 'Horror']",USA
+806,The Man,3.0,2.41,4728,"['Crime', 'Action', 'Comedy']",USA
+807,Piranha 3DD,2.0,1.73,17992,"['Comedy', 'Horror', 'Thriller']",USA
+808,Due Date,3.0,2.79,100682,"['Comedy', 'Drama']",USA
+809,The Ninth Gate,3.0,3.09,51173,"['Mystery', 'Thriller', 'Horror']",Spain
+810,Lake Placid vs. Anaconda,2.0,1.65,2238,"['Horror', 'Action']",USA
+811,Escape Room,2.0,1.7,8875,"['Thriller', 'Horror']",USA
+812,Django Unchained,4.5,4.23,1144615,"['Western', 'Drama']",USA
+813,Annabelle Comes Home,3.0,2.5,100941,"['Thriller', 'Horror', 'Mystery']",USA
+814,Murder Mystery 2,3.5,2.41,106080,"['Comedy', 'Crime']",USA
+815,Being John Malkovich,4.0,4.07,263660,"['Drama', 'Fantasy', 'Comedy']",USA
+816,American Beauty,4.0,3.97,533376,['Drama'],USA
+817,Paddington,4.0,3.8,294941,"['Adventure', 'Comedy', 'Family']",France
+818,1408,3.5,3.15,95832,"['Horror', 'Thriller', 'Mystery']",USA
+819,Good Will Hunting,4.5,4.26,713336,['Drama'],USA
+820,The Hateful Eight,3.5,3.91,576968,"['Drama', 'Mystery', 'Western']",USA
+821,The Super Mario Bros. Movie,4.0,3.34,541728,"['Adventure', 'Comedy', 'Family', 'Animation', 'Fantasy']",Japan
+822,The Truman Show,4.5,4.19,1243733,"['Comedy', 'Drama']",USA
+823,The Spy Next Door,3.0,2.3,24659,"['Action', 'Comedy', 'Family']",USA
+824,The Shawshank Redemption,5.0,4.53,893795,"['Drama', 'Crime']",USA
+825,Night at the Museum: Secret of the Tomb,3.0,2.69,99871,"['Comedy', 'Fantasy', 'Family', 'Adventure']",UK
+826,Toy Story 4,3.5,3.49,525587,"['Family', 'Fantasy', 'Comedy', 'Animation', 'Adventure']",USA
+827,Toy Story 2,4.0,3.93,595590,"['Comedy', 'Animation', 'Family']",USA
+828,Toy Story,4.5,4.13,860044,"['Animation', 'Adventure', 'Comedy', 'Family']",USA
+829,Ratatouille,4.0,4.17,1078756,"['Fantasy', 'Family', 'Comedy', 'Animation']",USA
+830,The SpongeBob Movie: Sponge on the Run,3.0,2.58,44795,"['Family', 'Fantasy', 'Comedy', 'Adventure', 'Animation']",South Korea
+831,Terminator Salvation,2.0,2.52,91714,"['Science Fiction', 'Action', 'Thriller']",Germany
+832,Gravity,1.5,3.51,485745,"['Drama', 'Science Fiction', 'Thriller']",UK
+833,Planet of the Sharks,1.5,2.05,895,"['Action', 'Horror', 'Science Fiction']",USA
+834,Empire of the Sharks,1.5,2.5,416,"['Science Fiction', 'Action']",USA
+835,Brazen,2.0,1.65,7860,"['Drama', 'Thriller', 'Mystery']",USA
+836,Hero and the Terror,2.0,2.62,1371,"['Romance', 'Drama', 'Crime', 'Thriller', 'Action']",USA
+837,Wings of Desire,3.0,4.28,72082,"['Romance', 'Fantasy', 'Drama']",France
+838,Ice Sharks,2.0,2.2,809,"['Adventure', 'TV Movie', 'Horror', 'Action', 'Science Fiction']",USA
+839,Captain Marvel,3.0,2.76,770989,"['Science Fiction', 'Action', 'Adventure']",USA
+840,Booksmart,2.5,3.76,526736,['Comedy'],USA
+841,Fantastic Four,2.5,1.31,127956,"['Science Fiction', 'Adventure', 'Action']",UK
+842,World War Z,2.5,3.06,374214,"['Action', 'Science Fiction', 'Drama', 'Thriller', 'Horror']",Malta
+843,Thir13en Ghosts,2.5,2.61,46888,"['Thriller', 'Horror']",Canada
+844,The Fly II,3.0,2.69,11493,"['Thriller', 'Horror', 'Science Fiction']",Canada
+845,Thor,3.0,2.77,661199,"['Fantasy', 'Action', 'Adventure']",USA
+846,Snitch,2.5,2.69,15250,"['Drama', 'Action', 'Thriller']",USA
+847,ABCD 2,2.5,2.62,1895,['Music'],India
+848,ABCD,3.0,2.98,1829,"['Music', 'Drama']",India
+849,Tremors 2: Aftershocks,3.5,2.88,15808,"['Horror', 'Thriller', 'Action', 'Comedy', 'Science Fiction']",USA
+850,She's the Man,3.0,3.21,160444,"['Comedy', 'Romance', 'Drama']",USA
+851,The Mummy: Tomb of the Dragon Emperor,3.0,2.12,65197,"['Fantasy', 'Adventure', 'Action']",Canada
+852,Jingle All the Way,3.0,2.81,93644,"['Family', 'Adventure', 'Comedy']",USA
+853,Tremors 4: The Legend Begins,3.0,2.49,6700,"['Action', 'Western', 'Comedy', 'Horror']",USA
+854,Race 2,3.0,2.49,2648,['Thriller'],India
+855,Race 3,2.5,1.86,1968,"['Action', 'Thriller']",India
+856,The Hurt Locker,3.5,3.74,167770,"['Drama', 'Thriller', 'War']",USA
+857,The Stepfather,3.5,2.35,18708,"['Horror', 'Thriller']",USA
+858,Fear Street: 1994,3.5,3.01,273584,"['Mystery', 'Horror']",USA
+859,Kabhi Khushi Kabhie Gham,3.5,3.71,16334,"['Drama', 'Comedy']",India
+860,Rising Sun,3.5,2.87,9353,"['Action', 'Thriller', 'Drama']",USA
+861,Dumb and Dumber,3.5,3.31,192493,['Comedy'],USA
+862,Project A: Part II,4.0,3.48,5217,"['Comedy', 'Action']",Hong Kong
+863,Criminal Law,3.5,2.84,1249,"['Romance', 'Drama', 'Thriller']",Canada
+864,Dobaaraa,3.5,3.21,1720,"['Thriller', 'Science Fiction', 'Mystery']",India
+865,The Vanished,3.5,2.37,6675,"['Action', 'Thriller', 'Crime', 'Horror']",USA
+866,2:22,3.5,2.44,6198,"['Thriller', 'Mystery', 'Romance', 'Science Fiction']",Australia
+867,Insidious,4.0,3.19,257618,"['Horror', 'Thriller']",Canada
+868,Frozen,4.0,3.33,591418,"['Family', 'Adventure', 'Fantasy', 'Animation']",USA
+869,Bee Movie,3.0,2.82,260931,"['Family', 'Animation', 'Adventure', 'Comedy']",USA
+870,King Leopold's Ghost,4.0,3.53,236,"['History', 'Documentary']",USA
+871,Kill Bill: Vol. 1,4.5,4.17,983807,"['Action', 'Crime']",USA
+872,Army of Darkness,3.5,3.7,155049,"['Horror', 'Fantasy', 'Comedy']",USA
+873,Sanders of the River,0.5,2.96,314,"['Drama', 'Adventure']",UK
+874,Evil Dead II,4.0,4.02,209749,"['Fantasy', 'Comedy', 'Horror']",USA
+875,Kill Bill: Vol. 2,4.0,4.03,576562,"['Action', 'Crime', 'Thriller']",USA
+876,Donnie Darko,4.5,3.97,743101,"['Mystery', 'Drama', 'Fantasy']",USA
+877,MH370: The Plane That Disappeared,3.0,2.63,5971,['Documentary'],UK
+878,Bao,4.0,3.89,119109,"['Fantasy', 'Family', 'Animation']",Canada
+879,You Again,2.5,2.79,26298,"['Romance', 'Comedy']",USA
+880,Alien,3.0,4.29,644305,"['Science Fiction', 'Horror']",USA
+881,The Terminator,4.5,3.89,378227,"['Action', 'Science Fiction', 'Thriller']",UK
+882,Guardians of the Galaxy Vol. 3,5.0,4.06,541896,"['Science Fiction', 'Action', 'Adventure']",USA
+883,Transformers: Dark of the Moon,3.5,2.43,160814,"['Action', 'Science Fiction', 'Adventure']",USA
+884,The Meg,2.5,2.29,165865,"['Action', 'Horror', 'Science Fiction']",China
+885,Transformers: Revenge of the Fallen,3.0,2.25,172545,"['Science Fiction', 'Adventure', 'Action']",USA
+886,Tomorrowland,2.5,2.62,102430,"['Family', 'Science Fiction', 'Adventure', 'Mystery']",USA
+887,The Land Before Time,3.5,3.64,68045,"['Animation', 'Family', 'Adventure']",USA
+888,Are We There Yet?,3.0,2.4,30368,"['Adventure', 'Comedy', 'Romance', 'Family']",USA
+889,Apocalypse Now,3.5,4.44,392865,"['War', 'Drama']",USA
+890,Gone in the Night,2.0,2.27,7404,"['Thriller', 'Mystery', 'Drama']",USA
+891,Pathaan,3.5,3.01,16038,"['Adventure', 'Action', 'Thriller']",India
+892,A Kind of Murder,3.5,2.49,2262,"['Thriller', 'Crime', 'Drama']",USA
+893,Air,4.0,3.59,239308,"['Drama', 'History']",USA
+894,The Matrix,4.5,4.15,1037808,"['Science Fiction', 'Action']",USA
+895,Perfect Blue,5.0,4.39,360785,"['Animation', 'Thriller']",Japan
+896,Bride of Chucky,3.0,3.03,69199,"['Horror', 'Comedy']",USA
+897,The Waterboy,3.5,2.77,81415,['Comedy'],USA
+898,Dr. Jekyll and Mr. Mouse,4.0,3.73,1381,"['Comedy', 'Animation']",USA
+899,Life of Pi,4.0,3.7,409430,"['Adventure', 'Drama']",Canada
+900,Lage Raho Munna Bhai,3.5,3.46,3560,"['Comedy', 'Drama', 'Romance']",India
+901,White Men Can't Jump,3.0,2.67,19516,"['Drama', 'Comedy']",USA
+902,House Party,3.5,2.38,10301,['Comedy'],USA
+903,The Invisible Mouse,4.0,3.59,847,"['Comedy', 'Animation']",USA
+904,Untold: Malice at the Palace,4.0,3.55,12517,"['Documentary', 'Crime']",USA
+905,Cue Ball Cat,4.0,3.62,776,['Animation'],USA
+906,Heavenly Puss,4.0,3.82,1282,"['Animation', 'Comedy']",USA
+907,Bad Boys,4.0,3.17,119818,"['Crime', 'Thriller', 'Comedy', 'Action']",USA
+908,Scream VI,4.0,3.46,325850,"['Horror', 'Mystery', 'Thriller']",USA
+909,War Dogs,4.0,3.32,176939,"['Drama', 'Comedy', 'Crime']",USA
+910,Cape Fear,4.0,3.68,147805,"['Thriller', 'Crime', 'Drama']",USA
+911,Police Story: Lockdown,1.0,2.75,3175,"['Action', 'Drama', 'Crime']",China
+912,Transformers: Age of Extinction,2.5,1.92,129758,"['Action', 'Science Fiction', 'Adventure']",USA
+913,I Am Wrath,1.0,2.2,3004,"['Crime', 'Thriller', 'Action', 'Drama']",USA
+914,Murder on the Orient Express,3.5,3.53,41558,"['Drama', 'Thriller', 'Mystery']",UK
+915,Copycat,3.5,3.22,20000,"['Thriller', 'Crime']",USA
+916,Paycheck,3.5,2.72,20960,"['Science Fiction', 'Thriller', 'Action', 'Adventure', 'Mystery']",Canada
+917,Spider-Man: Across the Spider-Verse,5.0,4.57,632304,"['Animation', 'Science Fiction', 'Adventure', 'Action']",USA
+918,Money Train,3.0,2.75,8875,"['Action', 'Crime', 'Comedy']",USA
+919,Desi Boyz,3.0,2.66,2106,"['Comedy', 'Drama']",India
+920,Meet the Robinsons,3.5,3.4,151427,"['Comedy', 'Family', 'Animation']",USA
+921,Talvar,4.0,3.73,5336,"['Thriller', 'Drama', 'Mystery']",India
+922,Clue,5.0,3.81,169372,"['Comedy', 'Thriller', 'Mystery', 'Crime']",USA
+923,New Fist of Fury,3.5,2.95,753,"['Drama', 'Action']",Hong Kong
+924,Network,4.0,4.25,94588,['Drama'],USA
+925,New Police Story,3.5,3.32,8071,"['Action', 'Thriller', 'Crime', 'Drama']",China
+926,Iron Man,4.0,3.66,886606,"['Adventure', 'Science Fiction', 'Action']",USA
+927,Jaws 3-D,2.0,1.79,27818,"['Thriller', 'Horror']",USA
+928,The Karate Kid,3.5,3.71,192414,"['Family', 'Drama', 'Action']",USA
+929,Jaws: The Revenge,2.0,1.59,26112,"['Horror', 'Thriller', 'Adventure']",USA
+930,Executive Decision,3.0,3.1,16617,"['Thriller', 'Action', 'Drama', 'Adventure']",USA
+931,The Babadook,2.0,3.42,330863,"['Horror', 'Drama']",Australia
+932,A Thousand Words,2.5,2.37,16527,"['Comedy', 'Drama']",USA
+933,Bigfoot vs. D.B. Cooper,1.5,2.5,306,['Horror'],USA
+934,Gaslight,2.5,2.76,576,"['Horror', 'Thriller']",India
+935,A Murder of Crows,4.0,2.93,1133,"['Action', 'Crime', 'Thriller']",USA
+936,The Speed Cubers,4.0,3.67,7991,['Documentary'],USA
+937,The Midnight Sky,1.0,2.47,60050,"['Science Fiction', 'Drama']",USA
+938,First Kill,2.0,2.26,2797,"['Thriller', 'Action', 'Crime']",USA
+939,Bholaa,2.5,2.93,1141,"['Action', 'Crime', 'Adventure']",India
+940,The Fast and the Furious,4.0,3.23,240741,"['Thriller', 'Action', 'Crime']",Germany
+941,Home Alone 4,2.0,1.32,24696,"['TV Movie', 'Family', 'Comedy']",USA
+942,Whiplash,2.5,4.43,1361708,"['Drama', 'Music']",USA
+943,Anacondas: Trail of Blood,2.0,1.58,2854,"['Fantasy', 'Adventure', 'Horror', 'Action']",USA
+944,Mega Shark vs. Mecha Shark,2.5,1.87,1522,"['Science Fiction', 'Action', 'Thriller']",USA
+945,Anaconda 3: Offspring,2.0,1.62,3308,"['Action', 'Adventure', 'Fantasy', 'Horror']",USA
+946,Krrish 3,2.0,2.17,4505,"['Science Fiction', 'Action']",India
+947,Home Alone: The Holiday Heist,2.0,1.5,9266,"['TV Movie', 'Comedy', 'Family']",Canada
+948,Mega Shark vs. Giant Octopus,2.5,1.69,3729,"['Science Fiction', 'Horror']",USA
+949,Mega Shark vs. Crocosaurus,2.5,1.67,2288,"['Action', 'Horror', 'Science Fiction']",USA
+950,Turning Red,3.0,3.58,547033,"['Fantasy', 'Comedy', 'Family', 'Animation']",USA
+951,Lake Placid 3,2.0,1.78,1912,"['Thriller', 'Science Fiction', 'Horror', 'Action']",USA
+952,The Incredible Hulk,2.5,2.42,354902,"['Adventure', 'Science Fiction', 'Action']",USA
+953,War of the Worlds,2.5,3.23,178178,"['Thriller', 'Adventure', 'Science Fiction']",USA
+954,The Cloverfield Paradox,2.5,2.21,101513,"['Action', 'Science Fiction', 'Thriller', 'Horror']",USA
+955,The Mummy,2.5,1.86,101225,"['Adventure', 'Horror', 'Thriller', 'Action', 'Fantasy']",China
+956,The Conversation,2.5,4.17,104079,"['Mystery', 'Drama', 'Crime']",USA
+957,Rampage,3.0,2.36,100434,"['Action', 'Adventure', 'Science Fiction']",USA
+958,Spy Kids: All the Time in the World,2.5,1.61,33498,"['Comedy', 'Action', 'Family']",USA
+959,Sharknado 2: The Second One,2.5,1.95,17278,"['Thriller', 'Science Fiction']",USA
+960,Skyscraper,2.5,2.28,74987,"['Thriller', 'Action']",USA
+961,Predator 2,2.5,2.85,75421,"['Action', 'Science Fiction', 'Thriller']",USA
+962,Cop Out,2.5,2.17,22157,"['Action', 'Comedy', 'Crime']",USA
+963,Me Time,2.5,2.01,27559,['Comedy'],USA
+964,Changing Lanes,2.5,3.01,13759,['Thriller'],USA
+965,I'll Always Know What You Did Last Summer,2.5,1.46,8497,['Horror'],USA
+966,Don't Look Up,3.0,3.01,1032622,"['Comedy', 'Drama', 'Science Fiction']",USA
+967,Divergent,3.0,2.72,250957,"['Adventure', 'Action', 'Science Fiction']",USA
+968,To Kill a Mockingbird,3.0,4.08,127024,"['Crime', 'Drama']",USA
+969,Golmaal Again,2.5,2.45,2106,"['Action', 'Fantasy', 'Horror', 'Comedy']",India
+970,The Recall,2.5,2.02,1310,"['Science Fiction', 'Horror']",Canada
+971,Madagascar: Escape 2 Africa,3.0,3.0,187817,"['Comedy', 'Adventure', 'Family', 'Animation']",USA
+972,Jaws 2,3.0,2.72,42364,"['Thriller', 'Horror']",USA
+973,The Last Stand,3.0,2.8,31982,"['Crime', 'Action', 'Thriller']",USA
+974,Time Trap,3.5,2.61,15937,"['Adventure', 'Science Fiction']",USA
+975,Godzilla,3.0,2.16,79493,"['Action', 'Science Fiction', 'Thriller']",Japan
+976,San Andreas,3.0,2.41,112265,"['Thriller', 'Action', 'Drama']",Canada
+977,Terminator 3: Rise of the Machines,3.0,2.62,111002,"['Action', 'Thriller', 'Science Fiction']",Germany
+978,Stop! Or My Mom Will Shoot,3.0,2.06,12025,"['Action', 'Comedy']",USA
+979,Tremors 3: Back to Perfection,3.0,2.5,8961,"['Comedy', 'Thriller', 'Science Fiction', 'Action', 'Horror']",USA
+980,Back to the Future Part III,3.5,3.49,312261,"['Science Fiction', 'Adventure', 'Comedy']",USA
+981,Coherence,3.5,3.75,134175,"['Thriller', 'Science Fiction']",UK
+982,The Protector,3.0,2.88,2882,"['Adventure', 'Action', 'Crime', 'Comedy', 'Drama']",Hong Kong
+983,Escape Plan 2: Hades,3.0,1.74,11413,"['Action', 'Thriller', 'Mystery']",China
+984,True Memoirs of an International Assassin,3.0,2.3,9399,"['Comedy', 'Action']",USA
+985,First Sunday,3.0,2.45,3058,"['Action', 'Comedy']",USA
+986,Welcome to the Jungle,3.0,2.27,2746,['Comedy'],UK
+987,Red Eye,3.5,3.12,82089,"['Mystery', 'Thriller']",USA
+988,The Woman in the Window,3.5,2.34,139656,"['Crime', 'Drama', 'Mystery', 'Thriller']",USA
+989,Munna Bhai M.B.B.S.,3.5,3.58,5598,"['Drama', 'Comedy']",India
+990,Sharknado,3.5,1.72,52971,"['Horror', 'Adventure', 'Science Fiction', 'Comedy', 'Action']",USA
+991,The Art of War,3.5,2.6,4537,"['Action', 'Adventure', 'Crime']",Canada
+992,She-Hulk: Attorney at Law,4.0,2.52,96840,['Comedy'],USA
