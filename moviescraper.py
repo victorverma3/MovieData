@@ -2,7 +2,7 @@
 import asyncio
 import aiohttp
 from bs4 import BeautifulSoup
-from filmstats import getStats
+from moviestats import getStats
 import json
 import os
 import pandas as pd
@@ -32,7 +32,7 @@ countries = []
 urls = []
 
 # Program
-async def filmCrawl(user = 'victorverma', session = None):
+async def movieCrawl(user = 'victorverma', session = None):
     start = time.perf_counter()
     pageNumber = 1 # start scraping from page 1
 
@@ -57,7 +57,7 @@ async def filmCrawl(user = 'victorverma', session = None):
         json.dump(errors, f, indent = 4, ensure_ascii = False)
     
     # creates a csv in user directory containing the movie data
-    films = {
+    movies = {
        'Title': titles,
        'User Rating': usrratings,
         'Letterboxd Rating': lrs,
@@ -67,7 +67,7 @@ async def filmCrawl(user = 'victorverma', session = None):
         'Country of Origin': countries,
         'URL': urls,
     }
-    df = pd.DataFrame(films, columns = ['Title', 
+    df = pd.DataFrame(movies, columns = ['Title', 
                                        'User Rating', 
                                        'Letterboxd Rating',
                                        'Rating Differential', 
@@ -82,7 +82,7 @@ async def filmCrawl(user = 'victorverma', session = None):
 
     finish = time.perf_counter()
     print(f'\nScraped movie data for {user} in {finish - start} seconds\n')
-    print(f'The following films caused errors (likely due to missing data on Letterboxd):\n{errors}\n')
+    print(f'The following movies caused errors (likely due to missing data on Letterboxd):\n{errors}\n')
 
 async def getData(movie, session):
     title = movie.div.img.get('alt')
@@ -90,7 +90,7 @@ async def getData(movie, session):
     link = f'https://letterboxd.com/{movie.div.get("data-target-link")}'
     LetterboxdData = await getLetterboxdData(title, link, session) # asynchronously gets Letterboxd data for movie
     
-    # appends Letterboxd data to films array
+    # appends Letterboxd data to movies array
     if LetterboxdData:
         r = ratings[movie.p.span.text]
         lr = LetterboxdData['LR']
@@ -127,10 +127,9 @@ async def getLetterboxdData(title, link, session):
         return
     return data
 
-
 async def main(user):
     async with aiohttp.ClientSession() as session:
-        await filmCrawl(user, session)
+        await movieCrawl(user, session)
     getStats(user)
 
 asyncio.run(main(user = 'victorverma'))
