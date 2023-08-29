@@ -32,7 +32,7 @@ countries = []
 urls = []
 
 # Program
-async def moviecrawl(user = 'victorverma', session = None):
+async def filmCrawl(user = 'victorverma', session = None):
     start = time.perf_counter()
     pageNumber = 1 # start scraping from page 1
 
@@ -130,7 +130,7 @@ async def getLetterboxdData(title, link, session):
 
 async def main(user):
     async with aiohttp.ClientSession() as session:
-        await moviecrawl(user, session)
+        await filmCrawl(user, session)
     getStats(user)
 
 asyncio.run(main(user = 'victorverma'))
