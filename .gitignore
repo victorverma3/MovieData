@@ -4,7 +4,8 @@ concat.csv
 /victorverma
 /harryzielinski
 /jconn8
-filmscraper.py
-filmstats.py
+moviedata.py
+movierecs.py
+moviestats.py
 test.py
 
