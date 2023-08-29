@@ -23,45 +23,34 @@ There are some movies/TV shows on Letterboxd that do not display the
 desired data, or the layout of their webpage does not follow the typical
 format of most Letterboxd pages. I have implemented try-except to to catch
 these errors without interrupting the code, and the titles that cause an
-error will be returned as a list by the filmCrawl() function. Optionally,
+error will be returned as a list by the movieCrawl() function. Optionally,
 the user can add these titles to the avoid dictionary at the top of
 moviedata.py, if they want to skip over them entirely in future passes of
 the program.
 
 # Output Files
 
-Running gatherData() in moviedata.py creates a local csv file with the
-following datapoints for the movies the user rated on Letterboxd:
+Running moviedata.py creates/updates the directory containing the user's movie data. This directory is updated with 4 files: {user}\_data.csv, {user}\_errors.json, {user}\_ratings.png, and {user}\_stats.json.
+
+a) {user}\_data.csv contains the following data points for the movies that a user has rated:
 
 1. Title
 2. User Rating (out of 5)
 3. Letterboxd Rating (out of 5)
-4. Letterboxd Rating Count
-5. Country of Origin
+4. Rating Differential (User Rating - Letterboxd Rating)
+5. Letterboxd Rating Count
+6. Genres
+7. Country of Origin
+8. URL (link to movie page on Letterboxd)
 
-I've uploaded my own personal Letterboxd data, victordata.csv, as an
+I've uploaded my own personal movie data, victorverma_data.csv, as an
 example.
 
-Running stats() in moviestats.py creates a local csv file with the mean
-and standard deviation for the user ratings, Letterboxd ratings, and
-Letterboxd rating count. It also stores the variation between the user and
-Letterboxd ratings (this is NOT to be confused with variance). The
-variation of user ratings can be interpreted as the average difference of
-(user rating - Letterboxd rating), and the variation of Letterboxd ratings
-can be interpreted as the average difference of (Letterboxd rating - user
-rating). The main reason I started this project was to calculate my own
-variation for user rating - this tells me on average, how I rate a movie
-compared to its Letterboxd rating. This is a summary of my personal
-statistics:
+b) {user}\_errors.json contains the titles of all user entries on Letterboxd that did not have all of the desired data available on their Letterboxd pages.
 
-- The average of my personal ratings of the movies I've watched is 3.622,
-  while the Letterboxd rating for those same movies is 3.097.
-- The standard deviation of my personal ratings is 0.720, while the
-  standard deviation of the Letterboxd ratings is 0.689.
-- On average, I tend to rate a movie 0.525 stars higher than the
-  Letterboxd community.
-- The average number of Letterboxd ratings for a movie I've rated is
-  219268, with a standard deviation of 308464.
+c) {user}\_ratings.png
+
+d) {user}\_stats.json
 
 # Limitations
 
