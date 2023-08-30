@@ -17,6 +17,18 @@ learning movie recommendation algorithm that uses Letterboxd data as its source.
 
 # Setup
 
+a) Required libraries:
+
+1. asyncio
+2. aiohttp
+3. Beautiful Soup
+4. json
+5. Matplotlib
+6. os
+7. pandas
+8. seaborn
+9. time
+
 # Fixing Errors
 
 There are some movies/TV shows on Letterboxd that do not display the
