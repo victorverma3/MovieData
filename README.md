@@ -18,21 +18,22 @@ learning movie recommendation algorithm that uses Letterboxd data as its source.
 # Setup
 
 **Running the Program on a Local Machine**
-a) Ensure the following libraries are installed in your Python environment:
 
-1. asyncio
-2. aiohttp
-3. Beautiful Soup
-4. json
-5. Matplotlib
-6. os
-7. pandas
-8. seaborn
-9. time
+1. Ensure the following libraries are installed in your Python environment:
 
-b) Copy moviedata.py and moviestats.py into the same local directory.
+- asyncio
+- aiohttp
+- Beautiful Soup
+- json
+- Matplotlib
+- os
+- pandas
+- seaborn
+- time
 
-c) Run moviedata.py and enter in your Letterboxd username when prompted.
+2. Copy moviedata.py and moviestats.py into the same local directory.
+
+3. Run moviedata.py and enter in your Letterboxd username when prompted.
 
 The program should take about n / 10 seconds to complete, where n is the number of movies that the user has rated on Letterboxd.
 
