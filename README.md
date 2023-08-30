@@ -4,14 +4,14 @@
 
 I love watching movies, and the Letterboxd app allows me to log and rate
 the movies I've watched. Most movies also have a Letterboxd community
-rating, which is approximately the average of all Letterboxd user ratings
+rating, which is a weighted average of all Letterboxd user ratings
 for that movie. Initially, I wanted to know how my ratings compared to the
 community ratings, so I created this program in order to facilitate this
 comparison. While working, however, I saw the potential to gather more
 information, so I expanded the scope to ultimately create a dataset of key
 metadata about the movies that I have rated on the Letterboxd app. I hope
 to use this dataset one day as the basis for my own personal machine
-learning movie recommendation algorithm that uses Letterboxd data as its source.
+learning movie recommendation algorithm that uses Letterboxd data as its basis.
 
 # Methodology
 
