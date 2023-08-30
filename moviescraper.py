@@ -9,7 +9,6 @@ import pandas as pd
 import time
 
 # Setup
-user = 'harryzielinski'
 errors = []
 ratings = {
     '½': 0.5,
@@ -133,4 +132,4 @@ async def main(user):
         await movieCrawl(user, session)
     getStats(user)
 
-asyncio.run(main(user))
+asyncio.run(main(user = input('\nEnter your Letterboxd username: ')))
