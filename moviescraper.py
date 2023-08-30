@@ -9,6 +9,7 @@ import pandas as pd
 import time
 
 # Setup
+user = 'harryzielinski'
 errors = []
 ratings = {
     '½': 0.5,
@@ -32,7 +33,7 @@ countries = []
 urls = []
 
 # Program
-async def movieCrawl(user = 'victorverma', session = None):
+async def movieCrawl(user, session = None):
     start = time.perf_counter()
     pageNumber = 1 # start scraping from page 1
 
@@ -132,4 +133,4 @@ async def main(user):
         await movieCrawl(user, session)
     getStats(user)
 
-asyncio.run(main(user = 'victorverma'))
+asyncio.run(main(user))
