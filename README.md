@@ -17,17 +17,17 @@ learning movie recommendation algorithm that uses Letterboxd data as its source.
 
 # Setup
 
-a) Required libraries:
+The following libraries are required:
 
-1. asyncio
-2. aiohttp
-3. Beautiful Soup
-4. json
-5. Matplotlib
-6. os
-7. pandas
-8. seaborn
-9. time
+a. asyncio
+b. aiohttp
+c. Beautiful Soup
+d. json
+e. Matplotlib
+f. os
+g. pandas
+h. seaborn
+i. time
 
 # Fixing Errors
 
