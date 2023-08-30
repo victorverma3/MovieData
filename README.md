@@ -17,7 +17,7 @@ learning movie recommendation algorithm that uses Letterboxd data as its source.
 
 # Setup
 
-Running the Program on a Local Machine
+**Running the Program on a Local Machine**
 a) Ensure the following libraries are installed in your Python environment:
 
 1. asyncio
