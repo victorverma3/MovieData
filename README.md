@@ -50,7 +50,7 @@ b) {user}\_errors.json contains the titles of all user entries on Letterboxd tha
 
 c) {user}\_ratings.png shows an overlay of the kernel density estimate plots of both the user's movie ratings and the Letterboxd ratings of those same movies. This is a useful visual to aid the user in understanding how they typically rate movies compared to the average Letterboxd user.
 
-d) {user}\_stats.json contains the mean and standard deviation of the user's user rating, Letterboxd rating, rating differential, and Letterboxd rating count. The standard deviations for the latter two are meaningless, but still included regardless.
+d) {user}\_stats.json contains the mean of the user's user ratings, Letterboxd ratings, rating differentials, and Letterboxd rating counts. It also contains the standard deviation of the user ratings and Letterboxd ratings.
 
 # Limitations
 
