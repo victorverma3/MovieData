@@ -58,8 +58,8 @@ async def movieCrawl(user, session = None):
     
     # creates a csv in user directory containing the movie data
     movies = {
-       'Title': titles,
-       'User Rating': usrratings,
+        'Title': titles,
+        'User Rating': usrratings,
         'Letterboxd Rating': lrs,
         'Rating Differential': ratingdiffs,
         'Letterboxd Rating Count': lrcs,
