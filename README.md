@@ -15,6 +15,8 @@ learning movie recommendation algorithm that uses Letterboxd data as its source.
 
 # Methodology
 
+**moviedata.py**
+
 The program takes a Letterboxd username as its initial input. Based on the username, the program navigates to the user's Letterboxd web profile, and then scrapes all of the movies that the user has rated, as well as the URLs to each movie's individual Letterboxd page. Next, the program visits each page, and scrapes the following movie metadata:
 
 1. _Title_
@@ -26,6 +28,11 @@ The program takes a Letterboxd username as its initial input. Based on the usern
 7. _URL_
 
 Additionally, the _Rating Differential_ for each movie is also calculated by _User Rating_ - _Letterboxd Rating_. After all of the the metadata is gathered, it is stored in a dictionary. This data is then exported to a CSV file with the path _f./{user}/{user}\_data.csv'_. Any movies with missing data are appended to a list that is exported to a JSON file with the path _f.'{user}/{user}\_errors.json'_.
+
+**moviestats.py**
+The CSV file containing the user's movie metadata is read, and the mean and standard deviation of the _User Rating_ and _Letterboxd Rating_ is calculated. Furthermore, the program also finds the mean of the _Rating Differential_ and _Letterboxd Rating Count_. These stats are exported as JSON file with the path _f'{user}/{user}\_stats.json'_.
+
+Finally, the _User Rating_ and _Letterboxd Rating_ stats are graphed as kernel density estimate plots, providing the user with a unique and useful visualization of how their movie ratings compare to the Letterboxd ratings. This graph is saved at the path _f'{user}/{user}\_ratings.png'_.
 
 # Setup
 
