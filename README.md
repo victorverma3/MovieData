@@ -11,9 +11,21 @@ comparison. While working, however, I saw the potential to gather more
 information, so I expanded the scope to ultimately create a dataset of key
 metadata about the movies that I have rated on the Letterboxd app. I hope
 to use this dataset one day as the basis for my own personal machine
-learning movie recommendation algorithm that uses Letterboxd data as its basis.
+learning movie recommendation algorithm that uses Letterboxd data as its source.
 
 # Methodology
+
+The program takes a Letterboxd username as its initial input. Based on the username, the program navigates to the user's Letterboxd web profile, and then scrapes all of the movies that the user has rated, as well as the URLs to each movie's individual Letterboxd page. Next, the program visits each page, and scrapes the following movie metadata:
+
+1. Title
+2. User Rating
+3. Letterboxd Rating
+4. Letterboxd Rating Count
+5. Genres
+6. Country of Origin
+7. URL
+
+Additionally, the Rating Differential for each movie is also calculated by (User Rating - Letterboxd Rating).
 
 # Setup
 
