@@ -17,15 +17,15 @@ learning movie recommendation algorithm that uses Letterboxd data as its source.
 
 The program takes a Letterboxd username as its initial input. Based on the username, the program navigates to the user's Letterboxd web profile, and then scrapes all of the movies that the user has rated, as well as the URLs to each movie's individual Letterboxd page. Next, the program visits each page, and scrapes the following movie metadata:
 
-1. Title
-2. User Rating
-3. Letterboxd Rating
-4. Letterboxd Rating Count
-5. Genres
-6. Country of Origin
-7. URL
+1. _Title_
+2. _User Rating_
+3. _Letterboxd Rating_
+4. _Letterboxd Rating Count_
+5. _Genres_
+6. _Country of Origin_
+7. _URL_
 
-Additionally, the Rating Differential for each movie is also calculated by (User Rating - Letterboxd Rating).
+Additionally, the _Rating Differential_ for each movie is also calculated by _User Rating_ - _Letterboxd Rating_. After all of the the metadata is gathered, it is stored in a dictionary. This data is then exported to a CSV file with the path _f./{user}/{user}\_data.csv'_. Any movies with missing data are appended to a list that is exported to a JSON file with the path _f.'{user}/{user}\_errors.json'_.
 
 # Setup
 
@@ -66,14 +66,14 @@ Running moviedata.py creates/updates the directory containing the user's movie d
 
 a) {user}\_data.csv contains the following data points for the movies that a user has rated:
 
-1. Title
-2. User Rating (out of 5)
-3. Letterboxd Rating (out of 5)
-4. Rating Differential (User Rating - Letterboxd Rating)
-5. Letterboxd Rating Count
-6. Genres
-7. Country of Origin
-8. URL (link to movie page on Letterboxd)
+1. _Title_
+2. _User Rating_ (out of 5)
+3. _Letterboxd Rating_ (out of 5)
+4. _Rating Differential_ (User Rating - Letterboxd Rating)
+5. _Letterboxd Rating Count_
+6. _Genres_
+7. _Country of Origin_
+8. _URL_ (link to movie page on Letterboxd)
 
 I've uploaded my own personal movie data, victorverma_data.csv, as an
 example.
