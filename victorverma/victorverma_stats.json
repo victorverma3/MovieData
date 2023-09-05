@@ -1,16 +1,16 @@
 {
     "User Rating": {
-        "Mean": 3.572,
+        "Mean": 3.573,
         "Standard Deviation": 0.755
     },
     "Letterboxd Rating": {
-        "Mean": 3.123,
+        "Mean": 3.124,
         "Standard Deviation": 0.655
     },
     "Rating Differential": {
         "Mean": 0.449
     },
     "Letterboxd Rating Count": {
-        "Mean": 244274.835
+        "Mean": 245189.615
     }
 }
