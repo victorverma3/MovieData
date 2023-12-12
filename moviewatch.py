@@ -3,7 +3,6 @@ import asyncio
 import aiohttp
 from bs4 import BeautifulSoup
 import random
-import time
 
 # Setup
 errors = []
