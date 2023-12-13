@@ -89,7 +89,7 @@ async def movieCrawl(user, session=None):
     await session.close()
 
     finish = time.perf_counter()
-    print(f"\nScraped movie data for {user} in {finish - start} seconds\n")
+    print(f"\nScraped {user}'s movie data in {finish - start} seconds\n")
     print(
         f"The following movies caused errors (likely due to missing data on Letterboxd):\n{errors}\n"
     )
