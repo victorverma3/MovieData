@@ -12,34 +12,36 @@ errors = []
 async def getMovieSuggestion(user, session):
     watchlist = await getWatchlist(user, session)
     print("\nRandomly choosing movie from watchlist...")
+
     suggestion = random.choice(watchlist)
     print(f"\nThe suggested movie is {suggestion} from {user}'s watchlist\n")
 
 
 async def getWatchlist(user, session=None):
-    print("\nScraping random watchlist...")
-    watchlist = []
-    pageNumber = 1  # start scraping from page 1
-
-    # asynchronously gathers the watchlist data
-    while True:
+    async def fetch_watchlist_page(page_number):
         async with session.get(
-            f"https://letterboxd.com/{user}/watchlist/page/{pageNumber}"
+            f"https://letterboxd.com/{user}/watchlist/page/{page_number}"
         ) as page:
             soup = BeautifulSoup(await page.text(), "html.parser")
             movies = soup.select("li.poster-container")
-            if movies == []:  # stops loop on empty page
-                break
-            tasks = [getName(movie) for movie in movies]
-            titles = await asyncio.gather(*tasks)
-            watchlist.extend(titles)
-            pageNumber += 1
+            return [getName(movie) for movie in movies]
 
-    await session.close()
-    if watchlist == []:
+    print("\nScraping random watchlist...")
+    watchlist = []
+    page_number = 1
+
+    while True:
+        titles = await fetch_watchlist_page(page_number)
+        if not titles:  # Stop loop on empty page
+            break
+        watchlist.extend(await asyncio.gather(*titles))
+        page_number += 1
+
+    if not watchlist:
         raise Exception(
-            f"The watchlist for {user} was empty. Please check for typos in the usernames and try again."
+            f"The watchlist for {user} was empty. Please check the username."
         )
+
     return watchlist
 
 
@@ -56,6 +58,7 @@ async def main():
     )
     users = []
     moreUsers = True
+
     while moreUsers:
         username = input("\nEnter Letterboxd username: ")
         users.append(username)
@@ -65,7 +68,9 @@ async def main():
             raise Exception("Input must be Y or N")
         if more == "N":
             moreUsers = False
+
     user = random.choice(users)
+
     async with aiohttp.ClientSession() as session:
         await getMovieSuggestion(user, session)
 
