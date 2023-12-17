@@ -9,12 +9,33 @@ errors = []
 
 
 # Program
-async def getMovieSuggestion(user, session):
-    watchlist = await getWatchlist(user, session)
-    print("\nRandomly choosing movie from watchlist...")
+async def getMovieSuggestion(u, session, overlap):
+    if overlap == "Y":
+        watchlists = []
 
-    suggestion = random.choice(watchlist)
-    print(f"\nThe suggested movie is {suggestion} from {user}'s watchlist\n")
+        async def fetch_watchlist(user):
+            print(f"\nScraping {user}'s watchlist...")
+            watchlist = await getWatchlist(user, session)
+            return watchlist
+
+        tasks = [fetch_watchlist(user) for user in u]
+        watchlists = await asyncio.gather(*tasks)
+
+        print(f"\nFinding movies in common across all watchlists...")
+        common_watchlist = set(watchlists[0]).intersection(*watchlists[1:])
+        if len(common_watchlist) == 0:
+            raise Exception("No movies in common across all watchlists")
+        common_watchlist = list(common_watchlist)
+        print("\nRandomly choosing movie from common watchlist...")
+        suggestion = random.choice(common_watchlist)
+        print(f"\nThe suggested movie is {suggestion}")
+
+    elif overlap == "N":
+        print("\nScraping random watchlist...")
+        watchlist = await getWatchlist(u, session)
+        print("\nRandomly choosing movie...")
+        suggestion = random.choice(watchlist)
+        print(f"\nThe suggested movie is {suggestion} from {u}'s watchlist\n")
 
 
 async def getWatchlist(user, session=None):
@@ -26,7 +47,6 @@ async def getWatchlist(user, session=None):
             movies = soup.select("li.poster-container")
             return [getName(movie) for movie in movies]
 
-    print("\nScraping random watchlist...")
     watchlist = []
     page_number = 1
 
@@ -54,7 +74,7 @@ async def getName(movie):
 
 async def main():
     print(
-        "\nThis program will take a group of Letterboxd usernames as input, and then randomly suggest a movie from any of the watchlists"
+        "\nThis program will take a group of Letterboxd usernames as input, and then randomly suggest a movie from the watchlists"
     )
     users = []
     moreUsers = True
@@ -69,10 +89,19 @@ async def main():
         if more == "N":
             moreUsers = False
 
-    user = random.choice(users)
+    overlap = input(
+        "\nDo you only want to consider movies on all watchlists (Y or N): "
+    )
+    if overlap not in ["Y", "N"]:
+        raise Exception("Input must be Y or N")
 
-    async with aiohttp.ClientSession() as session:
-        await getMovieSuggestion(user, session)
+    if overlap == "Y":
+        async with aiohttp.ClientSession() as session:
+            await getMovieSuggestion(users, session, overlap)
+    elif overlap == "N":
+        user = random.choice(users)
+        async with aiohttp.ClientSession() as session:
+            await getMovieSuggestion(user, session, overlap)
 
 
 asyncio.run(main())
