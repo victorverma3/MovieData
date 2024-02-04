@@ -37,23 +37,14 @@ Finally, the _User Rating_ and _Letterboxd Rating_ stats are graphed as kernel d
 
 # Setup
 
-**Running the Program on a Local Machine**
+**Getting Started**
 
-1. Ensure the following libraries are installed in your Python environment:
+1. Clone the repository to your local machine.
+2. Run `pip install -r ./requirements.txt` in the terminal in the main project directory.
 
-- asyncio
-- aiohttp
-- Beautiful Soup
-- json
-- Matplotlib
-- os
-- pandas
-- seaborn
-- time
-
-2. Copy moviedata.py and moviestats.py into the same local directory.
-
-3. Run moviedata.py and enter your Letterboxd username when prompted.
+**Movie Data and Stats**
+1. Run moviedata.py and enter your Letterboxd username when prompted.
+2. The output files will be created in a folder called `./<username>`, where `<username>` is the Letterboxd username from step 1.
 
 The program should take about n / 10 seconds to complete, where n is the number of movies that the user has rated on Letterboxd.
 
