@@ -13,6 +13,7 @@ async def getMovieSuggestion(u, session, overlap):
     if overlap == "Y":
         watchlists = []
 
+        # asynchronously scrapes the user watchlists
         async def fetch_watchlist(user):
             print(f"\nScraping {user}'s watchlist...")
             watchlist = await getWatchlist(user, session)
@@ -21,6 +22,7 @@ async def getMovieSuggestion(u, session, overlap):
         tasks = [fetch_watchlist(user) for user in u]
         watchlists = await asyncio.gather(*tasks)
 
+        # finds a random movie in common
         print(f"\nFinding movies in common across all watchlists...")
         common_watchlist = set(watchlists[0]).intersection(*watchlists[1:])
         if len(common_watchlist) == 0:
@@ -30,6 +32,7 @@ async def getMovieSuggestion(u, session, overlap):
         suggestion = random.choice(common_watchlist)
         print(f"\nThe suggested movie is {suggestion}")
 
+    # scrapes a random watchlist and chooses a random movie from it
     elif overlap == "N":
         print("\nScraping random watchlist...")
         watchlist = await getWatchlist(u, session)
@@ -68,7 +71,7 @@ async def getWatchlist(user, session=None):
 async def getName(movie):
     if movie == None:
         return None
-    title = movie.div.img.get("alt")
+    title = movie.div.img.get("alt")  # gets movie title
     return title
 
 

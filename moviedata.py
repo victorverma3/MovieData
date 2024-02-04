@@ -126,7 +126,9 @@ async def getLetterboxdData(title, link, session):
         try:
             webData = json.loads(script)
         except:
-            pass
+            print(f"error while scraping {title}")
+            errors.append(title)
+            return
 
     # scrapes relevant Letterboxd data from each page if possible
     data = {}
