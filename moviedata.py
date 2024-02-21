@@ -152,4 +152,5 @@ async def main(user):
     getStats(user)
 
 
-asyncio.run(main(user=input("\nEnter your Letterboxd username: ")))
+if __name__ == "__main__":
+    asyncio.run(main(user=input("\nEnter your Letterboxd username: ")))
