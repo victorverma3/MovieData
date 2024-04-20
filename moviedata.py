@@ -9,6 +9,7 @@ import pandas as pd
 import time
 
 # Setup
+unrated = []
 errors = []
 ratings = {
     "½": 0.5,
@@ -46,7 +47,7 @@ async def movieCrawl(user, session=None):
             movies = soup.select("li.poster-container")
             if movies == []:  # stops loop on empty page
                 break
-            tasks = [getData(movie, session) for movie in movies]
+            tasks = [getData(movie, session, user) for movie in movies]
             await asyncio.gather(*tasks)
             pageNumber += 1
 
@@ -54,8 +55,13 @@ async def movieCrawl(user, session=None):
     if not os.path.exists(user):
         os.makedirs(user)
 
+    # creates a json file in user directory containing the list of movies not rated by the user
+    with open(f"{user}/{user}_unrated.json", "w") as f:
+        unrated.sort()
+        json.dump(unrated, f, indent=4, ensure_ascii=False)
+
     # creates a json file in user directory containing the list of movies causing errors
-    with open(f"{user}/{user}_errors.json", "w") as f:
+    with open(f"{user}/{user}_missing_data.json", "w") as f:
         errors.sort()
         json.dump(errors, f, indent=4, ensure_ascii=False)
 
@@ -90,12 +96,11 @@ async def movieCrawl(user, session=None):
 
     finish = time.perf_counter()
     print(f"\nScraped {user}'s movie data in {finish - start} seconds\n")
-    print(
-        f"The following movies caused errors (likely due to missing data on Letterboxd):\n{errors}\n"
-    )
+    print(f"The following movies were not rated by {user}:\n{unrated}\n")
+    print(f"The following movies were missing data on Letterboxd:\n{errors}\n")
 
 
-async def getData(movie, session):
+async def getData(movie, session, user):
     title = movie.div.img.get("alt")
     print(title)
     link = f'https://letterboxd.com/{movie.div.get("data-target-link")}'
@@ -105,9 +110,13 @@ async def getData(movie, session):
 
     # appends Letterboxd data to movies array
     if LetterboxdData:
-        r = ratings[movie.p.span.text]
+        try:
+            r = ratings[movie.p.span.text]
+        except:
+            print(f"{title} is not rated by {user}")
+            unrated.append(title)
+            return
         lr = LetterboxdData["LR"]
-
         titles.append(title)
         usrratings.append(r)
         lrs.append(lr)
@@ -153,4 +162,4 @@ async def main(user):
 
 
 if __name__ == "__main__":
-    asyncio.run(main(user=input("\nEnter your Letterboxd username: ")))
+    asyncio.run(main(user=input("\nEnter a Letterboxd username: ")))
