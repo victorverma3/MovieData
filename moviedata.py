@@ -90,7 +90,7 @@ async def movieCrawl(user, session=None):
         ],
     )
     path = f"./{user}/{user}_data.csv"
-    df.to_csv(path, index="False")
+    df.to_csv(path, index=False)
 
     await session.close()
 
