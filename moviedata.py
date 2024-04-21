@@ -113,15 +113,16 @@ async def getData(movie, session, user):
     title = movie.div.img.get("alt")
     print(title)
     link = f'https://letterboxd.com/{movie.div.get("data-target-link")}'
-    LetterboxdData = await getLetterboxdData(
-        title, link, session
-    )  # asynchronously gets Letterboxd data for movie
+
+    # asynchronously gets Letterboxd data for movie
+    LetterboxdData = await getLetterboxdData(title, link, session)
 
     # appends Letterboxd data to movies array
     if LetterboxdData:
         try:
             r = ratings[movie.p.span.text]
         except:
+            # appends unrated movies to unrated array
             print(f"{title} is not rated by {user}")
             unrated.append(title)
             return
@@ -146,8 +147,10 @@ async def getLetterboxdData(title, link, session):
         try:
             webData = json.loads(script)
         except:
+            # appends movies causing error to errors array
             print(f"error while scraping {title}")
             errors.append(title)
+
             return
 
     # scrapes relevant Letterboxd data from each page if possible
@@ -164,8 +167,10 @@ async def getLetterboxdData(title, link, session):
         data["G"] = webData["genre"]  # genres
         data["COO"] = webData["countryOfOrigin"][0]["name"]  # country of origin
     except:
+        # appends movies with incomplete data to errors array
         print(f"{title} is missing data")
-        errors.append(title)  # appends movies with incomplete data to errors array
+        errors.append(title)
+
         return
     return data
 

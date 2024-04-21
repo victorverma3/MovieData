@@ -38,6 +38,7 @@ def getStats(user):
 def visualizeData(user, userData):
     sns.set_theme()
 
+    # plots the kde overlay of user rating and Letterboxd rating
     ax = sns.kdeplot(
         data=[userData["User Rating"], userData["Letterboxd Rating"]], cut=0
     )
