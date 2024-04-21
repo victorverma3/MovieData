@@ -9,7 +9,5 @@
 /pbreck
 /rohankumar
 /tmarro13
-processdata.ipynb
-processdata.py
+movierec.ipynb
 processed_data.csv
-test.py
