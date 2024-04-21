@@ -97,6 +97,7 @@ async def movieCrawl(user, session=None):
         ],
     )
     path = f"./{user}/{user}_data.csv"
+    df.sort_values(by="Title", ascending=True, inplace=True)
     df.to_csv(path, index=False)
 
     await session.close()
