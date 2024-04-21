@@ -24,6 +24,7 @@ ratings = {
     "★★★★★": 5,
 }
 titles = []
+years = []
 usrratings = []
 lrs = []
 ratingdiffs = []
@@ -68,6 +69,7 @@ async def movieCrawl(user, session=None):
     # creates a csv in user directory containing the movie data
     movies = {
         "Title": titles,
+        "Release Year": years,
         "User Rating": usrratings,
         "Letterboxd Rating": lrs,
         "Rating Differential": ratingdiffs,
@@ -80,6 +82,7 @@ async def movieCrawl(user, session=None):
         movies,
         columns=[
             "Title",
+            "Release Year",
             "User Rating",
             "Letterboxd Rating",
             "Rating Differential",
@@ -118,6 +121,7 @@ async def getData(movie, session, user):
             return
         lr = LetterboxdData["LR"]
         titles.append(title)
+        years.append(LetterboxdData["YR"])
         usrratings.append(r)
         lrs.append(lr)
         ratingdiffs.append(round(r - lr, 3))
@@ -142,6 +146,7 @@ async def getLetterboxdData(title, link, session):
     # scrapes relevant Letterboxd data from each page if possible
     data = {}
     try:
+        data["YR"] = int(webData["releasedEvent"][0]["startDate"])
         data["LR"] = webData["aggregateRating"]["ratingValue"]  # Letterboxd rating
         data["LRC"] = webData["aggregateRating"][
             "ratingCount"
