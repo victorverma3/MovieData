@@ -2,10 +2,11 @@
 import asyncio
 import aiohttp
 from bs4 import BeautifulSoup
-from moviestats import getStats
 import json
+from moviestats import getStats
 import os
 import pandas as pd
+import re
 import time
 
 # Setup
@@ -25,6 +26,7 @@ ratings = {
 }
 titles = []
 years = []
+runtimes = []
 usrratings = []
 lrs = []
 ratingdiffs = []
@@ -70,6 +72,7 @@ async def movieCrawl(user, session=None):
     movies = {
         "Title": titles,
         "Release Year": years,
+        "Runtime": runtimes,
         "User Rating": usrratings,
         "Letterboxd Rating": lrs,
         "Rating Differential": ratingdiffs,
@@ -83,6 +86,7 @@ async def movieCrawl(user, session=None):
         columns=[
             "Title",
             "Release Year",
+            "Runtime",
             "User Rating",
             "Letterboxd Rating",
             "Rating Differential",
@@ -122,6 +126,7 @@ async def getData(movie, session, user):
         lr = LetterboxdData["LR"]
         titles.append(title)
         years.append(LetterboxdData["YR"])
+        runtimes.append(LetterboxdData["RT"])
         usrratings.append(r)
         lrs.append(lr)
         ratingdiffs.append(round(r - lr, 3))
@@ -147,6 +152,9 @@ async def getLetterboxdData(title, link, session):
     data = {}
     try:
         data["YR"] = int(webData["releasedEvent"][0]["startDate"])
+        data["RT"] = re.search(
+            r"(\d+)\s+mins", soup.find("p", {"class": "text-footer"}).text
+        ).group(1)
         data["LR"] = webData["aggregateRating"]["ratingValue"]  # Letterboxd rating
         data["LRC"] = webData["aggregateRating"][
             "ratingCount"
