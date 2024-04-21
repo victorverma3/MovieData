@@ -1,4 +1,5 @@
 # Imports
+import ast
 import asyncio
 import aiohttp
 from bs4 import BeautifulSoup
@@ -169,11 +170,18 @@ async def getLetterboxdData(title, link, session):
     return data
 
 
-async def main(user):
-    async with aiohttp.ClientSession() as session:
-        await movieCrawl(user, session)
-    getStats(user)
+async def main(users):
+    for user in users:
+        async with aiohttp.ClientSession() as session:
+            await movieCrawl(user, session)
+        getStats(user)
 
 
 if __name__ == "__main__":
-    asyncio.run(main(user=input("\nEnter a Letterboxd username: ")))
+    users = []
+    while True:
+        users.append(str(input("\nEnter a Letterboxd username: ")))
+        moreUsers = str(input("\nAre there more users to scrape (y or n): "))
+        if moreUsers == "n":
+            break
+    asyncio.run(main(users))
