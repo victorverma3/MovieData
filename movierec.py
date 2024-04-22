@@ -42,25 +42,26 @@ def train_model(user_df, verbose=False):
     # fits recommendation model on user training data
     model.fit(X_train, y_train)
 
+    # calculates mse on test data
+    y_pred_test = model.predict(X_test)
+    mse_test = mean_squared_error(y_test, y_pred_test)
+
+    # calculates mse on validation data
+    y_pred_val = model.predict(X_val)
+    mse_val = mean_squared_error(y_val, y_pred_val)
+
+    results_df = pd.DataFrame(
+        {"actual_user_rating": y_val, "predicted_user_rating": y_pred_val.flatten()}
+    )
+
     # prints accuracy evaluation values
     if verbose:
         print("Mean Squared Error with 5-fold Cross Validation:", mse_cv)
-
-        y_pred_test = model.predict(X_test)
-        mse_test = mean_squared_error(y_test, y_pred_test)
         print("Mean Squared Error on Test Set:", mse_test)
-
-        y_pred_val = model.predict(X_val)
-        mse_val = mean_squared_error(y_val, y_pred_val)
         print("Mean Squared Error on Validation Set:", mse_val)
-
-        results_df = pd.DataFrame(
-            {"actual_user_rating": y_val, "predicted_user_rating": y_pred_val.flatten()}
-        )
-
         print(results_df)
 
-    return model
+    return model, mse_cv, mse_test, mse_val
 
 
 # Recommendations
@@ -92,7 +93,7 @@ async def recommend_n_movies(user, n, update):
                 user_df = await movie_crawl(user, session)
 
     # trains recommendation model on processed user data
-    model = train_model(user_df)
+    model, _, _, _ = train_model(user_df)
     print(f"\ncreated recommendation model")
 
     # creates df containing all movie data besides the user's
