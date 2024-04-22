@@ -38,7 +38,3 @@ def delete_data(user):
     with sqlite3.connect("letterboxd_data.db") as conn:
         cursor = conn.cursor()
         cursor.execute(f"DROP TABLE IF EXISTS {user}")
-
-
-if __name__ == "__main__":
-    delete_data("test")
