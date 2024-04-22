@@ -3,7 +3,7 @@ import pandas as pd
 import sqlite3
 
 
-# SQLite Database Operations
+# stores a user's data in the database
 def store_data(data_dictionary):
 
     with sqlite3.connect("letterboxd_data.db") as conn:
@@ -11,7 +11,7 @@ def store_data(data_dictionary):
             data_dictionary[user].to_sql(user, conn, if_exists="replace", index=False)
 
 
-# gets the specified user's data from the database
+# gets a user's data from the database
 def get_user_data(user):
     query = f"SELECT * FROM {user}"
     with sqlite3.connect("letterboxd_data.db") as conn:
