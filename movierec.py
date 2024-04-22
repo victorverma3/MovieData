@@ -138,9 +138,7 @@ if __name__ == "__main__":
         raise ValueError(
             "number of recommendations must be an integer between 1 and 100"
         )
-    update = str(
-        input(f"\nDo you wish to update your stored Letterboxd data (y or n): ")
-    )
+    update = str(input(f"\nDo you want to use your latest data (y or n): "))
     if update not in ["y", "n"]:
         raise ValueError("input must be y or n")
     asyncio.run(main(user, n, update))
