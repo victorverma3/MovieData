@@ -2,7 +2,7 @@
 import aiohttp
 import asyncio
 from bs4 import BeautifulSoup
-from database import store_data
+import database
 import json
 from moviestats import getStats
 import os
@@ -108,7 +108,7 @@ async def movieCrawl(user, session=None):
 
     # update user data in database
     processed_df = process(df, source="db")
-    store_data({user: processed_df})
+    database.store_data({user: processed_df})
     print(f"\nupdated user data in database")
 
     await session.close()
