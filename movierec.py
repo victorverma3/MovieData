@@ -1,96 +1,13 @@
 # Imports
-import ast
+import aiohttp
+import asyncio
+import database
+from moviedata import movieCrawl
 import numpy as np
 import pandas as pd
 from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import cross_val_score, KFold, train_test_split
 from xgboost import XGBRegressor
-
-
-# Data Processing
-def create_genre_columns(row):
-    # performs one-hot encoding for genres
-    genres = [
-        genre.lower().replace(" ", "_") for genre in ast.literal_eval(row["genres"])
-    ]
-    genre_options = [
-        "action",
-        "adventure",
-        "animation",
-        "comedy",
-        "crime",
-        "documentary",
-        "drama",
-        "family",
-        "fantasy",
-        "history",
-        "horror",
-        "music",
-        "mystery",
-        "romance",
-        "science_fiction",
-        "tv_movie",
-        "thriller",
-        "war",
-        "western",
-    ]
-
-    for genre in genre_options:
-        row[f"is_{genre}"] = 1 if genre in genres else 0
-
-    return row
-
-
-def assign_countries(row):
-    # maps countries to numerical values
-    country_map = {
-        "USA": 0,
-        "UK": 1,
-        "China": 2,
-        "France": 3,
-        "Japan": 4,
-        "Germany": 5,
-        "South Korea": 6,
-        "Canada": 7,
-        "India": 8,
-        "Austrailia": 9,
-        "Hong Kong": 10,
-        "Italy": 11,
-        "Spain": 12,
-        "Brazil": 13,
-    }
-
-    row["country_of_origin"] = (
-        country_map[row["country_of_origin"]]
-        if row["country_of_origin"] in country_map
-        else len(country_map)
-    )
-
-    return row
-
-
-def process(data):
-    df = pd.read_csv(data)
-
-    # renames all features for consistency
-    df.rename(
-        columns={column: column.lower().replace(" ", "_") for column in df.columns},
-        inplace=True,
-    )
-
-    # creates boolean features for each genre
-    df = df.apply(create_genre_columns, axis=1)
-
-    # maps popular countries to numerical values
-    df = df.apply(assign_countries, axis=1)
-
-    # drops unnecessary features
-    df.drop(
-        columns=["rating_differential", "genres", "url"],
-        inplace=True,
-    )
-
-    return df
 
 
 # Model Training
@@ -147,29 +64,32 @@ def train_model(user_df, verbose=False):
 
 
 # Recommendations
-def recommend_n_movies(user, n):
+async def recommend_n_movies(user, n, update):
+    # verifies parameters
+    if n < 1 or n > 100:
+        raise ValueError(
+            "number of recommendations must be an integer between 1 and 100"
+        )
+    if update not in ["y", "n"]:
+        raise ValueError("input must be y or n")
 
-    # defines people for whom there is data
-    possible_users = [
-        "chels33",
-        "harryzielinski",
-        "hgrosse",
-        "jconn8",
-        "juliamassey",
-        "obiravioli",
-        "pbreck",
-        "rohankumar",
-        "tmarro13",
-        "victorverma",
-    ]
+    # get a list of users with data in the database
+    all_users = database.get_users_in_db()
 
-    # defines other people (all those besides the user)
-    other_users = [u for u in possible_users if u != user]
+    # defines other users (all those besides the current user)
+    other_users = [u for u in all_users if u != user]
 
-    # processes the user data
-    data = f"./{user}/{user}_data.csv"
-    user_df = process(data)
-    print(f"\nprocessed user data")
+    # gets the user data
+    if update == "y":
+        async with aiohttp.ClientSession() as session:
+            user_df = await movieCrawl(user, session)
+    elif update == "n":
+        try:
+            user_df = database.get_user_data(user)
+        except ValueError:
+            print(f"\nuser data does not exist - crawling Letterboxd...\n")
+            async with aiohttp.ClientSession() as session:
+                user_df = await movieCrawl(user, session)
 
     # trains recommendation model on processed user data
     model = train_model(user_df)
@@ -178,7 +98,7 @@ def recommend_n_movies(user, n):
     # creates df containing all movie data besides the user's
     other_dfs = []
     for u in other_users:
-        other_dfs.append(process(f"./{u}/{u}_data.csv"))
+        other_dfs.append(database.get_user_data(u))
     other_dfs_combined = pd.concat(other_dfs, ignore_index=True)
 
     # finds movies not seen by the user
@@ -203,11 +123,24 @@ def recommend_n_movies(user, n):
     return recommendations.iloc[:n]
 
 
+async def main(user, n, update):
+    recommendations = await recommend_n_movies(user, n, update)
+    print(
+        f"\nRecommendations:\n",
+        recommendations.to_string(index=False),
+    )
+
+
 if __name__ == "__main__":
     user = str(input(f"\nEnter a Letterboxd username: "))
     n = int(input(f"\nEnter the number of recommendations: "))
-    if n < 1:
-        raise Exception("number of recommendations must be an integer greater than 0")
-    elif n > 100:
-        raise Exception("number of recommendations cannot exceed 100")
-    print(f"\nRecommendations:\n", recommend_n_movies(user, n).to_string(index=False))
+    if n < 1 or n > 100:
+        raise ValueError(
+            "number of recommendations must be an integer between 1 and 100"
+        )
+    update = str(
+        input(f"\nDo you wish to update your stored Letterboxd data (y or n): ")
+    )
+    if update not in ["y", "n"]:
+        raise ValueError("input must be y or n")
+    asyncio.run(main(user, n, update))
