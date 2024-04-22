@@ -237,6 +237,7 @@ def assign_countries(row):
         "Italy": 11,
         "Spain": 12,
         "Brazil": 13,
+        "USSR": 14,
     }
 
     row["country_of_origin"] = (
