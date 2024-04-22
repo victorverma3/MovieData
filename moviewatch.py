@@ -1,6 +1,6 @@
 # Imports
-import asyncio
 import aiohttp
+import asyncio
 from bs4 import BeautifulSoup
 from itertools import chain
 import random
@@ -102,7 +102,7 @@ async def main():
         print(f"\nUsers currently in consideration: {users}")
         more = input("\nAre there more users to consider (y or n): ")
         if more not in ["y", "n"]:
-            raise Exception("Input must be y or n")
+            raise ValueError("Input must be y or n")
         if more == "n":
             moreUsers = False
 
@@ -110,11 +110,11 @@ async def main():
         "\nDo you only want to consider movies on all watchlists (y or n): "
     )
     if overlap not in ["y", "n"]:
-        raise Exception("Input must be y or n")
+        raise ValueError("Input must be y or n")
 
     num_suggestions = int(input("\nHow many suggestions do you want: "))
     if num_suggestions < 1:
-        raise Exception("Input must be greater than 0")
+        raise ValueError("Input must be greater than 0")
 
     if overlap == "y":
         async with aiohttp.ClientSession() as session:
