@@ -2,7 +2,7 @@
 import aiohttp
 import asyncio
 import database
-from moviedata import movieCrawl
+from moviedata import movie_crawl
 import numpy as np
 import pandas as pd
 from sklearn.metrics import mean_squared_error
@@ -82,14 +82,14 @@ async def recommend_n_movies(user, n, update):
     # gets the user data
     if update == "y":
         async with aiohttp.ClientSession() as session:
-            user_df = await movieCrawl(user, session)
+            user_df = await movie_crawl(user, session)
     elif update == "n":
         try:
             user_df = database.get_user_data(user)
         except ValueError:
             print(f"\nuser data does not exist - crawling Letterboxd...\n")
             async with aiohttp.ClientSession() as session:
-                user_df = await movieCrawl(user, session)
+                user_df = await movie_crawl(user, session)
 
     # trains recommendation model on processed user data
     model = train_model(user_df)

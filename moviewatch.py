@@ -10,12 +10,12 @@ errors = []
 
 
 # Program
-async def getMovieSuggestion(u, session, overlap, num_suggestions):
+async def get_movie_suggestion(u, session, overlap, num_suggestions):
 
     # asynchronously scrapes the user watchlists
     async def fetch_watchlist(user):
         print(f"\nScraping {user}'s watchlist...")
-        watchlist = await getWatchlist(user, session)
+        watchlist = await get_watchlist(user, session)
         return watchlist
 
     watchlists = []
@@ -55,14 +55,14 @@ async def getMovieSuggestion(u, session, overlap, num_suggestions):
         print(f"\nThe {num_suggestions} suggested movies are {suggestions}")
 
 
-async def getWatchlist(user, session=None):
+async def get_watchlist(user, session=None):
     async def fetch_watchlist_page(page_number):
         async with session.get(
             f"https://letterboxd.com/{user}/watchlist/page/{page_number}"
         ) as page:
             soup = BeautifulSoup(await page.text(), "html.parser")
             movies = soup.select("li.poster-container")
-            return [getName(movie) for movie in movies]
+            return [get_name(movie) for movie in movies]
 
     watchlist = []
     page_number = 1
@@ -82,7 +82,7 @@ async def getWatchlist(user, session=None):
     return watchlist
 
 
-async def getName(movie):
+async def get_name(movie):
     if not movie:
         return None
     title = movie.div.img.get("alt")  # gets movie title
@@ -118,10 +118,10 @@ async def main():
 
     if overlap == "y":
         async with aiohttp.ClientSession() as session:
-            await getMovieSuggestion(users, session, overlap, num_suggestions)
+            await get_movie_suggestion(users, session, overlap, num_suggestions)
     elif overlap == "n":
         async with aiohttp.ClientSession() as session:
-            await getMovieSuggestion(users, session, overlap, num_suggestions)
+            await get_movie_suggestion(users, session, overlap, num_suggestions)
 
 
 if __name__ == "__main__":

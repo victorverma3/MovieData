@@ -4,7 +4,7 @@ import asyncio
 from bs4 import BeautifulSoup
 import database
 import json
-from moviestats import getStats
+from moviestats import get_stats
 import os
 import pandas as pd
 import re
@@ -38,7 +38,7 @@ urls = []
 
 
 # Program
-async def movieCrawl(user, session=None):
+async def movie_crawl(user, session=None):
     start = time.perf_counter()
     pageNumber = 1  # start scraping from page 1
 
@@ -51,7 +51,7 @@ async def movieCrawl(user, session=None):
             movies = soup.select("li.poster-container")
             if movies == []:  # stops loop on empty page
                 break
-            tasks = [getData(movie, session, user) for movie in movies]
+            tasks = [get_data(movie, session, user) for movie in movies]
             await asyncio.gather(*tasks)
             pageNumber += 1
 
@@ -121,13 +121,13 @@ async def movieCrawl(user, session=None):
     return processed_df
 
 
-async def getData(movie, session, user):
+async def get_data(movie, session, user):
     title = movie.div.img.get("alt")
     print(title)
     link = f'https://letterboxd.com/{movie.div.get("data-target-link")}'
 
     # asynchronously gets Letterboxd data for movie
-    LetterboxdData = await getLetterboxdData(title, link, session)
+    LetterboxdData = await get_letterboxd_data(title, link, session)
 
     # appends Letterboxd data to movies array
     if LetterboxdData:
@@ -151,7 +151,7 @@ async def getData(movie, session, user):
         urls.append(link)
 
 
-async def getLetterboxdData(title, link, session):
+async def get_letterboxd_data(title, link, session):
     async with session.get(link) as page:
         soup = BeautifulSoup(await page.text(), "html.parser")
         script = str(soup.find("script", {"type": "application/ld+json"}))
@@ -278,8 +278,8 @@ def process(data, source):
 
 async def main(user):
     async with aiohttp.ClientSession() as session:
-        await movieCrawl(user, session)
-    getStats(user)
+        await movie_crawl(user, session)
+    get_stats(user)
 
 
 if __name__ == "__main__":

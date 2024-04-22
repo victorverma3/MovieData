@@ -6,7 +6,7 @@ import seaborn as sns
 
 
 # Program
-def getStats(user):
+def get_stats(user):
     with open(f"{user}/{user}_data.csv") as path:
         userData = pd.read_csv(
             path, index_col=0, encoding="latin-1", encoding_errors="ignore"
@@ -32,10 +32,10 @@ def getStats(user):
     with open(f"{user}/{user}_stats.json", "w") as f:
         json.dump(userStats, f, indent=4, ensure_ascii=False)
 
-    visualizeData(user, userData)
+    visualize_data(user, userData)
 
 
-def visualizeData(user, userData):
+def visualize_data(user, userData):
     sns.set_theme()
 
     # plots the kde overlay of user rating and Letterboxd rating
