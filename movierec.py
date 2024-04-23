@@ -5,6 +5,7 @@ import database
 from moviedata import movie_crawl
 import numpy as np
 import pandas as pd
+from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import cross_val_score, KFold, train_test_split
 from xgboost import XGBRegressor
@@ -29,8 +30,9 @@ def train_model(user_df, verbose=False):
         X_test, y_test, test_size=0.5, random_state=0
     )
 
-    # initializes XGBoost model
-    model = XGBRegressor(enable_categorical=True)
+    # initializes model
+    # model = XGBRegressor(enable_categorical=True)
+    model = RandomForestRegressor()
 
     # performs k-fold cross-validation
     kf = KFold(n_splits=5, shuffle=True, random_state=0)
