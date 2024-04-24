@@ -12,7 +12,7 @@ from xgboost import XGBRegressor
 
 
 # Model Training
-def train_model(user_df, verbose=False):
+def train_model(user_df, modelType="RF", verbose=False):
 
     # creates user feature data
     X = user_df.drop(columns=["title", "user_rating"])
@@ -31,8 +31,14 @@ def train_model(user_df, verbose=False):
     )
 
     # initializes model
-    # model = XGBRegressor(enable_categorical=True)
-    model = RandomForestRegressor()
+    if modelType == "XG":
+        model = XGBRegressor(
+            enable_categorical=True, n_estimators=200, max_depth=3, learning_rate=0.05
+        )
+    elif modelType == "RF":
+        model = RandomForestRegressor(
+            random_state=0, max_depth=20, min_samples_split=10, n_estimators=100
+        )
 
     # performs k-fold cross-validation
     kf = KFold(n_splits=5, shuffle=True, random_state=0)
