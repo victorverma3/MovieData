@@ -10,6 +10,11 @@
 /pbreck
 /rohankumar
 /tmarro13
+data.db
 local.py
 movierec.ipynb
 processed_data.csv
+scrape_movie_data.py
+scrape_user_ratings.py
+test.db
+users.db

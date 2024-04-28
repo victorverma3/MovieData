@@ -86,7 +86,7 @@ async def recommend_n_movies(user, n, update):
     all_users = database.get_users_in_db()
 
     # defines other users (all those besides the current user)
-    other_users = [u for u in all_users if u != user]
+    other_users = [u for u in all_users if u != user and u != "film_urls"]
 
     # gets the user data
     if update == "y":
